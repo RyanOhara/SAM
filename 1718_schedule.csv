@@ -1,0 +1,1233 @@
+Date,Start,Game,Visitor,Visitor Rest,Home,Home Rest
+10/17/2017,8:00 PM,1,Boston Celtics,Neutral,Cleveland Cavaliers,Neutral
+10/17/2017,10:30 PM,2,Houston Rockets,Neutral,Golden State Warriors,Neutral
+10/18/2017,7:00 PM,1,Miami Heat,Neutral,Orlando Magic,Neutral
+10/18/2017,7:00 PM,2,Charlotte Hornets,Neutral,Detroit Pistons,Neutral
+10/18/2017,7:00 PM,3,Brooklyn Nets,Neutral,Indiana Pacers,Neutral
+10/18/2017,7:00 PM,4,Philadelphia 76ers,Neutral,Washington Wizards,Neutral
+10/18/2017,7:30 PM,5,Milwaukee Bucks,Neutral,Boston Celtics,Back to Back
+10/18/2017,8:00 PM,6,New Orleans Pelicans,Neutral,Memphis Grizzlies,Neutral
+10/18/2017,8:30 PM,7,Atlanta Hawks,Neutral,Dallas Mavericks,Neutral
+10/18/2017,9:00 PM,8,Denver Nuggets,Neutral,Utah Jazz,Neutral
+10/18/2017,9:30 PM,9,Minnesota Timberwolves,Neutral,San Antonio Spurs,Neutral
+10/18/2017,10:00 PM,10,Portland Trail Blazers,Neutral,Phoenix Suns,Neutral
+10/18/2017,10:00 PM,11,Houston Rockets,Back to Back,Sacramento Kings,Neutral
+10/19/2017,7:30 PM,12,Chicago Bulls,Neutral,Toronto Raptors,Neutral
+10/19/2017,8:00 PM,13,New York Knicks,Neutral,Oklahoma City Thunder,Neutral
+10/19/2017,10:30 PM,14,Los Angeles Clippers,Neutral,Los Angeles Lakers,Neutral
+10/20/2017,7:00 PM,1,Boston Celtics,"3 in 4 Days, no B2B",Philadelphia 76ers,1 Day
+10/20/2017,7:00 PM,2,Cleveland Cavaliers,2 Days,Milwaukee Bucks,1 Day
+10/20/2017,7:00 PM,3,Atlanta Hawks,1 Day,Charlotte Hornets,1 Day
+10/20/2017,7:00 PM,4,Portland Trail Blazers,1 Day,Indiana Pacers,1 Day
+10/20/2017,7:00 PM,5,Detroit Pistons,1 Day,Washington Wizards,1 Day
+10/20/2017,7:30 PM,6,Orlando Magic,1 Day,Brooklyn Nets,1 Day
+10/20/2017,8:00 PM,7,Utah Jazz,1 Day,Minnesota Timberwolves,1 Day
+10/20/2017,8:30 PM,8,Sacramento Kings,1 Day,Dallas Mavericks,1 Day
+10/20/2017,9:30 PM,9,Golden State Warriors,2 Days,New Orleans Pelicans,1 Day
+10/20/2017,10:00 PM,10,Los Angeles Lakers,Back to Back,Phoenix Suns,1 Day
+10/21/2017,7:30 PM,1,Philadelphia 76ers,3 in 4 Days w/ B2B,Toronto Raptors,1 Day
+10/21/2017,8:00 PM,2,Detroit Pistons,3 in 4 Days w/ B2B,New York Knicks,1 Day
+10/21/2017,8:00 PM,3,San Antonio Spurs,2 Days,Chicago Bulls,1 Day
+10/21/2017,8:00 PM,4,Dallas Mavericks,3 in 4 Days w/ B2B,Houston Rockets,2 Days
+10/21/2017,8:00 PM,5,Indiana Pacers,3 in 4 Days w/ B2B,Miami Heat,2 Days
+10/21/2017,8:00 PM,6,Golden State Warriors,Back to Back,Memphis Grizzlies,2 Days
+10/21/2017,8:00 PM,7,Orlando Magic,3 in 4 Days w/ B2B,Cleveland Cavaliers,Back to Back
+10/21/2017,8:30 PM,8,Portland Trail Blazers,3 in 4 Days w/ B2B,Milwaukee Bucks,3 in 4 Days w/ B2B
+10/21/2017,9:00 PM,9,Sacramento Kings,3 in 4 Days w/ B2B,Denver Nuggets,2 Days
+10/21/2017,9:00 PM,10,Oklahoma City Thunder,1 Day,Utah Jazz,3 in 4 Days w/ B2B
+10/21/2017,10:30 PM,11,Phoenix Suns,3 in 4 Days w/ B2B,Los Angeles Clippers,1 Day
+10/22/2017,3:30 PM,12,Atlanta Hawks,1 Day,Brooklyn Nets,1 Day
+10/22/2017,7:00 PM,13,Minnesota Timberwolves,1 Day,Oklahoma City Thunder,3 in 4 Days w/ B2B
+10/22/2017,9:30 PM,14,New Orleans Pelicans,1 Day,Los Angeles Lakers,"3 in 4 Days, no B2B"
+10/23/2017,7:00 PM,1,Philadelphia 76ers,"3 in 4 Days, no B2B",Detroit Pistons,"3 in 4 Days, no B2B"
+10/23/2017,7:30 PM,2,Atlanta Hawks,3 in 4 Days w/ B2B,Miami Heat,1 Day
+10/23/2017,8:00 PM,3,Memphis Grizzlies,1 Day,Houston Rockets,1 Day
+10/23/2017,8:00 PM,4,Charlotte Hornets,2 Days,Milwaukee Bucks,"3 in 4 Days, no B2B"
+10/23/2017,8:30 PM,5,Golden State Warriors,"3 in 4 Days, no B2B",Dallas Mavericks,"3 in 4 Days, no B2B"
+10/23/2017,8:30 PM,6,Toronto Raptors,1 Day,San Antonio Spurs,1 Day
+10/23/2017,9:00 PM,7,Washington Wizards,2 Days,Denver Nuggets,1 Day
+10/23/2017,10:00 PM,8,Sacramento Kings,"3 in 4 Days, no B2B",Phoenix Suns,"3 in 4 Days, no B2B"
+10/24/2017,7:00 PM,1,Brooklyn Nets,1 Day,Orlando Magic,2 Days
+10/24/2017,7:00 PM,2,Chicago Bulls,2 Days,Cleveland Cavaliers,2 Days
+10/24/2017,7:30 PM,3,New York Knicks,2 Days,Boston Celtics,3-4 Days
+10/24/2017,8:00 PM,4,Indiana Pacers,2 Days,Minnesota Timberwolves,1 Day
+10/24/2017,10:00 PM,5,New Orleans Pelicans,1 Day,Portland Trail Blazers,2 Days
+10/24/2017,10:30 PM,6,Utah Jazz,2 Days,Los Angeles Clippers,2 Days
+10/25/2017,7:00 PM,1,Minnesota Timberwolves,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+10/25/2017,7:00 PM,2,Denver Nuggets,1 Day,Charlotte Hornets,1 Day
+10/25/2017,7:00 PM,3,Houston Rockets,1 Day,Philadelphia 76ers,1 Day
+10/25/2017,7:30 PM,4,Cleveland Cavaliers,Back to Back,Brooklyn Nets,3 in 4 Days w/ B2B
+10/25/2017,8:00 PM,5,San Antonio Spurs,1 Day,Miami Heat,1 Day
+10/25/2017,8:00 PM,6,Indiana Pacers,Back to Back,Oklahoma City Thunder,2 Days
+10/25/2017,8:30 PM,7,Memphis Grizzlies,1 Day,Dallas Mavericks,1 Day
+10/25/2017,10:00 PM,8,Utah Jazz,Back to Back,Phoenix Suns,1 Day
+10/25/2017,10:30 PM,9,Washington Wizards,1 Day,Los Angeles Lakers,2 Days
+10/25/2017,10:30 PM,10,Toronto Raptors,1 Day,Golden State Warriors,1 Day
+10/26/2017,8:00 PM,1,Atlanta Hawks,2 Days,Chicago Bulls,1 Day
+10/26/2017,8:00 PM,2,Dallas Mavericks,3 in 4 Days w/ B2B,Memphis Grizzlies,3 in 4 Days w/ B2B
+10/26/2017,8:00 PM,3,Boston Celtics,1 Day,Milwaukee Bucks,2 Days
+10/26/2017,10:00 PM,4,Los Angeles Clippers,1 Day,Portland Trail Blazers,1 Day
+10/26/2017,10:30 PM,5,New Orleans Pelicans,1 Day,Sacramento Kings,2 Days
+10/27/2017,7:00 PM,1,San Antonio Spurs,1 Day,Orlando Magic,2 Days
+10/27/2017,7:00 PM,2,Houston Rockets,1 Day,Charlotte Hornets,1 Day
+10/27/2017,7:30 PM,3,Brooklyn Nets,"3 in 4 Days, no B2B",New York Knicks,2 Days
+10/27/2017,7:30 PM,4,Denver Nuggets,1 Day,Atlanta Hawks,Back to Back
+10/27/2017,8:00 PM,5,Oklahoma City Thunder,1 Day,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+10/27/2017,10:30 PM,6,Washington Wizards,1 Day,Golden State Warriors,1 Day
+10/27/2017,10:30 PM,7,Toronto Raptors,1 Day,Los Angeles Lakers,1 Day
+10/28/2017,7:00 PM,1,Cleveland Cavaliers,2 Days,New Orleans Pelicans,1 Day
+10/28/2017,8:00 PM,2,Boston Celtics,1 Day,Miami Heat,2 Days
+10/28/2017,8:00 PM,3,Oklahoma City Thunder,3 in 4 Days w/ B2B,Chicago Bulls,1 Day
+10/28/2017,8:00 PM,4,Houston Rockets,3 in 4 Days w/ B2B,Memphis Grizzlies,"3 in 4 Days, no B2B"
+10/28/2017,8:30 PM,5,Philadelphia 76ers,2 Days,Dallas Mavericks,"3 in 4 Days, no B2B"
+10/28/2017,9:00 PM,6,Los Angeles Lakers,3 in 4 Days w/ B2B,Utah Jazz,2 Days
+10/28/2017,10:00 PM,7,Phoenix Suns,2 Days,Portland Trail Blazers,1 Day
+10/28/2017,10:30 PM,8,Detroit Pistons,2 Days,Los Angeles Clippers,1 Day
+10/29/2017,3:30 PM,1,Milwaukee Bucks,2 Days,Atlanta Hawks,"3 in 4 Days, no B2B"
+10/29/2017,4:30 PM,2,San Antonio Spurs,1 Day,Indiana Pacers,3-4 Days
+10/29/2017,6:00 PM,3,Washington Wizards,1 Day,Sacramento Kings,2 Days
+10/29/2017,6:00 PM,4,Orlando Magic,1 Day,Charlotte Hornets,1 Day
+10/29/2017,6:00 PM,5,Denver Nuggets,1 Day,Brooklyn Nets,1 Day
+10/29/2017,7:00 PM,6,New York Knicks,1 Day,Cleveland Cavaliers,Back to Back
+10/29/2017,8:30 PM,7,Detroit Pistons,Back to Back,Golden State Warriors,1 Day
+10/30/2017,7:30 PM,1,Minnesota Timberwolves,2 Days,Miami Heat,1 Day
+10/30/2017,7:30 PM,2,Denver Nuggets,3 in 4 Days w/ B2B,New York Knicks,3 in 4 Days w/ B2B
+10/30/2017,7:30 PM,3,San Antonio Spurs,3 in 4 Days w/ B2B,Boston Celtics,1 Day
+10/30/2017,8:00 PM,4,Philadelphia 76ers,1 Day,Houston Rockets,"3 in 4 Days, no B2B"
+10/30/2017,8:00 PM,5,Orlando Magic,3 in 4 Days w/ B2B,New Orleans Pelicans,1 Day
+10/30/2017,8:00 PM,6,Charlotte Hornets,3 in 4 Days w/ B2B,Memphis Grizzlies,1 Day
+10/30/2017,9:00 PM,7,Dallas Mavericks,1 Day,Utah Jazz,1 Day
+10/30/2017,10:00 PM,8,Toronto Raptors,2 Days,Portland Trail Blazers,1 Day
+10/30/2017,10:30 PM,9,Golden State Warriors,3 in 4 Days w/ B2B,Los Angeles Clippers,1 Day
+10/31/2017,7:00 PM,1,Sacramento Kings,1 Day,Indiana Pacers,1 Day
+10/31/2017,7:30 PM,2,Phoenix Suns,2 Days,Brooklyn Nets,1 Day
+10/31/2017,8:00 PM,3,Oklahoma City Thunder,2 Days,Milwaukee Bucks,1 Day
+10/31/2017,10:30 PM,4,Detroit Pistons,"3 in 4 Days, no B2B",Los Angeles Lakers,2 Days
+11/1/2017,7:00 PM,1,Phoenix Suns,Back to Back,Washington Wizards,2 Days
+11/1/2017,7:00 PM,2,Atlanta Hawks,2 Days,Philadelphia 76ers,1 Day
+11/1/2017,7:00 PM,3,Indiana Pacers,3 in 4 Days w/ B2B,Cleveland Cavaliers,2 Days
+11/1/2017,7:00 PM,4,Milwaukee Bucks,3 in 4 Days w/ B2B,Charlotte Hornets,"3 in 4 Days, no B2B"
+11/1/2017,7:30 PM,5,Chicago Bulls,3-4 Days,Miami Heat,1 Day
+11/1/2017,7:30 PM,6,Sacramento Kings,3 in 4 Days w/ B2B,Boston Celtics,1 Day
+11/1/2017,8:00 PM,7,Houston Rockets,1 Day,New York Knicks,"3 in 4 Days, no B2B"
+11/1/2017,8:00 PM,8,Minnesota Timberwolves,1 Day,New Orleans Pelicans,1 Day
+11/1/2017,8:00 PM,9,Orlando Magic,"3 in 4 Days, no B2B",Memphis Grizzlies,1 Day
+11/1/2017,9:00 PM,10,Portland Trail Blazers,1 Day,Utah Jazz,1 Day
+11/1/2017,9:00 PM,11,Toronto Raptors,1 Day,Denver Nuggets,"3 in 4 Days, no B2B"
+11/1/2017,10:30 PM,12,Dallas Mavericks,1 Day,Los Angeles Clippers,1 Day
+11/2/2017,8:00 PM,1,Golden State Warriors,2 Days,San Antonio Spurs,2 Days
+11/2/2017,10:30 PM,2,Los Angeles Lakers,1 Day,Portland Trail Blazers,3 in 4 Days w/ B2B
+11/3/2017,7:00 PM,1,Indiana Pacers,"3 in 4 Days, no B2B",Philadelphia 76ers,1 Day
+11/3/2017,7:00 PM,2,Chicago Bulls,1 Day,Orlando Magic,1 Day
+11/3/2017,7:00 PM,3,Cleveland Cavaliers,1 Day,Washington Wizards,1 Day
+11/3/2017,7:00 PM,4,Milwaukee Bucks,"3 in 4 Days, no B2B",Detroit Pistons,2 Days
+11/3/2017,7:30 PM,5,Phoenix Suns,"3 in 4 Days, no B2B",New York Knicks,1 Day
+11/3/2017,7:30 PM,6,Houston Rockets,1 Day,Atlanta Hawks,1 Day
+11/3/2017,8:30 PM,7,New Orleans Pelicans,1 Day,Dallas Mavericks,1 Day
+11/3/2017,8:30 PM,8,Charlotte Hornets,1 Day,San Antonio Spurs,Back to Back
+11/3/2017,9:00 PM,9,Miami Heat,1 Day,Denver Nuggets,1 Day
+11/3/2017,9:00 PM,10,Toronto Raptors,1 Day,Utah Jazz,1 Day
+11/3/2017,9:30 PM,11,Boston Celtics,1 Day,Oklahoma City Thunder,2 Days
+11/3/2017,10:30 PM,12,Brooklyn Nets,2 Days,Los Angeles Lakers,3 in 4 Days w/ B2B
+11/4/2017,3:30 PM,1,Memphis Grizzlies,2 Days,Los Angeles Clippers,2 Days
+11/4/2017,7:00 PM,2,Sacramento Kings,2 Days,Detroit Pistons,Back to Back
+11/4/2017,8:00 PM,3,Dallas Mavericks,3 in 4 Days w/ B2B,Minnesota Timberwolves,2 Days
+11/4/2017,8:00 PM,4,New Orleans Pelicans,3 in 4 Days w/ B2B,Chicago Bulls,3 in 4 Days w/ B2B
+11/4/2017,9:00 PM,5,Golden State Warriors,1 Day,Denver Nuggets,3 in 4 Days w/ B2B
+11/5/2017,3:00 PM,1,Atlanta Hawks,1 Day,Cleveland Cavaliers,1 Day
+11/5/2017,3:30 PM,2,Miami Heat,1 Day,Los Angeles Clippers,Back to Back
+11/5/2017,6:00 PM,3,Washington Wizards,1 Day,Toronto Raptors,1 Day
+11/5/2017,6:00 PM,4,Boston Celtics,1 Day,Orlando Magic,1 Day
+11/5/2017,7:00 PM,5,Utah Jazz,1 Day,Houston Rockets,1 Day
+11/5/2017,7:00 PM,6,Phoenix Suns,1 Day,San Antonio Spurs,"3 in 4 Days, no B2B"
+11/5/2017,7:30 PM,7,Indiana Pacers,1 Day,New York Knicks,1 Day
+11/5/2017,8:00 PM,8,Charlotte Hornets,1 Day,Minnesota Timberwolves,Back to Back
+11/5/2017,9:00 PM,9,Oklahoma City Thunder,1 Day,Portland Trail Blazers,2 Days
+11/5/2017,9:30 PM,10,Memphis Grizzlies,Back to Back,Los Angeles Lakers,"3 in 4 Days, no B2B"
+11/6/2017,7:30 PM,1,Boston Celtics,3 in 4 Days w/ B2B,Atlanta Hawks,3 in 4 Days w/ B2B
+11/6/2017,9:00 PM,2,Brooklyn Nets,2 Days,Phoenix Suns,3 in 4 Days w/ B2B
+11/6/2017,10:30 PM,3,Miami Heat,3 in 4 Days w/ B2B,Golden State Warriors,1 Day
+11/7/2017,7:00 PM,1,New Orleans Pelicans,2 Days,Indiana Pacers,1 Day
+11/7/2017,7:00 PM,2,Dallas Mavericks,2 Days,Washington Wizards,1 Day
+11/7/2017,7:00 PM,3,Milwaukee Bucks,3-4 Days,Cleveland Cavaliers,1 Day
+11/7/2017,7:30 PM,4,Charlotte Hornets,1 Day,New York Knicks,1 Day
+11/7/2017,7:30 PM,5,Chicago Bulls,2 Days,Toronto Raptors,1 Day
+11/7/2017,8:30 PM,6,Los Angeles Clippers,"3 in 4 Days, no B2B",San Antonio Spurs,1 Day
+11/7/2017,9:00 PM,7,Brooklyn Nets,Back to Back,Denver Nuggets,2 Days
+11/7/2017,9:00 PM,8,Philadelphia 76ers,3-4 Days,Utah Jazz,1 Day
+11/7/2017,10:00 PM,9,Oklahoma City Thunder,1 Day,Sacramento Kings,2 Days
+11/7/2017,10:00 PM,10,Memphis Grizzlies,"3 in 4 Days, no B2B",Portland Trail Blazers,1 Day
+11/8/2017,7:00 PM,1,Indiana Pacers,3 in 4 Days w/ B2B,Detroit Pistons,3-4 Days
+11/8/2017,7:00 PM,2,New York Knicks,3 in 4 Days w/ B2B,Orlando Magic,2 Days
+11/8/2017,8:00 PM,3,Los Angeles Lakers,2 Days,Boston Celtics,"3 in 4 Days, no B2B"
+11/8/2017,9:00 PM,4,Miami Heat,"3 in 4 Days, no B2B",Phoenix Suns,"3 in 4 Days, no B2B"
+11/8/2017,10:30 PM,5,Minnesota Timberwolves,2 Days,Golden State Warriors,1 Day
+11/9/2017,7:00 PM,1,Los Angeles Lakers,Back to Back,Washington Wizards,1 Day
+11/9/2017,7:30 PM,2,New Orleans Pelicans,1 Day,Toronto Raptors,1 Day
+11/9/2017,8:00 PM,3,Cleveland Cavaliers,1 Day,Houston Rockets,3-4 Days
+11/9/2017,10:00 PM,4,Philadelphia 76ers,1 Day,Sacramento Kings,1 Day
+11/9/2017,10:30 PM,5,Oklahoma City Thunder,1 Day,Denver Nuggets,1 Day
+11/10/2017,7:00 PM,1,Atlanta Hawks,3-4 Days,Detroit Pistons,1 Day
+11/10/2017,7:30 PM,2,Charlotte Hornets,2 Days,Boston Celtics,1 Day
+11/10/2017,8:00 PM,3,Indiana Pacers,"3 in 4 Days, no B2B",Chicago Bulls,2 Days
+11/10/2017,9:00 PM,4,Los Angeles Clippers,2 Days,Oklahoma City Thunder,3 in 4 Days w/ B2B
+11/10/2017,9:00 PM,5,Miami Heat,1 Day,Utah Jazz,2 Days
+11/10/2017,9:00 PM,6,Orlando Magic,1 Day,Phoenix Suns,1 Day
+11/10/2017,9:00 PM,7,Milwaukee Bucks,2 Days,San Antonio Spurs,2 Days
+11/10/2017,10:00 PM,8,Brooklyn Nets,2 Days,Portland Trail Blazers,2 Days
+11/11/2017,7:00 PM,1,Los Angeles Clippers,Back to Back,New Orleans Pelicans,1 Day
+11/11/2017,7:00 PM,2,Atlanta Hawks,Back to Back,Washington Wizards,1 Day
+11/11/2017,8:00 PM,3,Sacramento Kings,1 Day,New York Knicks,2 Days
+11/11/2017,8:00 PM,4,Memphis Grizzlies,3-4 Days,Houston Rockets,1 Day
+11/11/2017,8:30 PM,5,Philadelphia 76ers,1 Day,Golden State Warriors,2 Days
+11/11/2017,8:30 PM,6,Los Angeles Lakers,"3 in 4 Days, no B2B",Milwaukee Bucks,Back to Back
+11/11/2017,8:30 PM,7,Cleveland Cavaliers,1 Day,Dallas Mavericks,3-4 Days
+11/11/2017,8:30 PM,8,Chicago Bulls,Back to Back,San Antonio Spurs,Back to Back
+11/11/2017,9:00 PM,9,Orlando Magic,3 in 4 Days w/ B2B,Denver Nuggets,1 Day
+11/11/2017,9:00 PM,10,Brooklyn Nets,Back to Back,Utah Jazz,Back to Back
+11/11/2017,9:00 PM,11,Minnesota Timberwolves,2 Days,Phoenix Suns,3 in 4 Days w/ B2B
+11/12/2017,3:30 PM,1,Toronto Raptors,2 Days,Boston Celtics,1 Day
+11/12/2017,4:00 PM,2,Miami Heat,1 Day,Detroit Pistons,1 Day
+11/12/2017,6:00 PM,3,Houston Rockets,3 in 4 Days w/ B2B,Indiana Pacers,1 Day
+11/12/2017,7:00 PM,4,Dallas Mavericks,Back to Back,Oklahoma City Thunder,"3 in 4 Days, no B2B"
+11/13/2017,7:00 PM,1,Sacramento Kings,1 Day,Washington Wizards,1 Day
+11/13/2017,7:30 PM,2,Cleveland Cavaliers,1 Day,New York Knicks,1 Day
+11/13/2017,8:00 PM,3,Atlanta Hawks,"3 in 4 Days, no B2B",New Orleans Pelicans,1 Day
+11/13/2017,8:00 PM,4,Memphis Grizzlies,1 Day,Milwaukee Bucks,"3 in 4 Days, no B2B"
+11/13/2017,9:00 PM,5,Minnesota Timberwolves,1 Day,Utah Jazz,"3 in 4 Days, no B2B"
+11/13/2017,9:00 PM,6,Los Angeles Lakers,1 Day,Phoenix Suns,"3 in 4 Days, no B2B"
+11/13/2017,10:00 PM,7,Denver Nuggets,1 Day,Portland Trail Blazers,2 Days
+11/13/2017,10:30 PM,8,Orlando Magic,"3 in 4 Days, no B2B",Golden State Warriors,1 Day
+11/13/2017,10:30 PM,9,Philadelphia 76ers,1 Day,Los Angeles Clippers,"3 in 4 Days, no B2B"
+11/14/2017,7:30 PM,1,Boston Celtics,1 Day,Brooklyn Nets,2 Days
+11/14/2017,8:00 PM,2,Toronto Raptors,1 Day,Houston Rockets,"3 in 4 Days, no B2B"
+11/14/2017,8:30 PM,3,San Antonio Spurs,2 Days,Dallas Mavericks,"3 in 4 Days, no B2B"
+11/15/2017,7:30 PM,1,Sacramento Kings,1 Day,Atlanta Hawks,1 Day
+11/15/2017,7:30 PM,2,Washington Wizards,1 Day,Miami Heat,2 Days
+11/15/2017,7:30 PM,3,Utah Jazz,1 Day,New York Knicks,1 Day
+11/15/2017,8:00 PM,4,Chicago Bulls,3-4 Days,Oklahoma City Thunder,2 Days
+11/15/2017,8:00 PM,5,Indiana Pacers,2 Days,Memphis Grizzlies,1 Day
+11/15/2017,8:00 PM,6,Detroit Pistons,2 Days,Milwaukee Bucks,1 Day
+11/15/2017,8:00 PM,7,Cleveland Cavaliers,1 Day,Charlotte Hornets,3-4 Days
+11/15/2017,8:00 PM,8,San Antonio Spurs,Back to Back,Minnesota Timberwolves,1 Day
+11/15/2017,8:00 PM,9,Toronto Raptors,3 in 4 Days w/ B2B,New Orleans Pelicans,1 Day
+11/15/2017,10:00 PM,10,Orlando Magic,1 Day,Portland Trail Blazers,1 Day
+11/15/2017,10:30 PM,11,Philadelphia 76ers,1 Day,Los Angeles Lakers,1 Day
+11/16/2017,8:00 PM,1,Golden State Warriors,2 Days,Boston Celtics,1 Day
+11/16/2017,10:30 PM,2,Houston Rockets,1 Day,Phoenix Suns,2 Days
+11/17/2017,7:00 PM,1,Miami Heat,1 Day,Washington Wizards,1 Day
+11/17/2017,7:00 PM,2,Detroit Pistons,1 Day,Indiana Pacers,1 Day
+11/17/2017,7:30 PM,3,Los Angeles Clippers,3-4 Days,Cleveland Cavaliers,1 Day
+11/17/2017,7:30 PM,4,Utah Jazz,1 Day,Brooklyn Nets,2 Days
+11/17/2017,7:30 PM,5,New York Knicks,1 Day,Toronto Raptors,"3 in 4 Days, no B2B"
+11/17/2017,8:00 PM,6,Charlotte Hornets,1 Day,Chicago Bulls,1 Day
+11/17/2017,8:00 PM,7,Oklahoma City Thunder,1 Day,San Antonio Spurs,"3 in 4 Days, no B2B"
+11/17/2017,8:30 PM,8,Minnesota Timberwolves,1 Day,Dallas Mavericks,2 Days
+11/17/2017,10:00 PM,9,Portland Trail Blazers,1 Day,Sacramento Kings,1 Day
+11/17/2017,10:30 PM,10,New Orleans Pelicans,1 Day,Denver Nuggets,3-4 Days
+11/17/2017,10:30 PM,11,Phoenix Suns,Back to Back,Los Angeles Lakers,1 Day
+11/18/2017,7:00 PM,1,Los Angeles Clippers,Back to Back,Charlotte Hornets,3 in 4 Days w/ B2B
+11/18/2017,7:00 PM,2,Utah Jazz,3 in 4 Days w/ B2B,Orlando Magic,2 Days
+11/18/2017,7:30 PM,3,Golden State Warriors,1 Day,Philadelphia 76ers,2 Days
+11/18/2017,7:30 PM,4,Boston Celtics,1 Day,Atlanta Hawks,2 Days
+11/18/2017,8:00 PM,5,Houston Rockets,1 Day,Memphis Grizzlies,2 Days
+11/18/2017,9:00 PM,6,Milwaukee Bucks,2 Days,Dallas Mavericks,Back to Back
+11/18/2017,10:00 PM,7,Sacramento Kings,3 in 4 Days w/ B2B,Portland Trail Blazers,3 in 4 Days w/ B2B
+11/19/2017,3:30 PM,1,Indiana Pacers,1 Day,Miami Heat,1 Day
+11/19/2017,6:00 PM,2,Golden State Warriors,3 in 4 Days w/ B2B,Brooklyn Nets,1 Day
+11/19/2017,6:00 PM,3,Washington Wizards,1 Day,Toronto Raptors,1 Day
+11/19/2017,7:00 PM,4,Detroit Pistons,1 Day,Minnesota Timberwolves,1 Day
+11/19/2017,8:00 PM,5,Chicago Bulls,1 Day,Phoenix Suns,"3 in 4 Days, no B2B"
+11/19/2017,9:30 PM,6,Denver Nuggets,1 Day,Los Angeles Lakers,1 Day
+11/20/2017,7:00 PM,1,Minnesota Timberwolves,3 in 4 Days w/ B2B,Charlotte Hornets,"3 in 4 Days, no B2B"
+11/20/2017,7:00 PM,2,Cleveland Cavaliers,2 Days,Detroit Pistons,3 in 4 Days w/ B2B
+11/20/2017,7:00 PM,3,Indiana Pacers,3 in 4 Days w/ B2B,Orlando Magic,1 Day
+11/20/2017,7:00 PM,4,Utah Jazz,"3 in 4 Days, no B2B",Philadelphia 76ers,1 Day
+11/20/2017,7:30 PM,5,Los Angeles Clippers,"3 in 4 Days, no B2B",New York Knicks,2 Days
+11/20/2017,8:00 PM,6,Oklahoma City Thunder,2 Days,New Orleans Pelicans,2 Days
+11/20/2017,8:00 PM,7,Washington Wizards,3 in 4 Days w/ B2B,Milwaukee Bucks,1 Day
+11/20/2017,8:00 PM,8,Portland Trail Blazers,"3 in 4 Days, no B2B",Memphis Grizzlies,1 Day
+11/20/2017,8:30 PM,9,Atlanta Hawks,1 Day,San Antonio Spurs,2 Days
+11/20/2017,8:30 PM,10,Boston Celtics,1 Day,Dallas Mavericks,"3 in 4 Days, no B2B"
+11/20/2017,10:00 PM,11,Denver Nuggets,3 in 4 Days w/ B2B,Sacramento Kings,"3 in 4 Days, no B2B"
+11/21/2017,10:30 PM,1,Chicago Bulls,1 Day,Los Angeles Lakers,1 Day
+11/22/2017,7:00 PM,1,Brooklyn Nets,2 Days,Cleveland Cavaliers,1 Day
+11/22/2017,7:00 PM,2,Washington Wizards,"3 in 4 Days, no B2B",Charlotte Hornets,1 Day
+11/22/2017,7:00 PM,3,Portland Trail Blazers,1 Day,Philadelphia 76ers,1 Day
+11/22/2017,7:30 PM,4,Boston Celtics,1 Day,Miami Heat,2 Days
+11/22/2017,7:30 PM,5,Los Angeles Clippers,1 Day,Atlanta Hawks,1 Day
+11/22/2017,7:30 PM,6,Toronto Raptors,2 Days,New York Knicks,1 Day
+11/22/2017,8:00 PM,7,Golden State Warriors,2 Days,Oklahoma City Thunder,1 Day
+11/22/2017,8:00 PM,8,Orlando Magic,1 Day,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+11/22/2017,8:00 PM,9,Dallas Mavericks,1 Day,Memphis Grizzlies,1 Day
+11/22/2017,8:00 PM,10,Denver Nuggets,"3 in 4 Days, no B2B",Houston Rockets,3-4 Days
+11/22/2017,8:00 PM,11,San Antonio Spurs,1 Day,New Orleans Pelicans,1 Day
+11/22/2017,9:00 PM,12,Milwaukee Bucks,1 Day,Phoenix Suns,2 Days
+11/22/2017,9:00 PM,13,Chicago Bulls,3 in 4 Days w/ B2B,Utah Jazz,1 Day
+11/22/2017,10:30 PM,14,Los Angeles Lakers,3 in 4 Days w/ B2B,Sacramento Kings,1 Day
+11/24/2017,12:00 PM,1,Portland Trail Blazers,1 Day,Brooklyn Nets,1 Day
+11/24/2017,7:30 PM,2,Orlando Magic,1 Day,Boston Celtics,1 Day
+11/24/2017,7:30 PM,3,New York Knicks,1 Day,Atlanta Hawks,1 Day
+11/24/2017,8:00 PM,4,Detroit Pistons,3-4 Days,Oklahoma City Thunder,1 Day
+11/24/2017,8:00 PM,5,Miami Heat,1 Day,Minnesota Timberwolves,1 Day
+11/24/2017,8:00 PM,6,Charlotte Hornets,1 Day,Cleveland Cavaliers,1 Day
+11/24/2017,8:00 PM,7,Toronto Raptors,1 Day,Indiana Pacers,3-4 Days
+11/24/2017,9:00 PM,8,Memphis Grizzlies,1 Day,Denver Nuggets,1 Day
+11/24/2017,9:00 PM,9,New Orleans Pelicans,1 Day,Phoenix Suns,1 Day
+11/24/2017,10:30 PM,10,Chicago Bulls,"3 in 4 Days, no B2B",Golden State Warriors,1 Day
+11/25/2017,7:00 PM,1,Orlando Magic,3 in 4 Days w/ B2B,Philadelphia 76ers,2 Days
+11/25/2017,7:00 PM,2,Portland Trail Blazers,3 in 4 Days w/ B2B,Washington Wizards,2 Days
+11/25/2017,7:00 PM,3,San Antonio Spurs,2 Days,Charlotte Hornets,3 in 4 Days w/ B2B
+11/25/2017,7:30 PM,4,Toronto Raptors,3 in 4 Days w/ B2B,Atlanta Hawks,3 in 4 Days w/ B2B
+11/25/2017,8:00 PM,5,New York Knicks,3 in 4 Days w/ B2B,Houston Rockets,2 Days
+11/25/2017,8:00 PM,6,Boston Celtics,3 in 4 Days w/ B2B,Indiana Pacers,Back to Back
+11/25/2017,8:30 PM,7,New Orleans Pelicans,3 in 4 Days w/ B2B,Golden State Warriors,3 in 4 Days w/ B2B
+11/25/2017,8:30 PM,8,Oklahoma City Thunder,3 in 4 Days w/ B2B,Dallas Mavericks,2 Days
+11/25/2017,9:00 PM,9,Milwaukee Bucks,2 Days,Utah Jazz,2 Days
+11/25/2017,10:00 PM,10,Los Angeles Clippers,2 Days,Sacramento Kings,2 Days
+11/26/2017,3:30 PM,1,Miami Heat,1 Day,Chicago Bulls,1 Day
+11/26/2017,3:30 PM,2,Phoenix Suns,1 Day,Minnesota Timberwolves,1 Day
+11/26/2017,6:00 PM,3,Brooklyn Nets,1 Day,Memphis Grizzlies,1 Day
+11/27/2017,7:00 PM,1,Cleveland Cavaliers,2 Days,Philadelphia 76ers,1 Day
+11/27/2017,7:00 PM,2,Orlando Magic,"3 in 4 Days, no B2B",Indiana Pacers,"3 in 4 Days, no B2B"
+11/27/2017,7:30 PM,3,Detroit Pistons,2 Days,Boston Celtics,"3 in 4 Days, no B2B"
+11/27/2017,7:30 PM,4,Portland Trail Blazers,"3 in 4 Days, no B2B",New York Knicks,"3 in 4 Days, no B2B"
+11/27/2017,8:00 PM,5,Brooklyn Nets,3 in 4 Days w/ B2B,Houston Rockets,1 Day
+11/27/2017,8:30 PM,6,Dallas Mavericks,1 Day,San Antonio Spurs,1 Day
+11/27/2017,10:30 PM,7,Sacramento Kings,1 Day,Golden State Warriors,"3 in 4 Days, no B2B"
+11/27/2017,10:30 PM,8,Los Angeles Lakers,3-4 Days,Los Angeles Clippers,1 Day
+11/28/2017,7:00 PM,1,Miami Heat,1 Day,Cleveland Cavaliers,Back to Back
+11/28/2017,8:00 PM,2,Washington Wizards,2 Days,Minnesota Timberwolves,1 Day
+11/28/2017,8:00 PM,3,Phoenix Suns,1 Day,Chicago Bulls,1 Day
+11/28/2017,10:00 PM,4,Milwaukee Bucks,2 Days,Sacramento Kings,3 in 4 Days w/ B2B
+11/28/2017,10:00 PM,5,Denver Nuggets,3-4 Days,Utah Jazz,2 Days
+11/29/2017,7:00 PM,1,Washington Wizards,Back to Back,Philadelphia 76ers,1 Day
+11/29/2017,7:00 PM,2,Phoenix Suns,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+11/29/2017,7:00 PM,3,Oklahoma City Thunder,3-4 Days,Orlando Magic,1 Day
+11/29/2017,7:30 PM,4,Miami Heat,3 in 4 Days w/ B2B,New York Knicks,1 Day
+11/29/2017,7:30 PM,5,Charlotte Hornets,3-4 Days,Toronto Raptors,3-4 Days
+11/29/2017,8:00 PM,6,Minnesota Timberwolves,3 in 4 Days w/ B2B,New Orleans Pelicans,3-4 Days
+11/29/2017,8:00 PM,7,Indiana Pacers,1 Day,Houston Rockets,1 Day
+11/29/2017,8:30 PM,8,Memphis Grizzlies,2 Days,San Antonio Spurs,1 Day
+11/29/2017,8:30 PM,9,Brooklyn Nets,"3 in 4 Days, no B2B",Dallas Mavericks,1 Day
+11/29/2017,10:30 PM,10,Golden State Warriors,1 Day,Los Angeles Lakers,1 Day
+11/30/2017,7:30 PM,1,Cleveland Cavaliers,"3 in 4 Days, no B2B",Atlanta Hawks,3-4 Days
+11/30/2017,7:30 PM,2,Philadelphia 76ers,3 in 4 Days w/ B2B,Boston Celtics,2 Days
+11/30/2017,9:00 PM,3,Chicago Bulls,1 Day,Denver Nuggets,1 Day
+11/30/2017,10:00 PM,4,Milwaukee Bucks,1 Day,Portland Trail Blazers,2 Days
+11/30/2017,10:30 PM,5,Utah Jazz,1 Day,Los Angeles Clippers,2 Days
+12/1/2017,7:00 PM,1,Detroit Pistons,1 Day,Washington Wizards,"3 in 4 Days, no B2B"
+12/1/2017,7:00 PM,2,Golden State Warriors,1 Day,Orlando Magic,1 Day
+12/1/2017,7:30 PM,3,Indiana Pacers,1 Day,Toronto Raptors,1 Day
+12/1/2017,8:00 PM,4,Sacramento Kings,2 Days,Chicago Bulls,3 in 4 Days w/ B2B
+12/1/2017,8:00 PM,5,Minnesota Timberwolves,"3 in 4 Days, no B2B",Oklahoma City Thunder,1 Day
+12/1/2017,8:00 PM,6,Charlotte Hornets,1 Day,Miami Heat,"3 in 4 Days, no B2B"
+12/1/2017,8:00 PM,7,San Antonio Spurs,1 Day,Memphis Grizzlies,1 Day
+12/1/2017,9:00 PM,8,New Orleans Pelicans,1 Day,Utah Jazz,3 in 4 Days w/ B2B
+12/2/2017,1:00 PM,1,Phoenix Suns,2 Days,Boston Celtics,1 Day
+12/2/2017,2:00 PM,2,Los Angeles Clippers,1 Day,Dallas Mavericks,2 Days
+12/2/2017,3:00 PM,3,Atlanta Hawks,1 Day,Brooklyn Nets,2 Days
+12/2/2017,7:30 PM,4,Detroit Pistons,3 in 4 Days w/ B2B,Philadelphia 76ers,"3 in 4 Days, no B2B"
+12/2/2017,7:30 PM,5,Memphis Grizzlies,3 in 4 Days w/ B2B,Cleveland Cavaliers,1 Day
+12/2/2017,8:30 PM,6,Sacramento Kings,Back to Back,Milwaukee Bucks,1 Day
+12/2/2017,9:00 PM,7,Los Angeles Lakers,2 Days,Denver Nuggets,1 Day
+12/2/2017,10:00 PM,8,New Orleans Pelicans,3 in 4 Days w/ B2B,Portland Trail Blazers,1 Day
+12/3/2017,3:30 PM,1,Orlando Magic,1 Day,New York Knicks,3-4 Days
+12/3/2017,7:00 PM,2,Golden State Warriors,1 Day,Miami Heat,1 Day
+12/3/2017,7:00 PM,3,Los Angeles Clippers,3 in 4 Days w/ B2B,Minnesota Timberwolves,1 Day
+12/3/2017,7:00 PM,4,San Antonio Spurs,1 Day,Oklahoma City Thunder,1 Day
+12/3/2017,9:30 PM,5,Houston Rockets,3-4 Days,Los Angeles Lakers,Back to Back
+12/4/2017,7:00 PM,1,Phoenix Suns,1 Day,Philadelphia 76ers,1 Day
+12/4/2017,7:00 PM,2,Orlando Magic,3 in 4 Days w/ B2B,Charlotte Hornets,2 Days
+12/4/2017,7:00 PM,3,New York Knicks,Back to Back,Indiana Pacers,2 Days
+12/4/2017,7:30 PM,4,Milwaukee Bucks,1 Day,Boston Celtics,1 Day
+12/4/2017,7:30 PM,5,Brooklyn Nets,1 Day,Atlanta Hawks,1 Day
+12/4/2017,8:00 PM,6,Golden State Warriors,3 in 4 Days w/ B2B,New Orleans Pelicans,"3 in 4 Days, no B2B"
+12/4/2017,8:00 PM,7,Cleveland Cavaliers,1 Day,Chicago Bulls,2 Days
+12/4/2017,8:00 PM,8,Minnesota Timberwolves,3 in 4 Days w/ B2B,Memphis Grizzlies,"3 in 4 Days, no B2B"
+12/4/2017,8:30 PM,9,Denver Nuggets,1 Day,Dallas Mavericks,1 Day
+12/4/2017,8:30 PM,10,Detroit Pistons,"3 in 4 Days, no B2B",San Antonio Spurs,3 in 4 Days w/ B2B
+12/4/2017,9:00 PM,11,Washington Wizards,2 Days,Utah Jazz,2 Days
+12/5/2017,7:30 PM,1,Phoenix Suns,3 in 4 Days w/ B2B,Toronto Raptors,3-4 Days
+12/5/2017,8:00 PM,2,Utah Jazz,Back to Back,Oklahoma City Thunder,1 Day
+12/5/2017,10:00 PM,3,Washington Wizards,Back to Back,Portland Trail Blazers,2 Days
+12/6/2017,7:00 PM,1,Sacramento Kings,3-4 Days,Cleveland Cavaliers,1 Day
+12/6/2017,7:00 PM,2,Chicago Bulls,1 Day,Indiana Pacers,1 Day
+12/6/2017,7:00 PM,3,Atlanta Hawks,1 Day,Orlando Magic,"3 in 4 Days, no B2B"
+12/6/2017,7:30 PM,4,Memphis Grizzlies,1 Day,New York Knicks,"3 in 4 Days, no B2B"
+12/6/2017,7:30 PM,5,Dallas Mavericks,1 Day,Boston Celtics,1 Day
+12/6/2017,8:00 PM,6,Denver Nuggets,1 Day,New Orleans Pelicans,1 Day
+12/6/2017,8:00 PM,7,Detroit Pistons,1 Day,Milwaukee Bucks,1 Day
+12/6/2017,8:00 PM,8,Golden State Warriors,"3 in 4 Days, no B2B",Charlotte Hornets,1 Day
+12/6/2017,8:30 PM,9,Miami Heat,2 Days,San Antonio Spurs,"3 in 4 Days, no B2B"
+12/6/2017,10:30 PM,10,Minnesota Timberwolves,"3 in 4 Days, no B2B",Los Angeles Clippers,2 Days
+12/7/2017,8:00 PM,1,Los Angeles Lakers,3-4 Days,Philadelphia 76ers,2 Days
+12/7/2017,9:00 PM,2,Washington Wizards,"3 in 4 Days, no B2B",Phoenix Suns,"3 in 4 Days, no B2B"
+12/7/2017,10:00 PM,3,Oklahoma City Thunder,1 Day,Brooklyn Nets,2 Days
+12/7/2017,10:30 PM,4,Houston Rockets,3-4 Days,Utah Jazz,"3 in 4 Days, no B2B"
+12/8/2017,7:00 PM,1,Cleveland Cavaliers,1 Day,Indiana Pacers,1 Day
+12/8/2017,7:00 PM,2,Chicago Bulls,1 Day,Charlotte Hornets,1 Day
+12/8/2017,7:00 PM,3,Denver Nuggets,1 Day,Orlando Magic,1 Day
+12/8/2017,7:00 PM,4,Golden State Warriors,1 Day,Detroit Pistons,1 Day
+12/8/2017,8:00 PM,5,Sacramento Kings,1 Day,New Orleans Pelicans,1 Day
+12/8/2017,8:00 PM,6,Dallas Mavericks,1 Day,Milwaukee Bucks,1 Day
+12/8/2017,8:00 PM,7,Toronto Raptors,2 Days,Memphis Grizzlies,1 Day
+12/8/2017,9:30 PM,8,Boston Celtics,1 Day,San Antonio Spurs,1 Day
+12/9/2017,3:30 PM,1,Washington Wizards,1 Day,Los Angeles Clippers,2 Days
+12/9/2017,6:00 PM,2,Miami Heat,2 Days,Brooklyn Nets,1 Day
+12/9/2017,7:00 PM,3,Los Angeles Lakers,1 Day,Charlotte Hornets,3 in 4 Days w/ B2B
+12/9/2017,7:30 PM,4,Orlando Magic,3 in 4 Days w/ B2B,Atlanta Hawks,2 Days
+12/9/2017,8:00 PM,5,Philadelphia 76ers,1 Day,Cleveland Cavaliers,3 in 4 Days w/ B2B
+12/9/2017,8:00 PM,6,New York Knicks,2 Days,Chicago Bulls,3 in 4 Days w/ B2B
+12/9/2017,8:30 PM,7,Utah Jazz,1 Day,Milwaukee Bucks,3 in 4 Days w/ B2B
+12/9/2017,9:00 PM,8,Oklahoma City Thunder,1 Day,Memphis Grizzlies,3 in 4 Days w/ B2B
+12/9/2017,9:00 PM,9,San Antonio Spurs,3 in 4 Days w/ B2B,Phoenix Suns,1 Day
+12/9/2017,10:00 PM,10,Houston Rockets,1 Day,Portland Trail Blazers,3-4 Days
+12/10/2017,3:30 PM,1,Toronto Raptors,1 Day,Sacramento Kings,1 Day
+12/10/2017,4:00 PM,2,Boston Celtics,1 Day,Detroit Pistons,1 Day
+12/10/2017,5:00 PM,3,Denver Nuggets,1 Day,Indiana Pacers,1 Day
+12/10/2017,7:00 PM,4,Philadelphia 76ers,3 in 4 Days w/ B2B,New Orleans Pelicans,1 Day
+12/10/2017,7:00 PM,5,Dallas Mavericks,1 Day,Minnesota Timberwolves,3-4 Days
+12/10/2017,7:30 PM,6,Atlanta Hawks,Back to Back,New York Knicks,Back to Back
+12/11/2017,8:00 PM,1,Boston Celtics,3 in 4 Days w/ B2B,Chicago Bulls,"3 in 4 Days, no B2B"
+12/11/2017,8:00 PM,2,Charlotte Hornets,"3 in 4 Days, no B2B",Oklahoma City Thunder,1 Day
+12/11/2017,8:00 PM,3,New Orleans Pelicans,3 in 4 Days w/ B2B,Houston Rockets,1 Day
+12/11/2017,8:00 PM,4,Miami Heat,1 Day,Memphis Grizzlies,"3 in 4 Days, no B2B"
+12/11/2017,10:30 PM,5,Toronto Raptors,3 in 4 Days w/ B2B,Los Angeles Clippers,1 Day
+12/11/2017,10:30 PM,6,Portland Trail Blazers,1 Day,Golden State Warriors,2 Days
+12/12/2017,7:00 PM,1,Atlanta Hawks,"3 in 4 Days, no B2B",Cleveland Cavaliers,2 Days
+12/12/2017,7:00 PM,2,Denver Nuggets,1 Day,Detroit Pistons,1 Day
+12/12/2017,7:00 PM,3,Los Angeles Lakers,2 Days,New York Knicks,"3 in 4 Days, no B2B"
+12/12/2017,7:30 PM,4,Washington Wizards,2 Days,Brooklyn Nets,2 Days
+12/12/2017,8:00 PM,5,Philadelphia 76ers,"3 in 4 Days, no B2B",Minnesota Timberwolves,1 Day
+12/12/2017,9:30 PM,6,San Antonio Spurs,2 Days,Dallas Mavericks,1 Day
+12/12/2017,10:00 PM,7,Phoenix Suns,2 Days,Sacramento Kings,1 Day
+12/13/2017,7:00 PM,1,Memphis Grizzlies,1 Day,Washington Wizards,Back to Back
+12/13/2017,7:00 PM,2,Los Angeles Clippers,1 Day,Orlando Magic,3-4 Days
+12/13/2017,7:00 PM,3,Oklahoma City Thunder,1 Day,Indiana Pacers,2 Days
+12/13/2017,7:30 PM,4,Denver Nuggets,3 in 4 Days w/ B2B,Boston Celtics,"3 in 4 Days, no B2B"
+12/13/2017,7:30 PM,5,Portland Trail Blazers,1 Day,Miami Heat,1 Day
+12/13/2017,8:00 PM,6,Milwaukee Bucks,3-4 Days,New Orleans Pelicans,"3 in 4 Days, no B2B"
+12/13/2017,8:00 PM,7,Utah Jazz,3-4 Days,Chicago Bulls,1 Day
+12/13/2017,9:00 PM,8,Toronto Raptors,"3 in 4 Days, no B2B",Phoenix Suns,Back to Back
+12/13/2017,9:30 PM,9,Charlotte Hornets,1 Day,Houston Rockets,1 Day
+12/14/2017,7:30 PM,1,New York Knicks,1 Day,Brooklyn Nets,1 Day
+12/14/2017,7:30 PM,2,Detroit Pistons,1 Day,Atlanta Hawks,1 Day
+12/14/2017,8:00 PM,3,Sacramento Kings,1 Day,Minnesota Timberwolves,1 Day
+12/14/2017,8:00 PM,4,Los Angeles Lakers,1 Day,Cleveland Cavaliers,1 Day
+12/14/2017,10:30 PM,5,Dallas Mavericks,1 Day,Golden State Warriors,2 Days
+12/15/2017,7:00 PM,1,Oklahoma City Thunder,1 Day,Philadelphia 76ers,2 Days
+12/15/2017,7:00 PM,2,Los Angeles Clippers,1 Day,Washington Wizards,"3 in 4 Days, no B2B"
+12/15/2017,7:00 PM,3,Miami Heat,1 Day,Charlotte Hornets,1 Day
+12/15/2017,7:00 PM,4,Portland Trail Blazers,1 Day,Orlando Magic,1 Day
+12/15/2017,7:00 PM,5,Detroit Pistons,3 in 4 Days w/ B2B,Indiana Pacers,1 Day
+12/15/2017,7:30 PM,6,Brooklyn Nets,3 in 4 Days w/ B2B,Toronto Raptors,1 Day
+12/15/2017,7:30 PM,7,Utah Jazz,1 Day,Boston Celtics,1 Day
+12/15/2017,8:00 PM,8,Chicago Bulls,1 Day,Milwaukee Bucks,1 Day
+12/15/2017,8:00 PM,9,Atlanta Hawks,3 in 4 Days w/ B2B,Memphis Grizzlies,1 Day
+12/15/2017,9:00 PM,10,New Orleans Pelicans,1 Day,Denver Nuggets,"3 in 4 Days, no B2B"
+12/15/2017,9:30 PM,11,San Antonio Spurs,2 Days,Houston Rockets,1 Day
+12/16/2017,7:00 PM,1,Portland Trail Blazers,3 in 4 Days w/ B2B,Charlotte Hornets,3 in 4 Days w/ B2B
+12/16/2017,7:30 PM,2,Oklahoma City Thunder,3 in 4 Days w/ B2B,New York Knicks,1 Day
+12/16/2017,7:30 PM,3,Utah Jazz,3 in 4 Days w/ B2B,Cleveland Cavaliers,1 Day
+12/16/2017,8:00 PM,4,Phoenix Suns,2 Days,Minnesota Timberwolves,1 Day
+12/16/2017,8:00 PM,5,Milwaukee Bucks,3 in 4 Days w/ B2B,Houston Rockets,3 in 4 Days w/ B2B
+12/16/2017,8:00 PM,6,Los Angeles Clippers,3 in 4 Days w/ B2B,Miami Heat,3 in 4 Days w/ B2B
+12/16/2017,8:30 PM,7,Dallas Mavericks,1 Day,San Antonio Spurs,Back to Back
+12/16/2017,9:00 PM,8,Boston Celtics,3 in 4 Days w/ B2B,Memphis Grizzlies,3 in 4 Days w/ B2B
+12/17/2017,3:30 PM,1,Sacramento Kings,2 Days,Toronto Raptors,1 Day
+12/17/2017,4:00 PM,2,Orlando Magic,1 Day,Detroit Pistons,"3 in 4 Days, no B2B"
+12/17/2017,6:00 PM,3,Cleveland Cavaliers,3 in 4 Days w/ B2B,Washington Wizards,1 Day
+12/17/2017,6:00 PM,4,Indiana Pacers,1 Day,Brooklyn Nets,"3 in 4 Days, no B2B"
+12/18/2017,7:00 PM,1,New York Knicks,1 Day,Charlotte Hornets,"3 in 4 Days, no B2B"
+12/18/2017,7:00 PM,2,Boston Celtics,"3 in 4 Days, no B2B",Indiana Pacers,3 in 4 Days w/ B2B
+12/18/2017,7:30 PM,3,Miami Heat,"3 in 4 Days, no B2B",Atlanta Hawks,2 Days
+12/18/2017,8:00 PM,4,Philadelphia 76ers,2 Days,Chicago Bulls,2 Days
+12/18/2017,8:00 PM,5,Denver Nuggets,2 Days,Oklahoma City Thunder,"3 in 4 Days, no B2B"
+12/18/2017,8:00 PM,6,Utah Jazz,"3 in 4 Days, no B2B",Houston Rockets,"3 in 4 Days, no B2B"
+12/18/2017,8:00 PM,7,Portland Trail Blazers,"3 in 4 Days, no B2B",Minnesota Timberwolves,1 Day
+12/18/2017,8:30 PM,8,Phoenix Suns,1 Day,Dallas Mavericks,1 Day
+12/18/2017,8:30 PM,9,Los Angeles Clippers,"3 in 4 Days, no B2B",San Antonio Spurs,"3 in 4 Days, no B2B"
+12/18/2017,10:30 PM,10,Golden State Warriors,3-4 Days,Los Angeles Lakers,3-4 Days
+12/19/2017,7:00 PM,1,Sacramento Kings,1 Day,Philadelphia 76ers,Back to Back
+12/19/2017,7:00 PM,2,New Orleans Pelicans,3-4 Days,Washington Wizards,1 Day
+12/19/2017,8:00 PM,3,Cleveland Cavaliers,"3 in 4 Days, no B2B",Milwaukee Bucks,2 Days
+12/20/2017,7:00 PM,1,Toronto Raptors,2 Days,Charlotte Hornets,1 Day
+12/20/2017,7:30 PM,2,Sacramento Kings,3 in 4 Days w/ B2B,Brooklyn Nets,2 Days
+12/20/2017,7:30 PM,3,Miami Heat,1 Day,Boston Celtics,1 Day
+12/20/2017,7:30 PM,4,Indiana Pacers,"3 in 4 Days, no B2B",Atlanta Hawks,1 Day
+12/20/2017,8:00 PM,5,Los Angeles Lakers,1 Day,Houston Rockets,1 Day
+12/20/2017,8:00 PM,6,Orlando Magic,2 Days,Chicago Bulls,1 Day
+12/20/2017,8:00 PM,7,Utah Jazz,1 Day,Oklahoma City Thunder,1 Day
+12/20/2017,8:30 PM,8,Detroit Pistons,2 Days,Dallas Mavericks,1 Day
+12/20/2017,9:00 PM,9,Minnesota Timberwolves,1 Day,Denver Nuggets,1 Day
+12/20/2017,10:00 PM,10,San Antonio Spurs,1 Day,Portland Trail Blazers,1 Day
+12/20/2017,10:30 PM,11,Phoenix Suns,1 Day,Los Angeles Clippers,1 Day
+12/20/2017,10:30 PM,12,Memphis Grizzlies,3-4 Days,Golden State Warriors,1 Day
+12/21/2017,7:00 PM,1,Toronto Raptors,Back to Back,Philadelphia 76ers,"3 in 4 Days, no B2B"
+12/21/2017,7:00 PM,2,Chicago Bulls,3 in 4 Days w/ B2B,Cleveland Cavaliers,1 Day
+12/21/2017,8:00 PM,3,Boston Celtics,3 in 4 Days w/ B2B,New York Knicks,2 Days
+12/21/2017,9:00 PM,4,Memphis Grizzlies,Back to Back,Phoenix Suns,3 in 4 Days w/ B2B
+12/21/2017,10:30 PM,5,San Antonio Spurs,3 in 4 Days w/ B2B,Utah Jazz,3 in 4 Days w/ B2B
+12/22/2017,7:00 PM,1,New York Knicks,Back to Back,Detroit Pistons,1 Day
+12/22/2017,7:00 PM,2,New Orleans Pelicans,2 Days,Orlando Magic,1 Day
+12/22/2017,7:30 PM,3,Washington Wizards,2 Days,Brooklyn Nets,1 Day
+12/22/2017,8:00 PM,4,Los Angeles Clippers,1 Day,Houston Rockets,1 Day
+12/22/2017,8:00 PM,5,Charlotte Hornets,1 Day,Milwaukee Bucks,2 Days
+12/22/2017,8:00 PM,6,Dallas Mavericks,1 Day,Miami Heat,1 Day
+12/22/2017,8:00 PM,7,Atlanta Hawks,1 Day,Oklahoma City Thunder,1 Day
+12/22/2017,10:00 PM,8,Denver Nuggets,1 Day,Portland Trail Blazers,1 Day
+12/22/2017,10:30 PM,9,Los Angeles Lakers,1 Day,Golden State Warriors,1 Day
+12/23/2017,5:00 PM,1,Philadelphia 76ers,1 Day,Toronto Raptors,"3 in 4 Days, no B2B"
+12/23/2017,7:00 PM,2,Milwaukee Bucks,Back to Back,Charlotte Hornets,3 in 4 Days w/ B2B
+12/23/2017,7:00 PM,3,Orlando Magic,3 in 4 Days w/ B2B,Washington Wizards,Back to Back
+12/23/2017,7:00 PM,4,Brooklyn Nets,3 in 4 Days w/ B2B,Indiana Pacers,2 Days
+12/23/2017,7:30 PM,5,Chicago Bulls,"3 in 4 Days, no B2B",Boston Celtics,"3 in 4 Days, no B2B"
+12/23/2017,7:30 PM,6,Dallas Mavericks,3 in 4 Days w/ B2B,Atlanta Hawks,3 in 4 Days w/ B2B
+12/23/2017,8:00 PM,7,New Orleans Pelicans,Back to Back,Miami Heat,3 in 4 Days w/ B2B
+12/23/2017,8:00 PM,8,Oklahoma City Thunder,3 in 4 Days w/ B2B,Utah Jazz,"3 in 4 Days, no B2B"
+12/23/2017,8:00 PM,9,Los Angeles Clippers,3 in 4 Days w/ B2B,Memphis Grizzlies,"3 in 4 Days, no B2B"
+12/23/2017,8:30 PM,10,Denver Nuggets,3 in 4 Days w/ B2B,Golden State Warriors,3 in 4 Days w/ B2B
+12/23/2017,9:00 PM,11,Minnesota Timberwolves,2 Days,Phoenix Suns,"3 in 4 Days, no B2B"
+12/23/2017,9:30 PM,12,Portland Trail Blazers,3 in 4 Days w/ B2B,Los Angeles Lakers,3 in 4 Days w/ B2B
+12/23/2017,10:00 PM,13,San Antonio Spurs,"3 in 4 Days, no B2B",Sacramento Kings,2 Days
+12/25/2017,12:00 PM,1,Philadelphia 76ers,1 Day,New York Knicks,2 Days
+12/25/2017,3:00 PM,2,Cleveland Cavaliers,3-4 Days,Golden State Warriors,"3 in 4 Days, no B2B"
+12/25/2017,5:30 PM,3,Washington Wizards,"3 in 4 Days, no B2B",Boston Celtics,1 Day
+12/25/2017,8:00 PM,4,Houston Rockets,2 Days,Oklahoma City Thunder,"3 in 4 Days, no B2B"
+12/25/2017,10:30 PM,5,Minnesota Timberwolves,1 Day,Los Angeles Lakers,"3 in 4 Days, no B2B"
+12/26/2017,7:00 PM,1,Toronto Raptors,2 Days,Dallas Mavericks,2 Days
+12/26/2017,7:00 PM,2,Indiana Pacers,2 Days,Detroit Pistons,3-4 Days
+12/26/2017,7:30 PM,3,Orlando Magic,2 Days,Miami Heat,2 Days
+12/26/2017,8:00 PM,4,Chicago Bulls,2 Days,Milwaukee Bucks,2 Days
+12/26/2017,8:30 PM,5,Brooklyn Nets,2 Days,San Antonio Spurs,2 Days
+12/26/2017,9:00 PM,6,Memphis Grizzlies,2 Days,Phoenix Suns,2 Days
+12/26/2017,9:00 PM,7,Utah Jazz,2 Days,Denver Nuggets,2 Days
+12/26/2017,10:30 PM,8,Sacramento Kings,2 Days,Los Angeles Clippers,2 Days
+12/27/2017,7:00 PM,1,Boston Celtics,1 Day,Charlotte Hornets,3-4 Days
+12/27/2017,7:00 PM,2,Dallas Mavericks,Back to Back,Indiana Pacers,Back to Back
+12/27/2017,7:30 PM,3,Washington Wizards,1 Day,Atlanta Hawks,3-4 Days
+12/27/2017,8:00 PM,4,Brooklyn Nets,Back to Back,New Orleans Pelicans,3-4 Days
+12/27/2017,8:00 PM,5,New York Knicks,1 Day,Chicago Bulls,Back to Back
+12/27/2017,8:00 PM,6,Denver Nuggets,Back to Back,Minnesota Timberwolves,1 Day
+12/27/2017,8:00 PM,7,Toronto Raptors,Back to Back,Oklahoma City Thunder,1 Day
+12/27/2017,10:00 PM,8,Cleveland Cavaliers,1 Day,Sacramento Kings,Back to Back
+12/27/2017,10:30 PM,9,Utah Jazz,Back to Back,Golden State Warriors,1 Day
+12/27/2017,10:30 PM,10,Memphis Grizzlies,Back to Back,Los Angeles Lakers,1 Day
+12/28/2017,7:00 PM,1,Detroit Pistons,1 Day,Orlando Magic,1 Day
+12/28/2017,8:00 PM,2,Houston Rockets,2 Days,Boston Celtics,3 in 4 Days w/ B2B
+12/28/2017,8:00 PM,3,Minnesota Timberwolves,3 in 4 Days w/ B2B,Milwaukee Bucks,1 Day
+12/28/2017,8:30 PM,4,New York Knicks,3 in 4 Days w/ B2B,San Antonio Spurs,1 Day
+12/28/2017,10:30 PM,5,Philadelphia 76ers,2 Days,Portland Trail Blazers,3-4 Days
+12/29/2017,7:00 PM,1,Houston Rockets,Back to Back,Washington Wizards,1 Day
+12/29/2017,7:30 PM,2,Atlanta Hawks,1 Day,Toronto Raptors,"3 in 4 Days, no B2B"
+12/29/2017,8:00 PM,3,Brooklyn Nets,"3 in 4 Days, no B2B",Miami Heat,2 Days
+12/29/2017,8:00 PM,4,Dallas Mavericks,"3 in 4 Days, no B2B",New Orleans Pelicans,1 Day
+12/29/2017,8:00 PM,5,Milwaukee Bucks,3 in 4 Days w/ B2B,Oklahoma City Thunder,1 Day
+12/29/2017,8:00 PM,6,Indiana Pacers,"3 in 4 Days, no B2B",Chicago Bulls,"3 in 4 Days, no B2B"
+12/29/2017,10:00 PM,7,Phoenix Suns,2 Days,Sacramento Kings,"3 in 4 Days, no B2B"
+12/29/2017,10:30 PM,8,Los Angeles Clippers,2 Days,Los Angeles Lakers,1 Day
+12/29/2017,10:30 PM,9,Charlotte Hornets,1 Day,Golden State Warriors,1 Day
+12/30/2017,7:00 PM,1,New York Knicks,"3 in 4 Days, no B2B",New Orleans Pelicans,3 in 4 Days w/ B2B
+12/30/2017,7:00 PM,2,Miami Heat,Back to Back,Orlando Magic,1 Day
+12/30/2017,7:00 PM,3,San Antonio Spurs,1 Day,Detroit Pistons,1 Day
+12/30/2017,7:30 PM,4,Portland Trail Blazers,1 Day,Atlanta Hawks,3 in 4 Days w/ B2B
+12/30/2017,8:00 PM,5,Cleveland Cavaliers,2 Days,Utah Jazz,2 Days
+12/30/2017,8:30 PM,6,Memphis Grizzlies,2 Days,Golden State Warriors,3 in 4 Days w/ B2B
+12/30/2017,9:00 PM,7,Philadelphia 76ers,1 Day,Denver Nuggets,2 Days
+12/31/2017,3:30 PM,1,Chicago Bulls,1 Day,Washington Wizards,1 Day
+12/31/2017,5:00 PM,2,Minnesota Timberwolves,2 Days,Indiana Pacers,1 Day
+12/31/2017,5:30 PM,3,Brooklyn Nets,1 Day,Boston Celtics,2 Days
+12/31/2017,7:00 PM,4,Los Angeles Lakers,1 Day,Houston Rockets,"3 in 4 Days, no B2B"
+12/31/2017,7:00 PM,5,Memphis Grizzlies,Back to Back,Sacramento Kings,1 Day
+12/31/2017,7:00 PM,6,Charlotte Hornets,1 Day,Los Angeles Clippers,1 Day
+12/31/2017,7:00 PM,7,Dallas Mavericks,1 Day,Oklahoma City Thunder,1 Day
+12/31/2017,8:00 PM,8,Philadelphia 76ers,3 in 4 Days w/ B2B,Phoenix Suns,1 Day
+1/1/2018,7:30 PM,1,Milwaukee Bucks,2 Days,Toronto Raptors,2 Days
+1/1/2018,7:30 PM,2,Orlando Magic,1 Day,Brooklyn Nets,3 in 4 Days w/ B2B
+1/1/2018,8:00 PM,3,Los Angeles Lakers,3 in 4 Days w/ B2B,Minnesota Timberwolves,Back to Back
+1/1/2018,8:00 PM,4,Portland Trail Blazers,1 Day,Chicago Bulls,3 in 4 Days w/ B2B
+1/2/2018,7:00 PM,1,Portland Trail Blazers,3 in 4 Days w/ B2B,Cleveland Cavaliers,2 Days
+1/2/2018,7:30 PM,2,San Antonio Spurs,2 Days,New York Knicks,2 Days
+1/2/2018,9:00 PM,3,Atlanta Hawks,2 Days,Phoenix Suns,1 Day
+1/2/2018,10:00 PM,4,Charlotte Hornets,1 Day,Sacramento Kings,1 Day
+1/2/2018,10:30 PM,5,Memphis Grizzlies,"3 in 4 Days, no B2B",Los Angeles Clippers,1 Day
+1/3/2018,7:00 PM,1,New York Knicks,Back to Back,Washington Wizards,2 Days
+1/3/2018,7:00 PM,2,Houston Rockets,2 Days,Orlando Magic,1 Day
+1/3/2018,7:00 PM,3,San Antonio Spurs,Back to Back,Philadelphia 76ers,2 Days
+1/3/2018,7:30 PM,4,Detroit Pistons,3-4 Days,Miami Heat,3-4 Days
+1/3/2018,7:30 PM,5,Minnesota Timberwolves,"3 in 4 Days, no B2B",Brooklyn Nets,"3 in 4 Days, no B2B"
+1/3/2018,8:00 PM,6,Indiana Pacers,2 Days,Milwaukee Bucks,1 Day
+1/3/2018,8:00 PM,7,Toronto Raptors,1 Day,Chicago Bulls,"3 in 4 Days, no B2B"
+1/3/2018,8:00 PM,8,Cleveland Cavaliers,Back to Back,Boston Celtics,2 Days
+1/3/2018,8:30 PM,9,Golden State Warriors,3-4 Days,Dallas Mavericks,2 Days
+1/3/2018,9:00 PM,10,Phoenix Suns,3 in 4 Days w/ B2B,Denver Nuggets,3-4 Days
+1/3/2018,9:00 PM,11,New Orleans Pelicans,3-4 Days,Utah Jazz,3-4 Days
+1/3/2018,10:30 PM,12,Oklahoma City Thunder,2 Days,Los Angeles Lakers,"3 in 4 Days, no B2B"
+1/4/2018,8:00 PM,1,Golden State Warriors,Back to Back,Houston Rockets,Back to Back
+1/4/2018,10:30 PM,2,Oklahoma City Thunder,Back to Back,Los Angeles Clippers,1 Day
+1/5/2018,7:00 PM,1,Detroit Pistons,1 Day,Philadelphia 76ers,1 Day
+1/5/2018,7:00 PM,2,New York Knicks,"3 in 4 Days, no B2B",Miami Heat,1 Day
+1/5/2018,7:30 PM,3,Minnesota Timberwolves,1 Day,Boston Celtics,1 Day
+1/5/2018,8:00 PM,4,Toronto Raptors,1 Day,Milwaukee Bucks,1 Day
+1/5/2018,8:30 PM,5,Chicago Bulls,1 Day,Dallas Mavericks,1 Day
+1/5/2018,8:30 PM,6,Phoenix Suns,"3 in 4 Days, no B2B",San Antonio Spurs,"3 in 4 Days, no B2B"
+1/5/2018,9:00 PM,7,Utah Jazz,1 Day,Denver Nuggets,1 Day
+1/5/2018,9:30 PM,8,Washington Wizards,1 Day,Memphis Grizzlies,2 Days
+1/5/2018,10:00 PM,9,Atlanta Hawks,2 Days,Portland Trail Blazers,2 Days
+1/5/2018,10:30 PM,10,Charlotte Hornets,2 Days,Los Angeles Lakers,1 Day
+1/6/2018,3:30 PM,1,Golden State Warriors,"3 in 4 Days, no B2B",Los Angeles Clippers,1 Day
+1/6/2018,6:00 PM,2,Boston Celtics,3 in 4 Days w/ B2B,Brooklyn Nets,2 Days
+1/6/2018,7:00 PM,3,Chicago Bulls,3 in 4 Days w/ B2B,Indiana Pacers,2 Days
+1/6/2018,7:00 PM,4,Houston Rockets,"3 in 4 Days, no B2B",Detroit Pistons,3 in 4 Days w/ B2B
+1/6/2018,7:00 PM,5,Cleveland Cavaliers,2 Days,Orlando Magic,2 Days
+1/6/2018,8:00 PM,6,Milwaukee Bucks,3 in 4 Days w/ B2B,Washington Wizards,3 in 4 Days w/ B2B
+1/6/2018,9:00 PM,7,New Orleans Pelicans,2 Days,Minnesota Timberwolves,3 in 4 Days w/ B2B
+1/6/2018,10:00 PM,8,Denver Nuggets,3 in 4 Days w/ B2B,Sacramento Kings,3-4 Days
+1/7/2018,3:30 PM,1,Utah Jazz,1 Day,Miami Heat,1 Day
+1/7/2018,7:00 PM,2,New York Knicks,1 Day,Dallas Mavericks,1 Day
+1/7/2018,8:00 PM,3,Oklahoma City Thunder,2 Days,Phoenix Suns,1 Day
+1/7/2018,9:00 PM,4,San Antonio Spurs,1 Day,Portland Trail Blazers,1 Day
+1/7/2018,9:30 PM,5,Atlanta Hawks,1 Day,Los Angeles Lakers,1 Day
+1/8/2018,7:00 PM,1,Milwaukee Bucks,"3 in 4 Days, no B2B",Indiana Pacers,1 Day
+1/8/2018,7:30 PM,2,Toronto Raptors,2 Days,Brooklyn Nets,1 Day
+1/8/2018,8:00 PM,3,Cleveland Cavaliers,1 Day,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+1/8/2018,8:00 PM,4,Houston Rockets,1 Day,Chicago Bulls,"3 in 4 Days, no B2B"
+1/8/2018,8:00 PM,5,Detroit Pistons,"3 in 4 Days, no B2B",New Orleans Pelicans,1 Day
+1/8/2018,10:00 PM,6,San Antonio Spurs,3 in 4 Days w/ B2B,Sacramento Kings,1 Day
+1/8/2018,10:30 PM,7,Atlanta Hawks,3 in 4 Days w/ B2B,Los Angeles Clippers,1 Day
+1/8/2018,10:30 PM,8,Denver Nuggets,"3 in 4 Days, no B2B",Golden State Warriors,1 Day
+1/9/2018,7:30 PM,1,Miami Heat,1 Day,Toronto Raptors,Back to Back
+1/9/2018,8:00 PM,2,Portland Trail Blazers,1 Day,Oklahoma City Thunder,1 Day
+1/9/2018,8:30 PM,3,Orlando Magic,2 Days,Dallas Mavericks,1 Day
+1/9/2018,10:30 PM,4,Sacramento Kings,3 in 4 Days w/ B2B,Los Angeles Lakers,1 Day
+1/10/2018,7:00 PM,1,Dallas Mavericks,3 in 4 Days w/ B2B,Charlotte Hornets,3-4 Days
+1/10/2018,7:00 PM,2,Miami Heat,3 in 4 Days w/ B2B,Indiana Pacers,1 Day
+1/10/2018,7:00 PM,3,Utah Jazz,2 Days,Washington Wizards,3-4 Days
+1/10/2018,7:30 PM,4,Detroit Pistons,1 Day,Brooklyn Nets,1 Day
+1/10/2018,7:30 PM,5,Chicago Bulls,1 Day,New York Knicks,2 Days
+1/10/2018,8:00 PM,6,Orlando Magic,Back to Back,Milwaukee Bucks,1 Day
+1/10/2018,8:00 PM,7,Oklahoma City Thunder,3 in 4 Days w/ B2B,Minnesota Timberwolves,1 Day
+1/10/2018,8:00 PM,8,New Orleans Pelicans,1 Day,Memphis Grizzlies,3-4 Days
+1/10/2018,8:00 PM,9,Portland Trail Blazers,3 in 4 Days w/ B2B,Houston Rockets,1 Day
+1/10/2018,9:00 PM,10,Atlanta Hawks,"3 in 4 Days, no B2B",Denver Nuggets,1 Day
+1/10/2018,10:30 PM,11,Los Angeles Clippers,1 Day,Golden State Warriors,1 Day
+1/11/2018,3:00 PM,1,Boston Celtics,3-4 Days,Philadelphia 76ers,5+ Days
+1/11/2018,8:00 PM,2,Cleveland Cavaliers,2 Days,Toronto Raptors,"3 in 4 Days, no B2B"
+1/11/2018,10:00 PM,3,Los Angeles Clippers,3 in 4 Days w/ B2B,Sacramento Kings,"3 in 4 Days, no B2B"
+1/11/2018,10:30 PM,4,San Antonio Spurs,2 Days,Los Angeles Lakers,1 Day
+1/12/2018,7:00 PM,1,Cleveland Cavaliers,Back to Back,Indiana Pacers,1 Day
+1/12/2018,7:00 PM,2,Utah Jazz,1 Day,Charlotte Hornets,1 Day
+1/12/2018,7:00 PM,3,Orlando Magic,"3 in 4 Days, no B2B",Washington Wizards,1 Day
+1/12/2018,7:30 PM,4,Brooklyn Nets,1 Day,Atlanta Hawks,1 Day
+1/12/2018,8:00 PM,5,New York Knicks,1 Day,Minnesota Timberwolves,1 Day
+1/12/2018,8:00 PM,6,Portland Trail Blazers,"3 in 4 Days, no B2B",New Orleans Pelicans,1 Day
+1/12/2018,8:00 PM,7,Golden State Warriors,1 Day,Milwaukee Bucks,1 Day
+1/12/2018,9:00 PM,8,Memphis Grizzlies,1 Day,Denver Nuggets,1 Day
+1/12/2018,10:30 PM,9,Houston Rockets,1 Day,Phoenix Suns,3-4 Days
+1/13/2018,2:00 PM,1,Los Angeles Lakers,1 Day,Dallas Mavericks,2 Days
+1/13/2018,3:30 PM,2,Sacramento Kings,1 Day,Los Angeles Clippers,"3 in 4 Days, no B2B"
+1/13/2018,5:00 PM,3,Oklahoma City Thunder,2 Days,Charlotte Hornets,3 in 4 Days w/ B2B
+1/13/2018,7:00 PM,4,Brooklyn Nets,3 in 4 Days w/ B2B,Washington Wizards,3 in 4 Days w/ B2B
+1/13/2018,7:30 PM,5,Golden State Warriors,3 in 4 Days w/ B2B,Toronto Raptors,1 Day
+1/13/2018,8:00 PM,6,Detroit Pistons,2 Days,Chicago Bulls,2 Days
+1/13/2018,8:30 PM,7,Denver Nuggets,3 in 4 Days w/ B2B,San Antonio Spurs,1 Day
+1/14/2018,1:00 PM,1,Milwaukee Bucks,1 Day,Miami Heat,3-4 Days
+1/14/2018,3:30 PM,2,New Orleans Pelicans,1 Day,New York Knicks,1 Day
+1/14/2018,8:00 PM,3,Indiana Pacers,1 Day,Phoenix Suns,1 Day
+1/14/2018,9:00 PM,4,Portland Trail Blazers,1 Day,Minnesota Timberwolves,1 Day
+1/15/2018,12:30 PM,1,Charlotte Hornets,"3 in 4 Days, no B2B",Detroit Pistons,1 Day
+1/15/2018,1:00 PM,2,Toronto Raptors,1 Day,Philadelphia 76ers,3-4 Days
+1/15/2018,2:00 PM,3,Milwaukee Bucks,3 in 4 Days w/ B2B,Washington Wizards,"3 in 4 Days, no B2B"
+1/15/2018,3:00 PM,4,New York Knicks,3 in 4 Days w/ B2B,Brooklyn Nets,"3 in 4 Days, no B2B"
+1/15/2018,3:00 PM,5,Sacramento Kings,1 Day,Oklahoma City Thunder,1 Day
+1/15/2018,3:00 PM,6,San Antonio Spurs,1 Day,Atlanta Hawks,2 Days
+1/15/2018,3:30 PM,7,Miami Heat,Back to Back,Chicago Bulls,1 Day
+1/15/2018,5:30 PM,8,Los Angeles Lakers,1 Day,Memphis Grizzlies,2 Days
+1/15/2018,8:00 PM,9,Golden State Warriors,"3 in 4 Days, no B2B",Cleveland Cavaliers,2 Days
+1/15/2018,9:00 PM,10,Indiana Pacers,3 in 4 Days w/ B2B,Utah Jazz,2 Days
+1/15/2018,10:30 PM,11,Houston Rockets,2 Days,Los Angeles Clippers,1 Day
+1/16/2018,7:00 PM,1,Minnesota Timberwolves,1 Day,Orlando Magic,3-4 Days
+1/16/2018,7:30 PM,2,New Orleans Pelicans,1 Day,Boston Celtics,3-4 Days
+1/16/2018,9:00 PM,3,Dallas Mavericks,2 Days,Denver Nuggets,2 Days
+1/16/2018,10:00 PM,4,Phoenix Suns,1 Day,Portland Trail Blazers,1 Day
+1/17/2018,7:00 PM,1,Washington Wizards,1 Day,Charlotte Hornets,1 Day
+1/17/2018,7:30 PM,2,Detroit Pistons,1 Day,Toronto Raptors,1 Day
+1/17/2018,7:30 PM,3,New Orleans Pelicans,3 in 4 Days w/ B2B,Atlanta Hawks,1 Day
+1/17/2018,7:30 PM,4,San Antonio Spurs,1 Day,Brooklyn Nets,1 Day
+1/17/2018,8:00 PM,5,Miami Heat,"3 in 4 Days, no B2B",Milwaukee Bucks,"3 in 4 Days, no B2B"
+1/17/2018,8:00 PM,6,New York Knicks,"3 in 4 Days, no B2B",Memphis Grizzlies,1 Day
+1/17/2018,8:00 PM,7,Los Angeles Lakers,1 Day,Oklahoma City Thunder,1 Day
+1/17/2018,8:00 PM,8,Golden State Warriors,1 Day,Chicago Bulls,1 Day
+1/17/2018,10:00 PM,9,Utah Jazz,1 Day,Sacramento Kings,1 Day
+1/17/2018,10:30 PM,10,Denver Nuggets,Back to Back,Los Angeles Clippers,1 Day
+1/18/2018,7:00 PM,1,Orlando Magic,1 Day,Cleveland Cavaliers,2 Days
+1/18/2018,7:00 PM,2,Philadelphia 76ers,2 Days,Boston Celtics,1 Day
+1/18/2018,9:30 PM,3,Minnesota Timberwolves,1 Day,Houston Rockets,2 Days
+1/18/2018,10:00 PM,4,Indiana Pacers,2 Days,Portland Trail Blazers,1 Day
+1/19/2018,7:00 PM,1,San Antonio Spurs,1 Day,Toronto Raptors,1 Day
+1/19/2018,7:30 PM,2,Miami Heat,1 Day,Brooklyn Nets,1 Day
+1/19/2018,8:00 PM,3,Washington Wizards,1 Day,Detroit Pistons,1 Day
+1/19/2018,8:00 PM,4,Sacramento Kings,1 Day,Memphis Grizzlies,1 Day
+1/19/2018,9:00 PM,5,Phoenix Suns,2 Days,Denver Nuggets,"3 in 4 Days, no B2B"
+1/19/2018,10:30 PM,6,Indiana Pacers,Back to Back,Los Angeles Lakers,1 Day
+1/19/2018,10:30 PM,7,New York Knicks,1 Day,Utah Jazz,1 Day
+1/20/2018,3:30 PM,1,Oklahoma City Thunder,2 Days,Cleveland Cavaliers,1 Day
+1/20/2018,5:00 PM,2,Chicago Bulls,2 Days,Atlanta Hawks,2 Days
+1/20/2018,7:00 PM,3,Miami Heat,3 in 4 Days w/ B2B,Charlotte Hornets,2 Days
+1/20/2018,7:00 PM,4,Memphis Grizzlies,3 in 4 Days w/ B2B,New Orleans Pelicans,2 Days
+1/20/2018,7:30 PM,5,Milwaukee Bucks,2 Days,Philadelphia 76ers,1 Day
+1/20/2018,8:30 PM,6,Golden State Warriors,2 Days,Houston Rockets,1 Day
+1/20/2018,9:00 PM,7,Toronto Raptors,3 in 4 Days w/ B2B,Minnesota Timberwolves,1 Day
+1/20/2018,9:00 PM,8,Los Angeles Clippers,2 Days,Utah Jazz,3 in 4 Days w/ B2B
+1/20/2018,10:00 PM,9,Dallas Mavericks,3-4 Days,Portland Trail Blazers,1 Day
+1/21/2018,1:00 PM,1,Orlando Magic,2 Days,Boston Celtics,2 Days
+1/21/2018,3:30 PM,2,New York Knicks,1 Day,Los Angeles Lakers,1 Day
+1/21/2018,4:00 PM,3,Brooklyn Nets,1 Day,Detroit Pistons,1 Day
+1/21/2018,7:00 PM,4,Indiana Pacers,"3 in 4 Days, no B2B",San Antonio Spurs,1 Day
+1/22/2018,7:00 PM,1,Sacramento Kings,2 Days,Charlotte Hornets,1 Day
+1/22/2018,7:30 PM,2,Utah Jazz,"3 in 4 Days, no B2B",Atlanta Hawks,1 Day
+1/22/2018,8:00 PM,3,Philadelphia 76ers,1 Day,Memphis Grizzlies,"3 in 4 Days, no B2B"
+1/22/2018,8:00 PM,4,Miami Heat,"3 in 4 Days, no B2B",Houston Rockets,1 Day
+1/22/2018,8:00 PM,5,Chicago Bulls,1 Day,New Orleans Pelicans,1 Day
+1/22/2018,8:00 PM,6,Phoenix Suns,2 Days,Milwaukee Bucks,1 Day
+1/22/2018,8:30 PM,7,Washington Wizards,2 Days,Dallas Mavericks,1 Day
+1/22/2018,9:00 PM,8,Portland Trail Blazers,1 Day,Denver Nuggets,2 Days
+1/22/2018,10:30 PM,9,Minnesota Timberwolves,1 Day,Los Angeles Clippers,1 Day
+1/23/2018,7:00 PM,1,Sacramento Kings,Back to Back,Orlando Magic,1 Day
+1/23/2018,8:00 PM,2,Brooklyn Nets,1 Day,Oklahoma City Thunder,2 Days
+1/23/2018,8:00 PM,3,Cleveland Cavaliers,2 Days,San Antonio Spurs,1 Day
+1/23/2018,10:30 PM,4,Boston Celtics,1 Day,Los Angeles Lakers,1 Day
+1/23/2018,10:30 PM,5,New York Knicks,1 Day,Golden State Warriors,2 Days
+1/24/2018,7:00 PM,1,Chicago Bulls,1 Day,Philadelphia 76ers,1 Day
+1/24/2018,7:00 PM,2,New Orleans Pelicans,1 Day,Charlotte Hornets,1 Day
+1/24/2018,7:00 PM,3,Utah Jazz,1 Day,Detroit Pistons,2 Days
+1/24/2018,7:00 PM,4,Phoenix Suns,1 Day,Indiana Pacers,2 Days
+1/24/2018,7:30 PM,5,Toronto Raptors,3-4 Days,Atlanta Hawks,1 Day
+1/24/2018,8:00 PM,6,Houston Rockets,1 Day,Dallas Mavericks,1 Day
+1/24/2018,8:00 PM,7,San Antonio Spurs,3 in 4 Days w/ B2B,Memphis Grizzlies,1 Day
+1/24/2018,10:00 PM,8,Minnesota Timberwolves,1 Day,Portland Trail Blazers,1 Day
+1/24/2018,10:30 PM,9,Boston Celtics,3 in 4 Days w/ B2B,Los Angeles Clippers,1 Day
+1/25/2018,7:30 PM,1,Sacramento Kings,"3 in 4 Days, no B2B",Miami Heat,2 Days
+1/25/2018,8:00 PM,2,Washington Wizards,2 Days,Oklahoma City Thunder,1 Day
+1/25/2018,9:00 PM,3,New York Knicks,1 Day,Denver Nuggets,2 Days
+1/25/2018,10:30 PM,4,Minnesota Timberwolves,3 in 4 Days w/ B2B,Golden State Warriors,1 Day
+1/26/2018,7:00 PM,1,Atlanta Hawks,1 Day,Charlotte Hornets,1 Day
+1/26/2018,7:30 PM,2,Utah Jazz,1 Day,Toronto Raptors,1 Day
+1/26/2018,7:30 PM,3,Indiana Pacers,1 Day,Cleveland Cavaliers,2 Days
+1/26/2018,8:00 PM,4,Brooklyn Nets,2 Days,Milwaukee Bucks,3-4 Days
+1/26/2018,8:00 PM,5,Los Angeles Lakers,2 Days,Chicago Bulls,1 Day
+1/26/2018,8:00 PM,6,Los Angeles Clippers,1 Day,Memphis Grizzlies,1 Day
+1/26/2018,8:00 PM,7,Houston Rockets,1 Day,New Orleans Pelicans,1 Day
+1/26/2018,8:30 PM,8,Portland Trail Blazers,1 Day,Dallas Mavericks,1 Day
+1/26/2018,8:30 PM,9,Philadelphia 76ers,1 Day,San Antonio Spurs,"3 in 4 Days, no B2B"
+1/26/2018,9:00 PM,10,New York Knicks,3 in 4 Days w/ B2B,Phoenix Suns,1 Day
+1/27/2018,7:00 PM,1,Orlando Magic,3-4 Days,Indiana Pacers,3 in 4 Days w/ B2B
+1/27/2018,7:00 PM,2,Oklahoma City Thunder,1 Day,Detroit Pistons,2 Days
+1/27/2018,7:30 PM,3,Charlotte Hornets,3 in 4 Days w/ B2B,Miami Heat,1 Day
+1/27/2018,7:30 PM,4,Washington Wizards,1 Day,Atlanta Hawks,3 in 4 Days w/ B2B
+1/27/2018,8:30 PM,5,Boston Celtics,2 Days,Golden State Warriors,1 Day
+1/27/2018,9:00 PM,6,Dallas Mavericks,3 in 4 Days w/ B2B,Denver Nuggets,1 Day
+1/27/2018,9:00 PM,7,Brooklyn Nets,Back to Back,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+1/28/2018,3:30 PM,1,Milwaukee Bucks,1 Day,Chicago Bulls,1 Day
+1/28/2018,3:30 PM,2,Phoenix Suns,1 Day,Houston Rockets,1 Day
+1/28/2018,4:00 PM,3,Los Angeles Clippers,1 Day,New Orleans Pelicans,1 Day
+1/28/2018,6:00 PM,4,Detroit Pistons,Back to Back,Cleveland Cavaliers,1 Day
+1/28/2018,6:00 PM,5,Philadelphia 76ers,1 Day,Oklahoma City Thunder,3 in 4 Days w/ B2B
+1/28/2018,6:00 PM,6,Los Angeles Lakers,1 Day,Toronto Raptors,1 Day
+1/28/2018,7:00 PM,7,Sacramento Kings,2 Days,San Antonio Spurs,1 Day
+1/29/2018,7:00 PM,1,Charlotte Hornets,"3 in 4 Days, no B2B",Indiana Pacers,"3 in 4 Days, no B2B"
+1/29/2018,7:30 PM,2,Minnesota Timberwolves,1 Day,Atlanta Hawks,"3 in 4 Days, no B2B"
+1/29/2018,8:00 PM,3,Philadelphia 76ers,3 in 4 Days w/ B2B,Milwaukee Bucks,3 in 4 Days w/ B2B
+1/29/2018,8:00 PM,4,Phoenix Suns,3 in 4 Days w/ B2B,Memphis Grizzlies,2 Days
+1/29/2018,8:30 PM,5,Miami Heat,1 Day,Dallas Mavericks,"3 in 4 Days, no B2B"
+1/29/2018,9:00 PM,6,Boston Celtics,1 Day,Denver Nuggets,1 Day
+1/30/2018,7:00 PM,1,Oklahoma City Thunder,"3 in 4 Days, no B2B",Washington Wizards,2 Days
+1/30/2018,7:30 PM,2,Minnesota Timberwolves,3 in 4 Days w/ B2B,Toronto Raptors,1 Day
+1/30/2018,7:30 PM,3,Brooklyn Nets,2 Days,New York Knicks,3-4 Days
+1/30/2018,8:00 PM,4,Cleveland Cavaliers,1 Day,Detroit Pistons,"3 in 4 Days, no B2B"
+1/30/2018,8:00 PM,5,Orlando Magic,2 Days,Houston Rockets,1 Day
+1/30/2018,8:00 PM,6,Sacramento Kings,1 Day,New Orleans Pelicans,1 Day
+1/30/2018,8:30 PM,7,Denver Nuggets,3 in 4 Days w/ B2B,San Antonio Spurs,1 Day
+1/30/2018,9:00 PM,8,Golden State Warriors,2 Days,Utah Jazz,3-4 Days
+1/30/2018,10:30 PM,9,Portland Trail Blazers,3-4 Days,Los Angeles Clippers,1 Day
+1/31/2018,7:00 PM,1,Memphis Grizzlies,1 Day,Indiana Pacers,1 Day
+1/31/2018,7:00 PM,2,Los Angeles Lakers,2 Days,Orlando Magic,Back to Back
+1/31/2018,7:30 PM,3,Philadelphia 76ers,"3 in 4 Days, no B2B",Brooklyn Nets,Back to Back
+1/31/2018,7:30 PM,4,Charlotte Hornets,1 Day,Atlanta Hawks,1 Day
+1/31/2018,7:30 PM,5,Miami Heat,1 Day,Cleveland Cavaliers,3 in 4 Days w/ B2B
+1/31/2018,8:00 PM,6,New York Knicks,Back to Back,Boston Celtics,1 Day
+1/31/2018,10:00 PM,7,Chicago Bulls,2 Days,Portland Trail Blazers,Back to Back
+1/31/2018,10:30 PM,8,Dallas Mavericks,1 Day,Phoenix Suns,"3 in 4 Days, no B2B"
+2/1/2018,7:00 PM,1,Toronto Raptors,1 Day,Washington Wizards,1 Day
+2/1/2018,7:00 PM,2,Memphis Grizzlies,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+2/1/2018,8:00 PM,3,Houston Rockets,1 Day,San Antonio Spurs,1 Day
+2/1/2018,8:00 PM,4,Milwaukee Bucks,2 Days,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+2/1/2018,10:30 PM,5,Oklahoma City Thunder,1 Day,Denver Nuggets,"3 in 4 Days, no B2B"
+2/2/2018,7:00 PM,1,Indiana Pacers,1 Day,Charlotte Hornets,1 Day
+2/2/2018,7:30 PM,2,Los Angeles Lakers,1 Day,Brooklyn Nets,"3 in 4 Days, no B2B"
+2/2/2018,7:30 PM,3,Portland Trail Blazers,"3 in 4 Days, no B2B",Toronto Raptors,3 in 4 Days w/ B2B
+2/2/2018,7:30 PM,4,Atlanta Hawks,1 Day,Boston Celtics,1 Day
+2/2/2018,8:00 PM,5,Miami Heat,1 Day,Philadelphia 76ers,1 Day
+2/2/2018,8:00 PM,6,New York Knicks,"3 in 4 Days, no B2B",Milwaukee Bucks,Back to Back
+2/2/2018,9:00 PM,7,Utah Jazz,2 Days,Phoenix Suns,1 Day
+2/2/2018,9:00 PM,8,New Orleans Pelicans,2 Days,Oklahoma City Thunder,3 in 4 Days w/ B2B
+2/2/2018,10:30 PM,9,Golden State Warriors,2 Days,Sacramento Kings,2 Days
+2/3/2018,3:30 PM,1,Chicago Bulls,2 Days,Los Angeles Clippers,3-4 Days
+2/3/2018,7:00 PM,2,Philadelphia 76ers,3 in 4 Days w/ B2B,Indiana Pacers,3 in 4 Days w/ B2B
+2/3/2018,7:00 PM,3,Washington Wizards,1 Day,Orlando Magic,2 Days
+2/3/2018,7:00 PM,4,Miami Heat,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+2/3/2018,8:30 PM,5,Houston Rockets,1 Day,Cleveland Cavaliers,2 Days
+2/3/2018,9:00 PM,6,Utah Jazz,Back to Back,San Antonio Spurs,1 Day
+2/3/2018,9:00 PM,7,New Orleans Pelicans,Back to Back,Minnesota Timberwolves,1 Day
+2/3/2018,9:00 PM,8,Golden State Warriors,Back to Back,Denver Nuggets,1 Day
+2/3/2018,10:00 PM,9,Dallas Mavericks,2 Days,Sacramento Kings,Back to Back
+2/4/2018,12:00 PM,1,Portland Trail Blazers,1 Day,Boston Celtics,1 Day
+2/4/2018,12:00 PM,2,Atlanta Hawks,1 Day,New York Knicks,1 Day
+2/4/2018,12:00 PM,3,Memphis Grizzlies,2 Days,Toronto Raptors,"3 in 4 Days, no B2B"
+2/4/2018,12:00 PM,4,Milwaukee Bucks,"3 in 4 Days, no B2B",Brooklyn Nets,1 Day
+2/4/2018,2:00 PM,5,Los Angeles Lakers,1 Day,Oklahoma City Thunder,"3 in 4 Days, no B2B"
+2/4/2018,3:00 PM,6,Charlotte Hornets,1 Day,Phoenix Suns,1 Day
+2/5/2018,7:00 PM,1,Portland Trail Blazers,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+2/5/2018,7:00 PM,2,Washington Wizards,1 Day,Indiana Pacers,"3 in 4 Days, no B2B"
+2/5/2018,7:30 PM,3,Orlando Magic,1 Day,Miami Heat,"3 in 4 Days, no B2B"
+2/5/2018,8:00 PM,4,Utah Jazz,"3 in 4 Days, no B2B",New Orleans Pelicans,"3 in 4 Days, no B2B"
+2/5/2018,9:00 PM,5,Charlotte Hornets,3 in 4 Days w/ B2B,Denver Nuggets,1 Day
+2/5/2018,10:00 PM,6,Chicago Bulls,1 Day,Sacramento Kings,"3 in 4 Days, no B2B"
+2/5/2018,10:30 PM,7,Dallas Mavericks,1 Day,Los Angeles Clippers,1 Day
+2/6/2018,7:00 PM,1,Cleveland Cavaliers,2 Days,Orlando Magic,3 in 4 Days w/ B2B
+2/6/2018,7:30 PM,2,Milwaukee Bucks,1 Day,New York Knicks,1 Day
+2/6/2018,7:30 PM,3,Boston Celtics,1 Day,Toronto Raptors,1 Day
+2/6/2018,7:30 PM,4,Memphis Grizzlies,1 Day,Atlanta Hawks,1 Day
+2/6/2018,7:30 PM,5,Houston Rockets,2 Days,Brooklyn Nets,1 Day
+2/6/2018,8:00 PM,6,Washington Wizards,3 in 4 Days w/ B2B,Philadelphia 76ers,2 Days
+2/6/2018,10:30 PM,7,Phoenix Suns,1 Day,Los Angeles Lakers,1 Day
+2/6/2018,10:30 PM,8,Oklahoma City Thunder,1 Day,Golden State Warriors,2 Days
+2/7/2018,7:00 PM,1,Brooklyn Nets,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+2/7/2018,7:30 PM,2,Houston Rockets,Back to Back,Miami Heat,1 Day
+2/7/2018,8:00 PM,3,Utah Jazz,1 Day,Memphis Grizzlies,3 in 4 Days w/ B2B
+2/7/2018,8:00 PM,4,Indiana Pacers,1 Day,New Orleans Pelicans,1 Day
+2/7/2018,8:00 PM,5,Minnesota Timberwolves,3-4 Days,Cleveland Cavaliers,Back to Back
+2/7/2018,10:30 PM,6,San Antonio Spurs,3-4 Days,Phoenix Suns,3 in 4 Days w/ B2B
+2/8/2018,7:00 PM,1,Atlanta Hawks,1 Day,Orlando Magic,"3 in 4 Days, no B2B"
+2/8/2018,7:30 PM,2,New York Knicks,1 Day,Toronto Raptors,1 Day
+2/8/2018,8:00 PM,3,Boston Celtics,1 Day,Washington Wizards,"3 in 4 Days, no B2B"
+2/8/2018,10:00 PM,4,Charlotte Hornets,2 Days,Portland Trail Blazers,2 Days
+2/8/2018,10:30 PM,5,Dallas Mavericks,2 Days,Golden State Warriors,1 Day
+2/8/2018,10:30 PM,6,Oklahoma City Thunder,1 Day,Los Angeles Lakers,1 Day
+2/9/2018,7:00 PM,1,Los Angeles Clippers,3-4 Days,Detroit Pistons,1 Day
+2/9/2018,7:00 PM,2,New Orleans Pelicans,1 Day,Philadelphia 76ers,2 Days
+2/9/2018,7:30 PM,3,Cleveland Cavaliers,"3 in 4 Days, no B2B",Atlanta Hawks,3 in 4 Days w/ B2B
+2/9/2018,7:30 PM,4,Indiana Pacers,1 Day,Boston Celtics,3 in 4 Days w/ B2B
+2/9/2018,8:00 PM,5,Milwaukee Bucks,2 Days,Miami Heat,1 Day
+2/9/2018,8:00 PM,6,Denver Nuggets,3-4 Days,Houston Rockets,"3 in 4 Days, no B2B"
+2/9/2018,8:00 PM,7,Minnesota Timberwolves,1 Day,Chicago Bulls,3-4 Days
+2/9/2018,9:00 PM,8,Charlotte Hornets,Back to Back,Utah Jazz,1 Day
+2/9/2018,10:30 PM,9,Portland Trail Blazers,Back to Back,Sacramento Kings,3-4 Days
+2/10/2018,6:00 PM,1,New Orleans Pelicans,3 in 4 Days w/ B2B,Brooklyn Nets,2 Days
+2/10/2018,7:00 PM,2,Los Angeles Clippers,Back to Back,Philadelphia 76ers,Back to Back
+2/10/2018,7:00 PM,3,Milwaukee Bucks,Back to Back,Orlando Magic,1 Day
+2/10/2018,8:00 PM,4,Washington Wizards,1 Day,Chicago Bulls,Back to Back
+2/10/2018,8:30 PM,5,San Antonio Spurs,2 Days,Golden State Warriors,1 Day
+2/10/2018,8:30 PM,6,Los Angeles Lakers,1 Day,Dallas Mavericks,1 Day
+2/10/2018,9:00 PM,7,Denver Nuggets,Back to Back,Phoenix Suns,2 Days
+2/11/2018,1:00 PM,1,Toronto Raptors,2 Days,Charlotte Hornets,"3 in 4 Days, no B2B"
+2/11/2018,3:30 PM,2,Cleveland Cavaliers,1 Day,Boston Celtics,"3 in 4 Days, no B2B"
+2/11/2018,3:30 PM,3,Detroit Pistons,1 Day,Atlanta Hawks,"3 in 4 Days, no B2B"
+2/11/2018,5:00 PM,4,New York Knicks,2 Days,Indiana Pacers,1 Day
+2/11/2018,7:00 PM,5,Dallas Mavericks,3 in 4 Days w/ B2B,Houston Rockets,1 Day
+2/11/2018,7:00 PM,6,Memphis Grizzlies,3-4 Days,Oklahoma City Thunder,2 Days
+2/11/2018,7:00 PM,7,Sacramento Kings,1 Day,Minnesota Timberwolves,1 Day
+2/11/2018,9:00 PM,8,Utah Jazz,1 Day,Portland Trail Blazers,"3 in 4 Days, no B2B"
+2/12/2018,7:00 PM,1,New York Knicks,Back to Back,Philadelphia 76ers,"3 in 4 Days, no B2B"
+2/12/2018,7:00 PM,2,New Orleans Pelicans,"3 in 4 Days, no B2B",Detroit Pistons,3 in 4 Days w/ B2B
+2/12/2018,7:30 PM,3,Los Angeles Clippers,"3 in 4 Days, no B2B",Brooklyn Nets,1 Day
+2/12/2018,8:00 PM,4,Orlando Magic,1 Day,Chicago Bulls,"3 in 4 Days, no B2B"
+2/12/2018,9:00 PM,5,San Antonio Spurs,1 Day,Utah Jazz,3 in 4 Days w/ B2B
+2/12/2018,10:30 PM,6,Phoenix Suns,1 Day,Golden State Warriors,1 Day
+2/13/2018,7:00 PM,1,Miami Heat,3-4 Days,Toronto Raptors,1 Day
+2/13/2018,8:00 PM,2,Atlanta Hawks,1 Day,Milwaukee Bucks,2 Days
+2/13/2018,8:00 PM,3,Houston Rockets,1 Day,Minnesota Timberwolves,1 Day
+2/13/2018,8:00 PM,4,Cleveland Cavaliers,1 Day,Oklahoma City Thunder,1 Day
+2/13/2018,8:30 PM,5,Sacramento Kings,1 Day,Dallas Mavericks,"3 in 4 Days, no B2B"
+2/13/2018,10:30 PM,6,San Antonio Spurs,3 in 4 Days w/ B2B,Denver Nuggets,2 Days
+2/14/2018,7:00 PM,1,Miami Heat,Back to Back,Philadelphia 76ers,1 Day
+2/14/2018,7:00 PM,2,Atlanta Hawks,3 in 4 Days w/ B2B,Detroit Pistons,"3 in 4 Days, no B2B"
+2/14/2018,7:00 PM,3,Charlotte Hornets,2 Days,Orlando Magic,1 Day
+2/14/2018,7:30 PM,4,Washington Wizards,3-4 Days,New York Knicks,"3 in 4 Days, no B2B"
+2/14/2018,7:30 PM,5,Indiana Pacers,2 Days,Brooklyn Nets,1 Day
+2/14/2018,8:00 PM,6,Los Angeles Clippers,1 Day,Boston Celtics,2 Days
+2/14/2018,8:00 PM,7,Oklahoma City Thunder,3 in 4 Days w/ B2B,Memphis Grizzlies,2 Days
+2/14/2018,8:00 PM,8,Toronto Raptors,3 in 4 Days w/ B2B,Chicago Bulls,1 Day
+2/14/2018,8:00 PM,9,Los Angeles Lakers,3-4 Days,New Orleans Pelicans,1 Day
+2/14/2018,8:00 PM,10,Sacramento Kings,3 in 4 Days w/ B2B,Houston Rockets,3 in 4 Days w/ B2B
+2/14/2018,9:00 PM,11,Phoenix Suns,1 Day,Utah Jazz,"3 in 4 Days, no B2B"
+2/14/2018,10:30 PM,12,Golden State Warriors,1 Day,Portland Trail Blazers,2 Days
+2/15/2018,8:00 PM,1,Denver Nuggets,1 Day,Milwaukee Bucks,1 Day
+2/15/2018,9:00 PM,2,Los Angeles Lakers,Back to Back,Minnesota Timberwolves,1 Day
+2/22/2018,7:00 PM,1,Brooklyn Nets,5+ Days,Charlotte Hornets,5+ Days
+2/22/2018,7:00 PM,2,New York Knicks,5+ Days,Orlando Magic,5+ Days
+2/22/2018,8:00 PM,3,Philadelphia 76ers,5+ Days,Chicago Bulls,5+ Days
+2/22/2018,8:00 PM,4,Washington Wizards,5+ Days,Cleveland Cavaliers,5+ Days
+2/22/2018,10:00 PM,5,Oklahoma City Thunder,5+ Days,Sacramento Kings,5+ Days
+2/22/2018,10:30 PM,6,Los Angeles Clippers,5+ Days,Golden State Warriors,5+ Days
+2/23/2018,7:00 PM,1,Boston Celtics,5+ Days,Detroit Pistons,5+ Days
+2/23/2018,7:00 PM,2,Charlotte Hornets,Back to Back,Washington Wizards,Back to Back
+2/23/2018,7:00 PM,3,Atlanta Hawks,5+ Days,Indiana Pacers,5+ Days
+2/23/2018,7:30 PM,4,Milwaukee Bucks,5+ Days,Toronto Raptors,5+ Days
+2/23/2018,8:00 PM,5,Cleveland Cavaliers,Back to Back,Memphis Grizzlies,5+ Days
+2/23/2018,8:00 PM,6,Minnesota Timberwolves,5+ Days,Houston Rockets,5+ Days
+2/23/2018,8:00 PM,7,Miami Heat,5+ Days,New Orleans Pelicans,5+ Days
+2/23/2018,9:00 PM,8,Portland Trail Blazers,5+ Days,Utah Jazz,5+ Days
+2/23/2018,9:00 PM,9,Los Angeles Clippers,Back to Back,Phoenix Suns,5+ Days
+2/23/2018,9:00 PM,10,San Antonio Spurs,5+ Days,Denver Nuggets,5+ Days
+2/23/2018,10:30 PM,11,Dallas Mavericks,5+ Days,Los Angeles Lakers,5+ Days
+2/24/2018,5:00 PM,1,Orlando Magic,1 Day,Philadelphia 76ers,1 Day
+2/24/2018,7:30 PM,2,Boston Celtics,Back to Back,New York Knicks,1 Day
+2/24/2018,7:30 PM,3,Memphis Grizzlies,Back to Back,Miami Heat,Back to Back
+2/24/2018,8:30 PM,4,Oklahoma City Thunder,1 Day,Golden State Warriors,1 Day
+2/24/2018,9:00 PM,5,Portland Trail Blazers,Back to Back,Phoenix Suns,Back to Back
+2/24/2018,9:00 PM,6,Dallas Mavericks,Back to Back,Utah Jazz,Back to Back
+2/24/2018,9:00 PM,7,Chicago Bulls,1 Day,Minnesota Timberwolves,Back to Back
+2/24/2018,10:00 PM,8,Los Angeles Lakers,Back to Back,Sacramento Kings,1 Day
+2/25/2018,1:00 PM,1,Detroit Pistons,1 Day,Charlotte Hornets,"3 in 4 Days, no B2B"
+2/25/2018,3:00 PM,2,New Orleans Pelicans,1 Day,Milwaukee Bucks,1 Day
+2/25/2018,3:30 PM,3,San Antonio Spurs,1 Day,Cleveland Cavaliers,"3 in 4 Days, no B2B"
+2/25/2018,8:00 PM,4,Houston Rockets,1 Day,Denver Nuggets,1 Day
+2/25/2018,8:00 PM,5,Philadelphia 76ers,3 in 4 Days w/ B2B,Washington Wizards,"3 in 4 Days, no B2B"
+2/26/2018,7:30 PM,1,Golden State Warriors,1 Day,New York Knicks,1 Day
+2/26/2018,7:30 PM,2,Detroit Pistons,3 in 4 Days w/ B2B,Toronto Raptors,2 Days
+2/26/2018,7:30 PM,3,Chicago Bulls,1 Day,Brooklyn Nets,3-4 Days
+2/26/2018,7:30 PM,4,Memphis Grizzlies,"3 in 4 Days, no B2B",Boston Celtics,"3 in 4 Days, no B2B"
+2/26/2018,7:30 PM,5,Los Angeles Lakers,"3 in 4 Days, no B2B",Atlanta Hawks,2 Days
+2/26/2018,8:00 PM,6,Phoenix Suns,"3 in 4 Days, no B2B",New Orleans Pelicans,3 in 4 Days w/ B2B
+2/26/2018,8:00 PM,7,Orlando Magic,1 Day,Oklahoma City Thunder,1 Day
+2/26/2018,8:30 PM,8,Indiana Pacers,2 Days,Dallas Mavericks,"3 in 4 Days, no B2B"
+2/26/2018,9:00 PM,9,Houston Rockets,3 in 4 Days w/ B2B,Utah Jazz,"3 in 4 Days, no B2B"
+2/26/2018,10:00 PM,10,Minnesota Timberwolves,"3 in 4 Days, no B2B",Sacramento Kings,1 Day
+2/27/2018,7:00 PM,1,Chicago Bulls,3 in 4 Days w/ B2B,Charlotte Hornets,1 Day
+2/27/2018,7:00 PM,2,Brooklyn Nets,Back to Back,Cleveland Cavaliers,1 Day
+2/27/2018,7:30 PM,3,Philadelphia 76ers,"3 in 4 Days, no B2B",Miami Heat,2 Days
+2/27/2018,8:00 PM,4,Washington Wizards,1 Day,Milwaukee Bucks,1 Day
+2/27/2018,10:00 PM,5,Sacramento Kings,3 in 4 Days w/ B2B,Portland Trail Blazers,2 Days
+2/27/2018,10:30 PM,6,Los Angeles Clippers,3-4 Days,Denver Nuggets,1 Day
+2/28/2018,7:00 PM,7,Toronto Raptors,1 Day,Orlando Magic,1 Day
+2/28/2018,7:00 PM,1,Milwaukee Bucks,3 in 4 Days w/ B2B,Detroit Pistons,"3 in 4 Days, no B2B"
+2/28/2018,7:30 PM,2,Charlotte Hornets,3 in 4 Days w/ B2B,Boston Celtics,1 Day
+2/28/2018,7:30 PM,3,Indiana Pacers,1 Day,Atlanta Hawks,1 Day
+2/28/2018,8:00 PM,4,Phoenix Suns,1 Day,Memphis Grizzlies,1 Day
+2/28/2018,8:00 PM,5,Golden State Warriors,1 Day,Washington Wizards,3 in 4 Days w/ B2B
+2/28/2018,8:30 PM,6,Oklahoma City Thunder,1 Day,Dallas Mavericks,1 Day
+2/28/2018,8:30 PM,7,New Orleans Pelicans,"3 in 4 Days, no B2B",San Antonio Spurs,2 Days
+2/28/2018,10:30 PM,8,Houston Rockets,"3 in 4 Days, no B2B",Los Angeles Clippers,Back to Back
+3/1/2018,7:30 PM,1,Los Angeles Lakers,2 Days,Miami Heat,1 Day
+3/1/2018,8:00 PM,2,Philadelphia 76ers,1 Day,Cleveland Cavaliers,1 Day
+3/1/2018,10:00 PM,3,Brooklyn Nets,"3 in 4 Days, no B2B",Sacramento Kings,"3 in 4 Days, no B2B"
+3/1/2018,10:30 PM,4,Minnesota Timberwolves,2 Days,Portland Trail Blazers,1 Day
+3/2/2018,7:00 PM,1,Charlotte Hornets,"3 in 4 Days, no B2B",Philadelphia 76ers,3 in 4 Days w/ B2B
+3/2/2018,7:00 PM,2,Detroit Pistons,1 Day,Orlando Magic,1 Day
+3/2/2018,7:30 PM,3,Golden State Warriors,1 Day,Atlanta Hawks,1 Day
+3/2/2018,8:00 PM,4,Denver Nuggets,2 Days,Memphis Grizzlies,1 Day
+3/2/2018,8:00 PM,5,Dallas Mavericks,1 Day,Chicago Bulls,2 Days
+3/2/2018,8:00 PM,6,Indiana Pacers,1 Day,Milwaukee Bucks,"3 in 4 Days, no B2B"
+3/2/2018,8:00 PM,7,Toronto Raptors,1 Day,Washington Wizards,"3 in 4 Days, no B2B"
+3/2/2018,9:00 PM,8,Oklahoma City Thunder,1 Day,Phoenix Suns,1 Day
+3/2/2018,10:30 PM,9,New York Knicks,3-4 Days,Los Angeles Clippers,"3 in 4 Days, no B2B"
+3/2/2018,10:30 PM,10,Minnesota Timberwolves,Back to Back,Utah Jazz,3-4 Days
+3/3/2018,7:00 PM,1,Memphis Grizzlies,3 in 4 Days w/ B2B,Orlando Magic,3 in 4 Days w/ B2B
+3/3/2018,7:30 PM,2,Denver Nuggets,Back to Back,Cleveland Cavaliers,1 Day
+3/3/2018,7:30 PM,3,Detroit Pistons,3 in 4 Days w/ B2B,Miami Heat,1 Day
+3/3/2018,8:30 PM,4,Boston Celtics,2 Days,Houston Rockets,2 Days
+3/3/2018,9:00 PM,5,Los Angeles Lakers,1 Day,San Antonio Spurs,2 Days
+3/3/2018,10:00 PM,6,Utah Jazz,Back to Back,Sacramento Kings,1 Day
+3/3/2018,10:00 PM,7,Oklahoma City Thunder,3 in 4 Days w/ B2B,Portland Trail Blazers,1 Day
+3/4/2018,3:30 PM,1,Phoenix Suns,1 Day,Atlanta Hawks,1 Day
+3/4/2018,6:00 PM,2,Charlotte Hornets,1 Day,Toronto Raptors,1 Day
+3/4/2018,6:00 PM,3,Indiana Pacers,1 Day,Washington Wizards,1 Day
+3/4/2018,7:00 PM,4,New Orleans Pelicans,3-4 Days,Dallas Mavericks,1 Day
+3/4/2018,8:00 PM,5,Philadelphia 76ers,"3 in 4 Days, no B2B",Milwaukee Bucks,1 Day
+3/4/2018,9:00 PM,6,Brooklyn Nets,2 Days,Los Angeles Clippers,1 Day
+3/4/2018,9:00 PM,7,New York Knicks,1 Day,Sacramento Kings,3 in 4 Days w/ B2B
+3/5/2018,7:00 PM,1,Detroit Pistons,"3 in 4 Days, no B2B",Cleveland Cavaliers,1 Day
+3/5/2018,7:00 PM,2,Milwaukee Bucks,3 in 4 Days w/ B2B,Indiana Pacers,3 in 4 Days w/ B2B
+3/5/2018,7:30 PM,3,Phoenix Suns,3 in 4 Days w/ B2B,Miami Heat,1 Day
+3/5/2018,8:00 PM,4,Boston Celtics,1 Day,Chicago Bulls,2 Days
+3/5/2018,8:30 PM,5,Memphis Grizzlies,"3 in 4 Days, no B2B",San Antonio Spurs,1 Day
+3/5/2018,9:00 PM,6,Orlando Magic,"3 in 4 Days, no B2B",Utah Jazz,"3 in 4 Days, no B2B"
+3/5/2018,10:30 PM,7,Portland Trail Blazers,1 Day,Los Angeles Lakers,1 Day
+3/6/2018,7:00 PM,1,Philadelphia 76ers,1 Day,Charlotte Hornets,1 Day
+3/6/2018,7:00 PM,2,Atlanta Hawks,1 Day,Toronto Raptors,1 Day
+3/6/2018,7:00 PM,3,Miami Heat,3 in 4 Days w/ B2B,Washington Wizards,1 Day
+3/6/2018,8:00 PM,4,Houston Rockets,2 Days,Oklahoma City Thunder,2 Days
+3/6/2018,8:30 PM,5,Denver Nuggets,2 Days,Dallas Mavericks,1 Day
+3/6/2018,10:00 PM,6,New York Knicks,1 Day,Portland Trail Blazers,3 in 4 Days w/ B2B
+3/6/2018,10:30 PM,7,New Orleans Pelicans,1 Day,Los Angeles Clippers,1 Day
+3/6/2018,10:30 PM,8,Brooklyn Nets,1 Day,Golden State Warriors,3-4 Days
+3/7/2018,7:00 PM,1,Utah Jazz,1 Day,Indiana Pacers,"3 in 4 Days, no B2B"
+3/7/2018,8:00 PM,2,Memphis Grizzlies,1 Day,Chicago Bulls,1 Day
+3/7/2018,8:00 PM,3,Toronto Raptors,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+3/7/2018,8:00 PM,4,Houston Rockets,Back to Back,Milwaukee Bucks,"3 in 4 Days, no B2B"
+3/7/2018,10:00 PM,5,New Orleans Pelicans,3 in 4 Days w/ B2B,Sacramento Kings,2 Days
+3/7/2018,10:30 PM,6,Cleveland Cavaliers,1 Day,Denver Nuggets,Back to Back
+3/7/2018,10:30 PM,7,Orlando Magic,1 Day,Los Angeles Lakers,1 Day
+3/8/2018,7:00 PM,1,Brooklyn Nets,1 Day,Charlotte Hornets,1 Day
+3/8/2018,7:30 PM,2,Philadelphia 76ers,1 Day,Miami Heat,"3 in 4 Days, no B2B"
+3/8/2018,8:00 PM,3,Boston Celtics,2 Days,Minnesota Timberwolves,5+ Days
+3/8/2018,8:00 PM,4,Phoenix Suns,2 Days,Oklahoma City Thunder,1 Day
+3/8/2018,10:30 PM,5,San Antonio Spurs,2 Days,Golden State Warriors,1 Day
+3/9/2018,7:00 PM,1,Chicago Bulls,1 Day,Detroit Pistons,1 Day
+3/9/2018,7:00 PM,2,Atlanta Hawks,2 Days,Indiana Pacers,1 Day
+3/9/2018,7:30 PM,3,Houston Rockets,"3 in 4 Days, no B2B",Toronto Raptors,"3 in 4 Days, no B2B"
+3/9/2018,8:00 PM,4,Utah Jazz,1 Day,Memphis Grizzlies,1 Day
+3/9/2018,8:00 PM,5,New York Knicks,2 Days,Milwaukee Bucks,1 Day
+3/9/2018,8:00 PM,6,Washington Wizards,2 Days,New Orleans Pelicans,"3 in 4 Days, no B2B"
+3/9/2018,9:00 PM,7,Los Angeles Lakers,1 Day,Denver Nuggets,"3 in 4 Days, no B2B"
+3/9/2018,10:00 PM,8,Golden State Warriors,3 in 4 Days w/ B2B,Portland Trail Blazers,2 Days
+3/9/2018,10:00 PM,9,Orlando Magic,1 Day,Sacramento Kings,1 Day
+3/9/2018,10:30 PM,10,Cleveland Cavaliers,1 Day,Los Angeles Clippers,2 Days
+3/10/2018,5:00 PM,1,Phoenix Suns,1 Day,Charlotte Hornets,1 Day
+3/10/2018,7:30 PM,2,Washington Wizards,Back to Back,Miami Heat,1 Day
+3/10/2018,8:30 PM,3,Memphis Grizzlies,3 in 4 Days w/ B2B,Dallas Mavericks,3-4 Days
+3/10/2018,8:30 PM,4,San Antonio Spurs,1 Day,Oklahoma City Thunder,1 Day
+3/10/2018,10:30 PM,5,Orlando Magic,3 in 4 Days w/ B2B,Los Angeles Clippers,Back to Back
+3/11/2018,1:00 PM,1,Toronto Raptors,1 Day,New York Knicks,1 Day
+3/11/2018,3:30 PM,2,Golden State Warriors,"3 in 4 Days, no B2B",Minnesota Timberwolves,2 Days
+3/11/2018,3:30 PM,3,Chicago Bulls,1 Day,Atlanta Hawks,1 Day
+3/11/2018,4:00 PM,4,Utah Jazz,1 Day,New Orleans Pelicans,1 Day
+3/11/2018,5:00 PM,5,Sacramento Kings,1 Day,Denver Nuggets,1 Day
+3/11/2018,7:00 PM,6,Houston Rockets,1 Day,Dallas Mavericks,Back to Back
+3/11/2018,7:30 PM,7,Philadelphia 76ers,2 Days,Brooklyn Nets,2 Days
+3/11/2018,7:30 PM,8,Indiana Pacers,1 Day,Boston Celtics,2 Days
+3/11/2018,9:00 PM,9,Cleveland Cavaliers,1 Day,Los Angeles Lakers,1 Day
+3/12/2018,8:00 PM,1,Milwaukee Bucks,2 Days,Memphis Grizzlies,"3 in 4 Days, no B2B"
+3/12/2018,8:00 PM,2,San Antonio Spurs,1 Day,Houston Rockets,3 in 4 Days w/ B2B
+3/12/2018,8:00 PM,3,Sacramento Kings,3 in 4 Days w/ B2B,Oklahoma City Thunder,1 Day
+3/12/2018,10:30 PM,4,Miami Heat,1 Day,Portland Trail Blazers,2 Days
+3/13/2018,7:00 PM,1,Indiana Pacers,1 Day,Philadelphia 76ers,1 Day
+3/13/2018,7:00 PM,2,Minnesota Timberwolves,1 Day,Washington Wizards,2 Days
+3/13/2018,7:30 PM,3,Toronto Raptors,1 Day,Brooklyn Nets,1 Day
+3/13/2018,7:30 PM,4,Dallas Mavericks,"3 in 4 Days, no B2B",New York Knicks,1 Day
+3/13/2018,7:30 PM,5,Oklahoma City Thunder,3 in 4 Days w/ B2B,Atlanta Hawks,1 Day
+3/13/2018,8:00 PM,6,Los Angeles Clippers,2 Days,Chicago Bulls,1 Day
+3/13/2018,8:00 PM,7,Charlotte Hornets,2 Days,New Orleans Pelicans,1 Day
+3/13/2018,8:30 PM,8,Orlando Magic,2 Days,San Antonio Spurs,3 in 4 Days w/ B2B
+3/13/2018,9:00 PM,9,Detroit Pistons,3-4 Days,Utah Jazz,1 Day
+3/13/2018,10:00 PM,10,Cleveland Cavaliers,1 Day,Phoenix Suns,2 Days
+3/13/2018,10:30 PM,11,Denver Nuggets,1 Day,Los Angeles Lakers,1 Day
+3/14/2018,7:00 PM,1,Milwaukee Bucks,1 Day,Orlando Magic,Back to Back
+3/14/2018,8:00 PM,2,Washington Wizards,Back to Back,Boston Celtics,2 Days
+3/14/2018,10:00 PM,3,Miami Heat,1 Day,Sacramento Kings,"3 in 4 Days, no B2B"
+3/14/2018,10:30 PM,4,Los Angeles Lakers,3 in 4 Days w/ B2B,Golden State Warriors,2 Days
+3/15/2018,7:00 PM,1,Toronto Raptors,1 Day,Indiana Pacers,1 Day
+3/15/2018,7:30 PM,2,Philadelphia 76ers,1 Day,New York Knicks,1 Day
+3/15/2018,7:30 PM,3,Charlotte Hornets,1 Day,Atlanta Hawks,1 Day
+3/15/2018,8:00 PM,4,Los Angeles Clippers,1 Day,Houston Rockets,2 Days
+3/15/2018,8:00 PM,5,Chicago Bulls,1 Day,Memphis Grizzlies,2 Days
+3/15/2018,8:30 PM,6,New Orleans Pelicans,1 Day,San Antonio Spurs,"3 in 4 Days, no B2B"
+3/15/2018,9:00 PM,7,Phoenix Suns,1 Day,Utah Jazz,1 Day
+3/15/2018,9:00 PM,8,Detroit Pistons,1 Day,Denver Nuggets,1 Day
+3/15/2018,10:00 PM,9,Cleveland Cavaliers,1 Day,Portland Trail Blazers,2 Days
+3/16/2018,7:00 PM,1,Brooklyn Nets,2 Days,Philadelphia 76ers,3 in 4 Days w/ B2B
+3/16/2018,7:00 PM,2,Boston Celtics,1 Day,Orlando Magic,"3 in 4 Days, no B2B"
+3/16/2018,7:30 PM,3,Dallas Mavericks,2 Days,Toronto Raptors,3 in 4 Days w/ B2B
+3/16/2018,8:00 PM,4,Los Angeles Clippers,3 in 4 Days w/ B2B,Oklahoma City Thunder,2 Days
+3/16/2018,10:30 PM,5,Sacramento Kings,1 Day,Golden State Warriors,1 Day
+3/16/2018,10:30 PM,6,Miami Heat,1 Day,Los Angeles Lakers,"3 in 4 Days, no B2B"
+3/17/2018,7:00 PM,1,Houston Rockets,1 Day,New Orleans Pelicans,1 Day
+3/17/2018,7:00 PM,2,Indiana Pacers,1 Day,Washington Wizards,2 Days
+3/17/2018,7:30 PM,3,Charlotte Hornets,1 Day,New York Knicks,1 Day
+3/17/2018,7:30 PM,4,Dallas Mavericks,Back to Back,Brooklyn Nets,Back to Back
+3/17/2018,8:00 PM,5,Denver Nuggets,1 Day,Memphis Grizzlies,1 Day
+3/17/2018,8:00 PM,6,Cleveland Cavaliers,1 Day,Chicago Bulls,1 Day
+3/17/2018,8:30 PM,7,Minnesota Timberwolves,3-4 Days,San Antonio Spurs,1 Day
+3/17/2018,8:30 PM,8,Atlanta Hawks,1 Day,Milwaukee Bucks,2 Days
+3/17/2018,9:00 PM,9,Sacramento Kings,3 in 4 Days w/ B2B,Utah Jazz,1 Day
+3/17/2018,10:00 PM,10,Detroit Pistons,1 Day,Portland Trail Blazers,1 Day
+3/17/2018,10:00 PM,11,Golden State Warriors,3 in 4 Days w/ B2B,Phoenix Suns,1 Day
+3/18/2018,1:00 PM,1,Oklahoma City Thunder,1 Day,Toronto Raptors,"3 in 4 Days, no B2B"
+3/18/2018,6:00 PM,2,Boston Celtics,1 Day,New Orleans Pelicans,3 in 4 Days w/ B2B
+3/18/2018,7:00 PM,3,Houston Rockets,3 in 4 Days w/ B2B,Minnesota Timberwolves,Back to Back
+3/18/2018,10:30 PM,4,Portland Trail Blazers,3 in 4 Days w/ B2B,Los Angeles Clippers,"3 in 4 Days, no B2B"
+3/19/2018,7:00 PM,1,Charlotte Hornets,1 Day,Philadelphia 76ers,2 Days
+3/19/2018,7:00 PM,2,Milwaukee Bucks,1 Day,Cleveland Cavaliers,1 Day
+3/19/2018,7:00 PM,3,Los Angeles Lakers,2 Days,Indiana Pacers,1 Day
+3/19/2018,7:30 PM,4,Memphis Grizzlies,1 Day,Brooklyn Nets,"3 in 4 Days, no B2B"
+3/19/2018,7:30 PM,5,Chicago Bulls,1 Day,New York Knicks,1 Day
+3/19/2018,7:30 PM,6,Denver Nuggets,1 Day,Miami Heat,2 Days
+3/19/2018,9:30 PM,7,Golden State Warriors,"3 in 4 Days, no B2B",San Antonio Spurs,1 Day
+3/19/2018,10:00 PM,8,Detroit Pistons,1 Day,Sacramento Kings,"3 in 4 Days, no B2B"
+3/20/2018,7:00 PM,1,Toronto Raptors,1 Day,Orlando Magic,3-4 Days
+3/20/2018,8:00 PM,2,Los Angeles Clippers,1 Day,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+3/20/2018,8:00 PM,3,Dallas Mavericks,2 Days,New Orleans Pelicans,"3 in 4 Days, no B2B"
+3/20/2018,8:00 PM,4,Oklahoma City Thunder,1 Day,Boston Celtics,1 Day
+3/20/2018,9:00 PM,5,Atlanta Hawks,2 Days,Utah Jazz,2 Days
+3/20/2018,10:00 PM,6,Detroit Pistons,3 in 4 Days w/ B2B,Phoenix Suns,2 Days
+3/20/2018,10:30 PM,7,Houston Rockets,"3 in 4 Days, no B2B",Portland Trail Blazers,"3 in 4 Days, no B2B"
+3/21/2018,7:00 PM,1,Memphis Grizzlies,1 Day,Philadelphia 76ers,1 Day
+3/21/2018,7:00 PM,2,Toronto Raptors,3 in 4 Days w/ B2B,Cleveland Cavaliers,1 Day
+3/21/2018,7:30 PM,3,Charlotte Hornets,1 Day,Brooklyn Nets,1 Day
+3/21/2018,7:30 PM,4,New York Knicks,1 Day,Miami Heat,1 Day
+3/21/2018,8:00 PM,5,Denver Nuggets,1 Day,Chicago Bulls,1 Day
+3/21/2018,8:00 PM,6,Los Angeles Clippers,3 in 4 Days w/ B2B,Milwaukee Bucks,1 Day
+3/21/2018,9:30 PM,7,Washington Wizards,3-4 Days,San Antonio Spurs,1 Day
+3/22/2018,7:00 PM,1,Philadelphia 76ers,3 in 4 Days w/ B2B,Orlando Magic,1 Day
+3/22/2018,7:00 PM,2,Memphis Grizzlies,3 in 4 Days w/ B2B,Charlotte Hornets,3 in 4 Days w/ B2B
+3/22/2018,8:00 PM,3,Detroit Pistons,"3 in 4 Days, no B2B",Houston Rockets,1 Day
+3/22/2018,8:00 PM,4,Los Angeles Lakers,2 Days,New Orleans Pelicans,1 Day
+3/22/2018,8:30 PM,5,Utah Jazz,1 Day,Dallas Mavericks,1 Day
+3/22/2018,10:00 PM,6,Atlanta Hawks,1 Day,Sacramento Kings,2 Days
+3/23/2018,7:00 PM,1,Denver Nuggets,1 Day,Washington Wizards,1 Day
+3/23/2018,7:00 PM,2,Los Angeles Clippers,"3 in 4 Days, no B2B",Indiana Pacers,3-4 Days
+3/23/2018,7:30 PM,3,Minnesota Timberwolves,2 Days,New York Knicks,1 Day
+3/23/2018,7:30 PM,4,Brooklyn Nets,1 Day,Toronto Raptors,"3 in 4 Days, no B2B"
+3/23/2018,7:30 PM,5,Phoenix Suns,2 Days,Cleveland Cavaliers,1 Day
+3/23/2018,8:00 PM,6,Milwaukee Bucks,1 Day,Chicago Bulls,1 Day
+3/23/2018,8:00 PM,7,Miami Heat,1 Day,Oklahoma City Thunder,2 Days
+3/23/2018,8:30 PM,8,Utah Jazz,3 in 4 Days w/ B2B,San Antonio Spurs,1 Day
+3/23/2018,10:00 PM,9,Boston Celtics,2 Days,Portland Trail Blazers,2 Days
+3/23/2018,10:30 PM,10,Atlanta Hawks,3 in 4 Days w/ B2B,Golden State Warriors,3-4 Days
+3/24/2018,6:00 PM,1,Minnesota Timberwolves,Back to Back,Philadelphia 76ers,"3 in 4 Days, no B2B"
+3/24/2018,7:00 PM,2,Chicago Bulls,3 in 4 Days w/ B2B,Detroit Pistons,1 Day
+3/24/2018,7:00 PM,3,Phoenix Suns,Back to Back,Orlando Magic,1 Day
+3/24/2018,8:00 PM,4,Los Angeles Lakers,1 Day,Memphis Grizzlies,"3 in 4 Days, no B2B"
+3/24/2018,8:00 PM,5,New Orleans Pelicans,1 Day,Houston Rockets,1 Day
+3/24/2018,8:30 PM,6,Charlotte Hornets,"3 in 4 Days, no B2B",Dallas Mavericks,1 Day
+3/25/2018,1:00 PM,1,Cleveland Cavaliers,1 Day,Brooklyn Nets,1 Day
+3/25/2018,3:30 PM,2,San Antonio Spurs,1 Day,Milwaukee Bucks,1 Day
+3/25/2018,5:00 PM,3,Miami Heat,1 Day,Indiana Pacers,1 Day
+3/25/2018,6:00 PM,4,Los Angeles Clippers,1 Day,Toronto Raptors,1 Day
+3/25/2018,6:00 PM,5,Boston Celtics,1 Day,Sacramento Kings,2 Days
+3/25/2018,6:00 PM,6,New York Knicks,1 Day,Washington Wizards,1 Day
+3/25/2018,7:00 PM,7,Portland Trail Blazers,1 Day,Oklahoma City Thunder,1 Day
+3/25/2018,8:00 PM,8,Atlanta Hawks,"3 in 4 Days, no B2B",Houston Rockets,3 in 4 Days w/ B2B
+3/25/2018,8:30 PM,9,Utah Jazz,"3 in 4 Days, no B2B",Golden State Warriors,1 Day
+3/26/2018,7:00 PM,1,Denver Nuggets,2 Days,Philadelphia 76ers,1 Day
+3/26/2018,7:00 PM,2,New York Knicks,3 in 4 Days w/ B2B,Charlotte Hornets,1 Day
+3/26/2018,7:00 PM,3,Los Angeles Lakers,1 Day,Detroit Pistons,1 Day
+3/26/2018,8:00 PM,4,Memphis Grizzlies,1 Day,Minnesota Timberwolves,"3 in 4 Days, no B2B"
+3/26/2018,10:00 PM,5,Boston Celtics,3 in 4 Days w/ B2B,Phoenix Suns,"3 in 4 Days, no B2B"
+3/27/2018,7:00 PM,1,San Antonio Spurs,1 Day,Washington Wizards,1 Day
+3/27/2018,7:30 PM,2,Denver Nuggets,Back to Back,Toronto Raptors,1 Day
+3/27/2018,8:00 PM,3,Portland Trail Blazers,1 Day,New Orleans Pelicans,2 Days
+3/27/2018,8:00 PM,4,Chicago Bulls,2 Days,Houston Rockets,"3 in 4 Days, no B2B"
+3/27/2018,8:00 PM,5,Cleveland Cavaliers,1 Day,Miami Heat,1 Day
+3/27/2018,10:00 PM,6,Dallas Mavericks,2 Days,Sacramento Kings,1 Day
+3/27/2018,10:30 PM,7,Milwaukee Bucks,1 Day,Los Angeles Clippers,1 Day
+3/27/2018,10:30 PM,8,Indiana Pacers,1 Day,Golden State Warriors,1 Day
+3/28/2018,7:00 PM,1,New York Knicks,"3 in 4 Days, no B2B",Philadelphia 76ers,1 Day
+3/28/2018,7:00 PM,2,Brooklyn Nets,2 Days,Orlando Magic,3-4 Days
+3/28/2018,7:00 PM,3,Cleveland Cavaliers,3 in 4 Days w/ B2B,Charlotte Hornets,1 Day
+3/28/2018,8:00 PM,4,Portland Trail Blazers,3 in 4 Days w/ B2B,Memphis Grizzlies,1 Day
+3/28/2018,8:00 PM,5,Atlanta Hawks,2 Days,Minnesota Timberwolves,1 Day
+3/28/2018,9:30 PM,6,Boston Celtics,"3 in 4 Days, no B2B",Utah Jazz,2 Days
+3/28/2018,10:00 PM,7,Los Angeles Clippers,3 in 4 Days w/ B2B,Phoenix Suns,1 Day
+3/28/2018,10:30 PM,8,Dallas Mavericks,Back to Back,Los Angeles Lakers,1 Day
+3/29/2018,7:00 PM,1,Washington Wizards,1 Day,Detroit Pistons,2 Days
+3/29/2018,7:30 PM,2,Chicago Bulls,1 Day,Miami Heat,1 Day
+3/29/2018,8:00 PM,3,Oklahoma City Thunder,3-4 Days,San Antonio Spurs,1 Day
+3/29/2018,10:00 PM,4,Indiana Pacers,1 Day,Sacramento Kings,1 Day
+3/29/2018,10:30 PM,5,Milwaukee Bucks,1 Day,Golden State Warriors,1 Day
+3/30/2018,7:00 PM,1,Chicago Bulls,3 in 4 Days w/ B2B,Orlando Magic,1 Day
+3/30/2018,7:30 PM,2,Philadelphia 76ers,1 Day,Atlanta Hawks,1 Day
+3/30/2018,8:00 PM,3,New Orleans Pelicans,2 Days,Cleveland Cavaliers,"3 in 4 Days, no B2B"
+3/30/2018,8:00 PM,4,Denver Nuggets,2 Days,Oklahoma City Thunder,Back to Back
+3/30/2018,8:00 PM,5,Phoenix Suns,1 Day,Houston Rockets,2 Days
+3/30/2018,8:30 PM,6,Minnesota Timberwolves,1 Day,Dallas Mavericks,"3 in 4 Days, no B2B"
+3/30/2018,9:00 PM,7,Memphis Grizzlies,1 Day,Utah Jazz,1 Day
+3/30/2018,10:30 PM,8,Los Angeles Clippers,"3 in 4 Days, no B2B",Portland Trail Blazers,"3 in 4 Days, no B2B"
+3/30/2018,10:30 PM,9,Milwaukee Bucks,3 in 4 Days w/ B2B,Los Angeles Lakers,1 Day
+3/31/2018,3:00 PM,1,Charlotte Hornets,2 Days,Washington Wizards,1 Day
+3/31/2018,5:00 PM,2,Detroit Pistons,1 Day,New York Knicks,2 Days
+3/31/2018,7:30 PM,3,Toronto Raptors,3-4 Days,Boston Celtics,2 Days
+3/31/2018,8:00 PM,4,Brooklyn Nets,2 Days,Miami Heat,1 Day
+3/31/2018,10:00 PM,5,Golden State Warriors,1 Day,Sacramento Kings,1 Day
+4/1/2018,1:00 PM,1,Philadelphia 76ers,1 Day,Charlotte Hornets,Back to Back
+4/1/2018,3:30 PM,2,Houston Rockets,1 Day,San Antonio Spurs,2 Days
+4/1/2018,3:30 PM,3,Washington Wizards,3 in 4 Days w/ B2B,Chicago Bulls,"3 in 4 Days, no B2B"
+4/1/2018,3:30 PM,4,Indiana Pacers,2 Days,Los Angeles Clippers,1 Day
+4/1/2018,6:00 PM,5,Detroit Pistons,3 in 4 Days w/ B2B,Brooklyn Nets,Back to Back
+4/1/2018,6:00 PM,6,Dallas Mavericks,1 Day,Cleveland Cavaliers,1 Day
+4/1/2018,6:00 PM,7,Oklahoma City Thunder,"3 in 4 Days, no B2B",New Orleans Pelicans,1 Day
+4/1/2018,6:00 PM,8,Orlando Magic,1 Day,Atlanta Hawks,1 Day
+4/1/2018,7:00 PM,9,Utah Jazz,1 Day,Minnesota Timberwolves,1 Day
+4/1/2018,8:00 PM,10,Milwaukee Bucks,"3 in 4 Days, no B2B",Denver Nuggets,1 Day
+4/1/2018,8:30 PM,11,Phoenix Suns,1 Day,Golden State Warriors,3 in 4 Days w/ B2B
+4/1/2018,9:00 PM,12,Memphis Grizzlies,1 Day,Portland Trail Blazers,1 Day
+4/1/2018,9:30 PM,13,Sacramento Kings,3 in 4 Days w/ B2B,Los Angeles Lakers,1 Day
+4/3/2018,7:00 PM,1,Brooklyn Nets,"3 in 4 Days, no B2B",Philadelphia 76ers,1 Day
+4/3/2018,7:00 PM,2,Toronto Raptors,2 Days,Cleveland Cavaliers,1 Day
+4/3/2018,7:30 PM,3,Atlanta Hawks,1 Day,Miami Heat,2 Days
+4/3/2018,7:30 PM,4,Orlando Magic,1 Day,New York Knicks,2 Days
+4/3/2018,8:00 PM,5,Boston Celtics,2 Days,Milwaukee Bucks,1 Day
+4/3/2018,8:00 PM,6,Charlotte Hornets,"3 in 4 Days, no B2B",Chicago Bulls,1 Day
+4/3/2018,8:00 PM,7,Golden State Warriors,"3 in 4 Days, no B2B",Oklahoma City Thunder,1 Day
+4/3/2018,8:00 PM,8,Washington Wizards,"3 in 4 Days, no B2B",Houston Rockets,1 Day
+4/3/2018,8:30 PM,9,Portland Trail Blazers,1 Day,Dallas Mavericks,1 Day
+4/3/2018,9:00 PM,10,Los Angeles Lakers,1 Day,Utah Jazz,1 Day
+4/3/2018,9:00 PM,11,Indiana Pacers,1 Day,Denver Nuggets,1 Day
+4/3/2018,10:00 PM,12,Sacramento Kings,"3 in 4 Days, no B2B",Phoenix Suns,1 Day
+4/3/2018,10:30 PM,13,San Antonio Spurs,1 Day,Los Angeles Clippers,1 Day
+4/4/2018,7:00 PM,1,Philadelphia 76ers,3 in 4 Days w/ B2B,Detroit Pistons,2 Days
+4/4/2018,7:00 PM,2,Boston Celtics,Back to Back,Toronto Raptors,Back to Back
+4/4/2018,7:00 PM,3,Dallas Mavericks,3 in 4 Days w/ B2B,Orlando Magic,3 in 4 Days w/ B2B
+4/4/2018,7:30 PM,4,Miami Heat,Back to Back,Atlanta Hawks,3 in 4 Days w/ B2B
+4/4/2018,9:30 PM,5,Memphis Grizzlies,2 Days,New Orleans Pelicans,2 Days
+4/4/2018,10:30 PM,6,San Antonio Spurs,3 in 4 Days w/ B2B,Los Angeles Lakers,3 in 4 Days w/ B2B
+4/5/2018,7:00 PM,1,Golden State Warriors,1 Day,Indiana Pacers,1 Day
+4/5/2018,8:00 PM,2,Portland Trail Blazers,1 Day,Houston Rockets,1 Day
+4/5/2018,8:00 PM,3,Brooklyn Nets,1 Day,Milwaukee Bucks,1 Day
+4/5/2018,8:00 PM,4,Washington Wizards,1 Day,Cleveland Cavaliers,1 Day
+4/5/2018,9:00 PM,5,Los Angeles Clippers,1 Day,Utah Jazz,1 Day
+4/5/2018,10:30 PM,6,Minnesota Timberwolves,3-4 Days,Denver Nuggets,1 Day
+4/6/2018,7:00 PM,1,Cleveland Cavaliers,3 in 4 Days w/ B2B,Philadelphia 76ers,"3 in 4 Days, no B2B"
+4/6/2018,7:00 PM,2,Dallas Mavericks,"3 in 4 Days, no B2B",Detroit Pistons,1 Day
+4/6/2018,7:00 PM,3,Charlotte Hornets,2 Days,Orlando Magic,"3 in 4 Days, no B2B"
+4/6/2018,7:00 PM,4,Atlanta Hawks,"3 in 4 Days, no B2B",Washington Wizards,3 in 4 Days w/ B2B
+4/6/2018,7:30 PM,5,Chicago Bulls,2 Days,Boston Celtics,"3 in 4 Days, no B2B"
+4/6/2018,7:30 PM,6,Miami Heat,"3 in 4 Days, no B2B",New York Knicks,2 Days
+4/6/2018,7:30 PM,7,Indiana Pacers,3 in 4 Days w/ B2B,Toronto Raptors,"3 in 4 Days, no B2B"
+4/6/2018,8:00 PM,8,Sacramento Kings,2 Days,Memphis Grizzlies,1 Day
+4/6/2018,10:00 PM,9,New Orleans Pelicans,1 Day,Phoenix Suns,2 Days
+4/6/2018,10:30 PM,10,Minnesota Timberwolves,Back to Back,Los Angeles Lakers,"3 in 4 Days, no B2B"
+4/7/2018,3:30 PM,1,Denver Nuggets,1 Day,Los Angeles Clippers,1 Day
+4/7/2018,7:30 PM,2,Milwaukee Bucks,1 Day,New York Knicks,Back to Back
+4/7/2018,8:00 PM,3,Brooklyn Nets,1 Day,Chicago Bulls,Back to Back
+4/7/2018,8:30 PM,4,Oklahoma City Thunder,3-4 Days,Houston Rockets,1 Day
+4/7/2018,8:30 PM,5,New Orleans Pelicans,3 in 4 Days w/ B2B,Golden State Warriors,1 Day
+4/7/2018,9:00 PM,6,Portland Trail Blazers,1 Day,San Antonio Spurs,2 Days
+4/8/2018,1:00 PM,1,Indiana Pacers,"3 in 4 Days, no B2B",Charlotte Hornets,1 Day
+4/8/2018,1:00 PM,2,Dallas Mavericks,1 Day,Philadelphia 76ers,1 Day
+4/8/2018,3:30 PM,3,Detroit Pistons,1 Day,Memphis Grizzlies,1 Day
+4/8/2018,6:00 PM,4,Orlando Magic,1 Day,Toronto Raptors,1 Day
+4/8/2018,6:00 PM,5,Utah Jazz,2 Days,Los Angeles Lakers,1 Day
+4/8/2018,7:30 PM,6,Atlanta Hawks,1 Day,Boston Celtics,1 Day
+4/8/2018,9:00 PM,7,Golden State Warriors,3 in 4 Days w/ B2B,Phoenix Suns,1 Day
+4/9/2018,7:00 PM,1,Toronto Raptors,3 in 4 Days w/ B2B,Detroit Pistons,3 in 4 Days w/ B2B
+4/9/2018,7:30 PM,2,Chicago Bulls,"3 in 4 Days, no B2B",Brooklyn Nets,1 Day
+4/9/2018,7:30 PM,3,Oklahoma City Thunder,1 Day,Miami Heat,2 Days
+4/9/2018,7:30 PM,4,Cleveland Cavaliers,2 Days,New York Knicks,"3 in 4 Days, no B2B"
+4/9/2018,8:00 PM,5,Orlando Magic,3 in 4 Days w/ B2B,Milwaukee Bucks,1 Day
+4/9/2018,8:00 PM,6,Memphis Grizzlies,3 in 4 Days w/ B2B,Minnesota Timberwolves,2 Days
+4/9/2018,8:30 PM,7,Sacramento Kings,2 Days,San Antonio Spurs,1 Day
+4/9/2018,9:00 PM,8,Portland Trail Blazers,1 Day,Denver Nuggets,1 Day
+4/9/2018,10:30 PM,9,New Orleans Pelicans,"3 in 4 Days, no B2B",Los Angeles Clippers,1 Day
+4/10/2018,7:00 PM,1,Charlotte Hornets,1 Day,Indiana Pacers,1 Day
+4/10/2018,7:30 PM,2,Philadelphia 76ers,1 Day,Atlanta Hawks,1 Day
+4/10/2018,8:00 PM,3,Boston Celtics,1 Day,Washington Wizards,3-4 Days
+4/10/2018,8:30 PM,4,Phoenix Suns,1 Day,Dallas Mavericks,1 Day
+4/10/2018,9:00 PM,5,Golden State Warriors,"3 in 4 Days, no B2B",Utah Jazz,1 Day
+4/10/2018,10:30 PM,6,Houston Rockets,2 Days,Los Angeles Lakers,1 Day
+4/11/2018,8:00 PM,1,New York Knicks,1 Day,Cleveland Cavaliers,1 Day
+4/11/2018,8:00 PM,2,Memphis Grizzlies,"3 in 4 Days, no B2B",Oklahoma City Thunder,1 Day
+4/11/2018,8:00 PM,3,Brooklyn Nets,1 Day,Boston Celtics,3 in 4 Days w/ B2B
+4/11/2018,8:00 PM,4,Detroit Pistons,"3 in 4 Days, no B2B",Chicago Bulls,1 Day
+4/11/2018,8:00 PM,5,Milwaukee Bucks,1 Day,Philadelphia 76ers,3 in 4 Days w/ B2B
+4/11/2018,8:00 PM,6,Denver Nuggets,1 Day,Minnesota Timberwolves,1 Day
+4/11/2018,8:00 PM,7,San Antonio Spurs,1 Day,New Orleans Pelicans,1 Day
+4/11/2018,8:00 PM,8,Toronto Raptors,"3 in 4 Days, no B2B",Miami Heat,1 Day
+4/11/2018,8:00 PM,9,Washington Wizards,Back to Back,Orlando Magic,"3 in 4 Days, no B2B"
+4/11/2018,10:30 PM,10,Houston Rockets,Back to Back,Sacramento Kings,1 Day
+4/11/2018,10:30 PM,11,Utah Jazz,3 in 4 Days w/ B2B,Portland Trail Blazers,1 Day
+4/11/2018,10:30 PM,12,Los Angeles Lakers,3 in 4 Days w/ B2B,Los Angeles Clippers,1 Day
+,,,,,,
+,,,,,,
