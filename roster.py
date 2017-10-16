@@ -23,7 +23,8 @@ def get_all_rosters():
 
     all_players_df = pd.DataFrame(all_players, columns=['Player', 'Team'])
     #print(all_players_df.head())
-    return all_players_df
+    all_players_df.to_csv('current_roster.csv', index=False)
+    #return all_players_df
 
 def get_team_roster(team_abrv):
     team_players = []
@@ -41,7 +42,7 @@ def get_team_roster(team_abrv):
     return team_players_df
 
 if __name__ == "__main__":
-    all_rosters_df = get_all_rosters()
-    all_rosters_df.to_csv('current_roster.csv', index=False)
+    get_all_rosters()
+    #all_rosters_df.to_csv('current_roster.csv', index=False)
     #hawks = get_team_roster('atl')
     #print(hawks)
