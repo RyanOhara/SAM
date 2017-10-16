@@ -21,9 +21,13 @@ def find_abrv(d, key):
 
 def project_all():
     games = get_all_games(test_date)
+    projections = pd.DataFrame(columns=['Home', 'Home Score', 'Away', 'Away Score', 'Total'])
 
     for index, row in games.iterrows():
-        project_game(row)
+        proj = project_game(row)
+        projections = projections.append(proj, ignore_index=True)
+
+    return projections
 
 def project_game(game):
     home = game['Home']
@@ -112,11 +116,13 @@ def project_game(game):
 
     projection = pd.DataFrame(data=[[home, home_score, away, away_score, total]], columns=['Home', 'Home Score', 'Away', 'Away Score', 'Total'])
 
-    print(projection)
+    #print(projection)
+    return projection
 
 
 if __name__ == "__main__":
-    project_all()
+    projections = project_all()
+    print(projections)
 
 
 
