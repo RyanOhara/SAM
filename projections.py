@@ -21,7 +21,7 @@ def find_abrv(d, key):
 
 def project_all():
     games = get_all_games(test_date)
-    projections = pd.DataFrame(columns=['Home', 'Home Score', 'Away', 'Away Score', 'Total'])
+    projections = pd.DataFrame(columns=['Home', 'Home Score', 'Away', 'Away Score', 'Home Spread', 'Away Spread', 'Total'])
 
     for index, row in games.iterrows():
         proj = project_game(row)
@@ -112,9 +112,11 @@ def project_game(game):
     game_pace = (home_pace / avg_pace) * (away_pace / avg_pace) * avg_pace
     home_score = (home_ortg / avg_ortg) * (away_drtg / avg_drtg) * avg_ortg * (game_pace/100)
     away_score = (away_ortg / avg_ortg) * (home_drtg / avg_drtg) * avg_ortg * (game_pace / 100)
+    home_spread = away_score - home_score
+    away_spread = home_score - away_score
     total = home_score + away_score
 
-    projection = pd.DataFrame(data=[[home, home_score, away, away_score, total]], columns=['Home', 'Home Score', 'Away', 'Away Score', 'Total'])
+    projection = pd.DataFrame(data=[[home, home_score, away, away_score, home_spread, away_spread, total]], columns=['Home', 'Home Score', 'Away', 'Away Score', 'Home Spread', 'Away Spread', 'Total'])
 
     #print(projection)
     return projection
