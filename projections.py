@@ -5,6 +5,7 @@ from nba_py.constants import TEAMS
 import pandas as pd
 from urllib.request import urlopen, HTTPError
 from bs4 import BeautifulSoup
+import os.path, time
 
 DATE = datetime.today().strftime('%m/%d/%Y')
 UPDATES = pd.read_csv("player_updates.csv", dtype=str)
@@ -101,7 +102,7 @@ def project_all(date):
         else:
             lines = pd.DataFrame(data=[[row['Visitor'], 0, row['Home'], 0, 0]], columns=['Away', 'Away Spread', 'Home', 'Home Spread', 'Total'])
         proj = project_game(row, lines)
-        projections = projections.append(proj)
+        projections = projections.append(proj, ignore_index=True)
 
     return projections
 
@@ -194,7 +195,7 @@ def project_game(game, line):
 
     home_spread_diff = float(line['Home Spread']) - home_spread
     away_spread_diff = float(line['Away Spread']) - away_spread
-    total_diff = float(line['Total']) - total
+    total_diff = total - float(line['Total'])
 
     if home_spread_diff > 0:
         spread_bet = home
@@ -217,9 +218,15 @@ def project_game(game, line):
 
 
 if __name__ == "__main__":
+    result_update_date = datetime.strptime(time.ctime(os.path.getmtime('injury_updates.csv')), "%a %b %d %H:%M:%S %Y")
+
+    if (DATE != result_update_date.strftime('%m/%d/%Y')):
+        today = pd.read_csv('todays_projections.csv')
+        today.to_csv('all_projections.csv', mode='a', index=False, header=False)
+
     projections = project_all(DATE)
     print(projections)
-    projections.to_csv('todays_projections.csv', mode='a', index=False, header=False)
+    projections.to_csv('todays_projections.csv', index=False)
     #get_odds(DATE)
 
 
