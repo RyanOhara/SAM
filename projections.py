@@ -3,8 +3,10 @@ from games import *
 from datetime import datetime
 from nba_py.constants import TEAMS
 import pandas as pd
+from urllib.request import urlopen, HTTPError
+from bs4 import BeautifulSoup
 
-test_date = datetime(2017, 10, 17, 0, 0, 0).strftime('%m/%d/%Y')
+DATE = datetime.today().strftime('%m/%d/%Y')
 BASE = pd.read_csv("1718_sam_base_projections.csv", dtype=str)
 BASE['Playing'] = 1
 BASE['Possessions'] = 0
@@ -19,17 +21,91 @@ def find_abrv(d, key):
             abrv = k
     return abrv
 
-def project_all():
-    games = get_all_games(test_date)
-    projections = pd.DataFrame(columns=['Home', 'Home Score', 'Away', 'Away Score', 'Home Spread', 'Away Spread', 'Total'])
+def get_odds(date):
+    day = date[3:5]
+    month = date[0:2]
+    columns = ['Away', 'Away Spread', 'Home', 'Home Spread', 'Total']
+    odds_df = pd.DataFrame(columns=columns)
+
+    try:
+        si_page = urlopen("http://free.sportsinsights.com/free-odds/free-odds-frame.aspx?MaxColumns=100&LineOption=Combined&EventOption=undefined&SortBy=undefined&Previous=&Yesterday=&ShowPercents=&SportGroup=sg2")
+        si_soup = BeautifulSoup(si_page, "html.parser")
+        trs = si_soup.find_all('tr')
+        nba = 0
+
+        for tr in trs:
+            try:
+                if 'row-group' in tr['class']:
+                    if "NBA" in tr.find('td', {'class': 'team'}).text:
+                        nba = 1
+                    else:
+                        nba = 0
+                if 'row-odd' in tr['class'] and nba == 1:
+                    date = tr.find('span', {'id': 'period1'}).text
+                    if month + '/' + day in date:
+                        tmv = tr.find('span', {'id': 'tmv'}).text.split('-')[0]
+                        tmh = tr.find('span', {'id': 'tmh'}).text.split('-')[0]
+                        all_odds = tr.find_all('td', {'class': 'sportsbook'})
+                        consensus = all_odds[-1].find_all('span')
+                        if (len(consensus) > 1):
+                            top = str(consensus[0].text).strip()
+                            if top[0] != '-' and top.count("-") == 1:
+                                top = top.split("-")[0].replace('o', '').replace('u', '')
+                            # elif top.count("-") == 1:
+                            #    top = top.split("-")[0].replace('o', '').replace('u', '')
+                            else:
+                                top = "-".join(top.split("-", 2)[:1]).replace('o', '').replace('u', '')
+
+                            bottom = str(consensus[1].text).strip()
+                            if bottom[0] != '-' and bottom.count("-") == 1:
+                                bottom = bottom.split("-")[0].replace('o', '').replace('u', '')
+                            # elif bottom.count("-") == 1:
+                            #    bottom = bottom.split("-")[0].replace('o', '').replace('u', '')
+                            else:
+                                bottom = "-".join(bottom.split("-", 2)[:2]).replace('o', '').replace('u', '')
+
+                            if (float(top) >= 100):
+                                total = float(top)
+                                away_line = -1 * float(bottom)
+                                home_line = float(bottom)
+                            elif (float(bottom) >= 100):
+                                total = float(bottom)
+                                away_line = float(top)
+                                home_line = -1 * float(top)
+                            game = pd.DataFrame(data=[[tmv, away_line, tmh, home_line, total]], columns=columns)
+                            # print(game)
+                            odds_df = odds_df.append(game, ignore_index=True)
+                            # print(tmv + ' ' + str(away_line) + ' @ ' + tmh + ' ' + str(home_line) + ' total: ' + str(total))
+            except KeyError:
+                pass
+    except HTTPError as err:
+        if err.code == 404:
+            print ("Page not found for spreads")
+        elif err.code == 403:
+            print ("Page for spreads blocked")
+        else:
+            print ("Something happened getting the spreads! Error code", err.code)
+
+    #print(odds_df)
+    return odds_df
+
+def project_all(date):
+    games = get_all_games(date)
+    spreads = get_odds(date)
+    projections = pd.DataFrame(columns=['Home', 'Home Score', 'Away', 'Away Score', 'Proj. Home Spread', 'Proj. Away Spread', 'Proj. Total', 'Home Spread', 'Away Spread', 'Total', 'Home Spread Diff', 'Away Spread Diff', 'Total Diff', 'Spread Bet', 'Total Bet'])
 
     for index, row in games.iterrows():
-        proj = project_game(row)
-        projections = projections.append(proj, ignore_index=True)
+        if not spreads.empty:
+            lines = spreads.loc[spreads['Home'] == row['Home']]
+        else:
+            lines = pd.DataFrame(data=[[row['Visitor'], 0, row['Home'], 0, 0]], columns=['Away', 'Away Spread', 'Home', 'Home Spread', 'Total'])
+        proj = project_game(row, lines)
+        proj = proj.set_index('Date')
+        projections = projections.append(proj)
 
     return projections
 
-def project_game(game):
+def project_game(game, line):
     home = game['Home']
     away = game['Visitor']
     home_rest = game['Home Rest']
@@ -116,15 +192,35 @@ def project_game(game):
     away_spread = home_score - away_score
     total = home_score + away_score
 
-    projection = pd.DataFrame(data=[[home, home_score, away, away_score, home_spread, away_spread, total]], columns=['Home', 'Home Score', 'Away', 'Away Score', 'Home Spread', 'Away Spread', 'Total'])
+    home_spread_diff = float(line['Home Spread']) - home_spread
+    away_spread_diff = float(line['Away Spread']) - away_spread
+    total_diff = float(line['Total']) - total
+
+    if home_spread_diff > 0:
+        spread_bet = home
+    elif away_spread_diff > 0:
+        spread_bet =  away
+    else:
+        spread_bet = 'No Bet'
+
+    if total_diff > 0:
+        total_bet = 'Over'
+    elif total_diff < 0:
+        total_bet =  'Under'
+    else:
+        spread_bet = 'No Bet'
+
+    projection = pd.DataFrame(data=[[str(DATE), home, home_score, away, away_score, home_spread, away_spread, total, float(line['Home Spread']), float(line['Away Spread']), float(line['Total']), home_spread_diff, away_spread_diff, total_diff, spread_bet, total_bet]], columns=['Date', 'Home', 'Home Score', 'Away', 'Away Score', 'Proj. Home Spread', 'Proj. Away Spread', 'Proj. Total', 'Home Spread', 'Away Spread', 'Total', 'Home Spread Diff', 'Away Spread Diff', 'Total Diff', 'Spread Bet', 'Total Bet'])
 
     #print(projection)
     return projection
 
 
 if __name__ == "__main__":
-    projections = project_all()
+    projections = project_all(DATE)
     print(projections)
+    projections.to_csv('game_projections.csv')
+    #get_odds(DATE)
 
 
 

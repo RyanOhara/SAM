@@ -3,7 +3,6 @@ from datetime import datetime
 from nba_py.constants import TEAMS
 DATE = datetime.today().strftime('%m/%d/%Y')
 
-
 def get_all_games(today=DATE):
     sched = pd.read_csv('1718_schedule.csv')
     sched['Date'] = pd.to_datetime(sched['Date'], format='%m/%d/%Y')
@@ -29,10 +28,10 @@ def get_team_game(team_abrv, today=DATE):
     return team_game
 
 if __name__ == "__main__":
-    test_date = datetime(2017, 10, 17, 0, 0, 0).strftime('%m/%d/%Y')
+    #test_date = datetime(2017, 10, 17, 0, 0, 0).strftime('%m/%d/%Y')
     #print(TEST_DATE)
 
-    games = get_all_games(today=test_date)
+    games = get_all_games(today=DATE)
     print(games)
 
     #game = get_team_game('cle', test_date)
