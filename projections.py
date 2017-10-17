@@ -93,7 +93,7 @@ def get_odds(date):
 def project_all(date):
     games = get_all_games(date)
     spreads = get_odds(date)
-    projections = pd.DataFrame(columns=['Home', 'Home Score', 'Away', 'Away Score', 'Proj. Home Spread', 'Proj. Away Spread', 'Proj. Total', 'Home Spread', 'Away Spread', 'Total', 'Home Spread Diff', 'Away Spread Diff', 'Total Diff', 'Spread Bet', 'Total Bet'])
+    projections = pd.DataFrame(columns=['Date', 'Home', 'Home Score', 'Away', 'Away Score', 'Proj. Home Spread', 'Proj. Away Spread', 'Proj. Total', 'Home Spread', 'Away Spread', 'Total', 'Home Spread Diff', 'Away Spread Diff', 'Total Diff', 'Spread Bet', 'Total Bet'])
 
     for index, row in games.iterrows():
         if not spreads.empty:
@@ -101,7 +101,6 @@ def project_all(date):
         else:
             lines = pd.DataFrame(data=[[row['Visitor'], 0, row['Home'], 0, 0]], columns=['Away', 'Away Spread', 'Home', 'Home Spread', 'Total'])
         proj = project_game(row, lines)
-        proj = proj.set_index('Date')
         projections = projections.append(proj)
 
     return projections
@@ -220,7 +219,7 @@ def project_game(game, line):
 if __name__ == "__main__":
     projections = project_all(DATE)
     print(projections)
-    projections.to_csv('game_projections.csv')
+    projections.to_csv('todays_projections.csv', mode='a', index=False, header=False)
     #get_odds(DATE)
 
 
