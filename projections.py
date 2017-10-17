@@ -7,9 +7,10 @@ from urllib.request import urlopen, HTTPError
 from bs4 import BeautifulSoup
 
 DATE = datetime.today().strftime('%m/%d/%Y')
-BASE = pd.read_csv("1718_sam_base_projections.csv", dtype=str)
-BASE['Playing'] = 1
-BASE['Possessions'] = 0
+UPDATES = pd.read_csv("player_updates.csv", dtype=str)
+#BASE = pd.read_csv("1718_sam_base_projections.csv", dtype=str)
+#BASE['Playing'] = 1
+UPDATES['Possessions'] = 0
 BASE_PM = 106.8
 REST = pd.read_csv("nba_rest.csv")
 PACE_HCA = pd.read_csv("pace_hca.csv")
@@ -115,8 +116,8 @@ def project_game(game, line):
     away_abrv = find_abrv(TEAMS, away).lower()
     #print(away + ' @ ' + home)
 
-    home_base = BASE.loc[BASE['Team'] == home_abrv]
-    away_base = BASE.loc[BASE['Team'] == away_abrv]
+    home_base = UPDATES.loc[UPDATES['Team'] == home_abrv]
+    away_base = UPDATES.loc[UPDATES['Team'] == away_abrv]
     #print(away_base)
 
 
