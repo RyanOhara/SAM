@@ -42,12 +42,17 @@ def update_rosters():
     for index, row in player_updates[:10].iterrows():
         player = row['Player'].replace("'", "").replace(' Jr.', '').replace(' III', '').replace('.', '').replace(' II', '')
         roster_row = ROSTER.loc[ROSTER['Player'].str.contains(player) == True]
-        team = roster_row['Team']
-
+        t = roster_row['Team']
+        print(t.item())
+        for team in TEAMS:
+            if team == t.item():
+                print(team)
+                #player_updates.loc[player_updates['Player'].str.contains(player) == True, 'Team'] = team
+        '''
         if not roster_row.empty:
             print(player)
             print(team)
-            player_updates.loc[player_updates['Player'].str.contains(player) == True, 'Team'] = team
+            player_updates.loc[player_updates['Player'].str.contains(player) == True, 'Team'] = team'''
 
     player_updates.to_csv("player_updates.csv", index=False)
 
