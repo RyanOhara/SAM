@@ -6,6 +6,7 @@ import pandas as pd
 from urllib.request import urlopen, HTTPError
 from bs4 import BeautifulSoup
 import os.path, time
+from player_updates import *
 
 DATE = datetime.today().strftime('%m/%d/%Y')
 UPDATES = pd.read_csv("player_updates.csv", dtype=str)
@@ -53,16 +54,12 @@ def get_odds(date):
                             top = str(consensus[0].text).strip()
                             if top[0] != '-' and top.count("-") == 1:
                                 top = top.split("-")[0].replace('o', '').replace('u', '')
-                            # elif top.count("-") == 1:
-                            #    top = top.split("-")[0].replace('o', '').replace('u', '')
                             else:
-                                top = "-".join(top.split("-", 2)[:1]).replace('o', '').replace('u', '')
+                                top = "-".join(top.split("-", 2)[:2]).replace('o', '').replace('u', '')
 
                             bottom = str(consensus[1].text).strip()
                             if bottom[0] != '-' and bottom.count("-") == 1:
                                 bottom = bottom.split("-")[0].replace('o', '').replace('u', '')
-                            # elif bottom.count("-") == 1:
-                            #    bottom = bottom.split("-")[0].replace('o', '').replace('u', '')
                             else:
                                 bottom = "-".join(bottom.split("-", 2)[:2]).replace('o', '').replace('u', '')
 
@@ -216,18 +213,102 @@ def project_game(game, line):
     #print(projection)
     return projection
 
+def update_results():
+    today = pd.read_csv('todays_projections.csv')
+    today['Act. Home Score'] = 0
+    today['Act. Away Score'] = 0
+    today['Act. Home Diff'] = 0
+    today['Act. Away Diff'] = 0
+    today['Act. Total'] = 0
+    today['Spread Result'] = ''
+    today['Total Result'] = ''
+    #print(today)
+
+
+    url = "https://www.basketball-reference.com/leagues/NBA_2018_games-"
+    month = datetime.today().strftime("%B")
+    url = url + month.lower() +'.html'
+
+    html = urlopen(url)
+    soup = BeautifulSoup(html, 'lxml')
+
+    table = soup.find('table', {'id': 'schedule'})
+
+    scores_df = pd.read_html(table.prettify())[0]
+    #print(today['Date'][0])
+    scores_df['Date'] = pd.to_datetime(scores_df['Date'])
+    #print(scores_df['Date'].dt.strftime('%m/%d/%Y'))
+    scores = scores_df[scores_df['Date'].dt.strftime('%m/%d/%Y') == today['Date'][0]]
+    #print(scores)
+    for index, row in today.iterrows():
+        score = scores[scores['Home/Neutral'] == row['Home']]
+        home = score['Home/Neutral'].item()
+        away = score['Visitor/Neutral'].item()
+        home_score = float(score['PTS.1'])
+        away_score = float(score['PTS'])
+        home_diff = home_score - away_score
+        away_diff = away_score - home_score
+        act_total = away_score + home_score
+        total = row['Total']
+        home_spread = row['Home Spread']
+        away_spread = row['Away Spread']
+        total_bet = row['Total Bet']
+        spread_bet = row['Spread Bet']
+        today.loc[index, 'Act. Home Score'] = home_score
+        today.loc[index, 'Act. Away Score'] = away_score
+        today.loc[index, 'Act. Home Diff'] = home_diff
+        today.loc[index, 'Act. Away Diff'] = away_diff
+        today.loc[index, 'Act. Total'] = act_total
+
+        if spread_bet == home:
+            if (-1*home_diff > home_spread):
+                today.loc[index, 'Spread Result'] = 'Loss'
+            elif (-1*home_diff < home_spread):
+                today.loc[index, 'Spread Result'] = 'Win'
+            else:
+                today.loc[index, 'Spread Result'] = 'Push'
+        elif spread_bet == away:
+            if (-1*away_diff > away_spread):
+                today.loc[index, 'Spread Result'] = 'Loss'
+            elif (-1*away_diff < away_spread):
+                today.loc[index, 'Spread Result'] = 'Win'
+            else:
+                today.loc[index, 'Spread Result'] = 'Push'
+        else:
+            today.loc[index, 'Spread Result'] = 'No Bet'
+
+        if act_total > total:
+            if total_bet == 'Over':
+                today.loc[index, 'Total Result'] = 'Win'
+            elif total_bet == 'Under':
+                today.loc[index, 'Total Result'] = 'Loss'
+            else:
+                today.loc[index, 'Total Result'] = 'No Bet'
+        elif act_total < total:
+            if total_bet == 'Over':
+                today.loc[index, 'Total Result'] = 'Loss'
+            elif total_bet == 'Under':
+                today.loc[index, 'Total Result'] = 'Win'
+            else:
+                today.loc[index, 'Total Result'] = 'No Bet'
+        else:
+            today.loc[index, 'Total Result'] = 'Push'
+
+        #print(row)
+
+    print(today)
+    today.to_csv('all_projections.csv', mode='a', index=False, header=False)
 
 if __name__ == "__main__":
-    result_update_date = datetime.strptime(time.ctime(os.path.getmtime('injury_updates.csv')), "%a %b %d %H:%M:%S %Y")
+    result_update_date = datetime.strptime(time.ctime(os.path.getmtime('all_projections.csv')), "%a %b %d %H:%M:%S %Y")
 
     if (DATE != result_update_date.strftime('%m/%d/%Y')):
-        today = pd.read_csv('todays_projections.csv')
-        today.to_csv('all_projections.csv', mode='a', index=False, header=False)
+        update_results()
 
+    update_mins()
     projections = project_all(DATE)
     print(projections)
     projections.to_csv('todays_projections.csv', index=False)
-    #get_odds(DATE)
 
 
 
