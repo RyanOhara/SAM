@@ -41,24 +41,17 @@ def update_pm():
     #    print(team)
 
 def update_mins():
-    injury_date = datetime.strptime(time.ctime(os.path.getmtime('injury_updates.csv')), "%a %b %d %H:%M:%S %Y")
-
-    if (DATE != injury_date.strftime('%m/%d/%Y')):
-        injury_update()
-        injuries = pd.read_csv('injury_updates.csv', dtype=str)
-    else:
-        injuries = pd.read_csv('injury_updates.csv', dtype=str)
+    injury_update()
+    injuries = pd.read_csv('injury_updates.csv', dtype=str)
 
     for index, row in injuries.iterrows():
         #print(row['Player'] +", " + row['Expected Return'])
-        player = row['Player']
+        player = row['Player'].replace("'", "").replace(' Jr.', '').replace(' III', '').replace('.', '').replace(' II', '')
+        #print(player)
         status = row['Expected Return']
-        player_base = BASE.loc[BASE['Player'].replace("'", "").replace('.', '').replace(' II', '').replace(' III', '').replace(' Jr.', '') == player.replace("'", "").replace('.', '').replace(' II', '').replace(' III', '').replace(' Jr.', '')]
 
-        #print(player_base['Player'])
         if 'out' in status:
-            #print(player_base['Player'])
-            BASE.loc[BASE['Player'].replace("'", "").replace('.', '').replace(' II', '').replace(' III', '').replace(' Jr.', '') == player.replace("'", "").replace('.', '').replace(' II', '').replace(' III', '').replace(' Jr.', ''), 'Playing'] = 0
+            BASE.loc[BASE['Player'].replace("'", "").replace(' Jr.', '').replace('.', '').replace(' III', '').replace(' II', '').str.contains(player.replace("'", "").replace(' Jr.', '').replace('.', '').replace(' III', '').replace(' II', '')) == True, 'Playing'] = 0
 
     BASE.to_csv("player_updates.csv", index=False)
 
