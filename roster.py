@@ -18,7 +18,7 @@ def get_all_rosters():
 
         roster_df = team.TeamCommonRoster(team_id, CURRENT_SEASON).roster()
         for p in roster_df['PLAYER']:
-            row = [str(p), str(t)]
+            row = [str(p), str(t).lower()]
             all_players.append(row)
 
     all_players_df = pd.DataFrame(all_players, columns=['Player', 'Team'])

@@ -12,20 +12,12 @@ BASE['Playing'] = 1
 
 def update_pm():
     stats_date = datetime.strptime(time.ctime(os.path.getmtime('stats_update.csv')), "%a %b %d %H:%M:%S %Y")
-    roster_date = datetime.strptime(time.ctime(os.path.getmtime('current_roster.csv')), "%a %b %d %H:%M:%S %Y")
 
     if(DATE!=stats_date.strftime('%m/%d/%Y')):
         scrape_stats()
         STATS = pd.read_csv('stats_update.csv', dtype=str)
     else:
         STATS = pd.read_csv('stats_update.csv', dtype=str)
-
-    if(DATE!=roster_date.strftime('%m/%d/%Y')):
-        get_all_rosters()
-        ROSTER = pd.read_csv("current_roster.csv", dtype=str)
-    else:
-        ROSTER = pd.read_csv("current_roster.csv", dtype=str)
-
 
     team_roster = get_team_roster('atl')
     #print(team_roster)
@@ -39,6 +31,26 @@ def update_pm():
 
     # for team in TEAMS:
     #    print(team)
+
+
+#### Not working
+def update_rosters():
+    #get_all_rosters()
+    ROSTER = pd.read_csv("current_roster.csv", dtype=str)
+    player_updates = pd.read_csv("player_updates.csv", dtype=str)
+
+    for index, row in player_updates[:10].iterrows():
+        player = row['Player'].replace("'", "").replace(' Jr.', '').replace(' III', '').replace('.', '').replace(' II', '')
+        roster_row = ROSTER.loc[ROSTER['Player'].str.contains(player) == True]
+        team = roster_row['Team']
+
+        if not roster_row.empty:
+            print(player)
+            print(team)
+            player_updates.loc[player_updates['Player'].str.contains(player) == True, 'Team'] = team
+
+    player_updates.to_csv("player_updates.csv", index=False)
+
 
 def update_mins():
     injury_update()
@@ -57,3 +69,4 @@ def update_mins():
 
 if __name__ == "__main__":
     update_mins()
+    #update_rosters()

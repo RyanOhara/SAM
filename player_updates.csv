@@ -19,7 +19,7 @@ Allen Crabbe,bkn,2340,78,30,0.0667194,-1.9398371,1
 Caris LeVert,bkn,1728,72,24,0.0826202,-0.3860045,1
 D'Angelo Russell,bkn,2310,77,30,1.5144644,-1.577433,1
 DeMarre Carroll,bkn,1496,68,22,-0.629659,0.6510726,1
-Isaiah Whitehead,bkn,780,78,10,-1.5397489,-1.0484626,1
+Isaiah Whitehead,bkn,780,78,10,-1.5397489,-1.0484626,0
 Jarrett Allen,bkn,936,78,12,-2.7759342,-0.1386638,1
 Jeremy Lin,bkn,1752,73,24,0.1520259,-0.5155386,1
 Joe Harris,bkn,434,77,6,-1.3856417,-1.5061842,1
@@ -29,13 +29,13 @@ Sean Kilpatrick,bkn,780,78,10,-0.0381365,-2.4471369,1
 Spencer Dinwiddie,bkn,385,77,5,-0.4699093,-0.251208,1
 Timofey Mozgov,bkn,1404,78,18,-3.7760017,0.5649705,1
 Trevor Booker,bkn,1794,78,23,-1.5255721,1.4849453,1
-Tyler Zeller,bkn,780,78,10,-2.3699222,0.5698502,1
+Tyler Zeller,bkn,780,78,10,-2.3699222,0.5698502,0
 Al Horford,bos,2464,77,32,0.112592,1.6183937,1
 Andrew White,bos,0,0,0,-2.8300869,-0.97011274,1
 Aron Baynes,bos,1326,78,17,-2.469537,1.0740055,1
 Daniel Theis,bos,624,78,8,-1,-1,1
 Gordon Hayward,bos,2652,78,34,2.8960819,-0.0345438,0
-Guerschon Yabusele,bos,390,78,5,0.4945299,-0.0490054,0
+Guerschon Yabusele,bos,390,78,5,0.4945299,-0.0490054,1
 Jaylen Brown,bos,2106,78,27,-1.6389539,-0.4778796,1
 Jayson Tatum,bos,1388,78,18,-1.2243156,-0.5373181,1
 Jonathan Holmes,bos,0,0,0,-1.5628725,0.098473161,1
@@ -64,7 +64,7 @@ Michael Kidd-Gilchrist,cha,1769,61,29,-0.9305257,1.7178411,0
 Nicolas Batum,cha,1836,54,34,0.899408,0.0154341,0
 Treveon Graham,cha,390,78,5,-0.6711232,-0.6024343,1
 Antonio Blakeney,chi,0,0,0,-2.6435168,-2.2727077,1
-Bobby Portis,chi,1404,78,18,-1.27301,-0.5551245,1
+Bobby Portis,chi,1404,78,18,-1.27301,-0.5551245,0
 Cameron Payne,chi,488,61,8,-1.0357156,-0.9291025,0
 Cristiano Felicio,chi,1248,78,16,-1.3290316,0.4994377,1
 David Nwaba,chi,0,0,0,-1.2247822,-0.38433743,1
@@ -264,7 +264,7 @@ Josh Richardson,mia,1694,77,22,-0.5642039,0.1299481,1
 Justise Winslow,mia,1704,71,24,-1.7304559,0.4705665,1
 Kelly Olynyk,mia,1520,76,20,0.0003457,1.1982782,1
 Larry Drew II,mia,0,0,0,-1.5691321,-2.6452844,1
-Okaro White,mia,234,78,3,-2.012536,-0.0215222,1
+Okaro White,mia,234,78,3,-2.012536,-0.0215222,0
 Rodney McGruder,mia,1716,78,22,-0.3218962,-0.9040917,0
 Tyler Johnson,mia,1606,73,22,0.3480811,-0.1885617,1
 Udonis Haslem,mia,0,0,0,-3.8471711,0.19986182,1
