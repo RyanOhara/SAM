@@ -96,7 +96,7 @@ def update_mins():
         #print(player)
         status = row['Expected Return']
 
-        if 'out' in status:
+        if 'out' in status or 'Out' in status:
             BASE.loc[BASE['Player'].replace("'", "").replace(' Jr.', '').replace('.', '').replace(' III', '').replace(' II', '').str.contains(player.replace("'", "").replace(' Jr.', '').replace('.', '').replace(' III', '').replace(' II', '')) == True, 'Playing'] = 0
 
     BASE.to_csv("player_updates.csv", index=False)
