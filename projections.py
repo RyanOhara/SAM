@@ -6,16 +6,9 @@ import pandas as pd
 from urllib.request import urlopen, HTTPError
 from bs4 import BeautifulSoup
 import os.path, time
-from player_updates import *
+from stat_updates import *
 
 DATE = datetime.today().strftime('%m/%d/%Y')
-UPDATES = pd.read_csv("player_updates.csv", dtype=str)
-#BASE = pd.read_csv("1718_sam_base_projections.csv", dtype=str)
-#BASE['Playing'] = 1
-UPDATES['Possessions'] = 0
-BASE_PM = 106.8
-REST = pd.read_csv("nba_rest.csv")
-PACE_HCA = pd.read_csv("pace_hca.csv")
 
 def find_abrv(d, key):
     abrv = ''
@@ -104,6 +97,11 @@ def project_all(date):
     return projections
 
 def project_game(game, line):
+    UPDATES = pd.read_csv("player_updates.csv", dtype=str)
+    UPDATES['Possessions'] = 0
+    REST = pd.read_csv("nba_rest.csv")
+    PACE_HCA = pd.read_csv("pace_hca.csv")
+
     home = game['Home']
     away = game['Visitor']
     home_rest = game['Home Rest']
@@ -129,9 +127,16 @@ def project_game(game, line):
         away_mins += float(row['MPG']) * float(row['Playing'])
     away_mins = away_mins / 5
 
+    avg_rph = PACE_HCA.loc[PACE_HCA['Team'] == "Average"]
+    avg_pace = avg_rph.iloc[0]['Pace']
+    avg_ohca = avg_rph.iloc[0]['HCA Off']
+    avg_dhca = avg_rph.iloc[0]['HCA Deff']
+    avg_ortg = avg_rph.iloc[0]['Ortg']
+    avg_drtg = avg_rph.iloc[0]['Drtg']
+
     # get % of possessions and game +/-'s
-    home_opm = BASE_PM
-    home_dpm = BASE_PM
+    home_opm = avg_ortg
+    home_dpm = avg_drtg
     for index, row in home_base.iterrows():
         poss = (float(row['MPG'])/home_mins) * float(row['Playing'])
         home_base.set_value(index, 'Possessions', poss)
@@ -140,8 +145,8 @@ def project_game(game, line):
     #print(home_opm)
     #print(home_dpm)
 
-    away_opm = BASE_PM
-    away_dpm = BASE_PM
+    away_opm = avg_ortg
+    away_dpm = avg_drtg
     for index, row in away_base.iterrows():
         poss = (float(row['MPG'])/away_mins) * float(row['Playing'])
         away_base.set_value(index, 'Possessions', poss)
@@ -156,14 +161,6 @@ def project_game(game, line):
     home_dhca = home_rph.iloc[0]['HCA Deff']
     away_rph = PACE_HCA.loc[PACE_HCA['Team'] == away]
     away_pace = away_rph.iloc[0]['Pace']
-    away_ohca = away_rph.iloc[0]['HCA Off']
-    away_dhca = away_rph.iloc[0]['HCA Deff']
-    avg_rph = PACE_HCA.loc[PACE_HCA['Team'] == "Average"]
-    avg_pace = avg_rph.iloc[0]['Pace']
-    avg_ohca = avg_rph.iloc[0]['HCA Off']
-    avg_dhca = avg_rph.iloc[0]['HCA Deff']
-    avg_ortg = avg_rph.iloc[0]['Ortg']
-    avg_drtg = avg_rph.iloc[0]['Drtg']
 
     home_rest_vals = REST.loc[REST['Rest'] == home_rest]
     home_rest_ortg = home_rest_vals.iloc[0]['Ortg']
@@ -176,7 +173,7 @@ def project_game(game, line):
     away_rest_pace = away_rest_vals.iloc[0]['Pace']
 
     home_ortg = home_opm * home_ohca * avg_ohca + home_rest_ortg
-    home_drtg = home_dpm * home_dhca * avg_dhca +home_rest_drtg
+    home_drtg = home_dpm * home_dhca * avg_dhca + home_rest_drtg
     home_pace = home_pace + home_rest_pace
 
     away_ortg = away_opm + away_rest_ortg
@@ -184,7 +181,7 @@ def project_game(game, line):
     away_pace = away_pace + away_rest_pace
 
     game_pace = (home_pace / avg_pace) * (away_pace / avg_pace) * avg_pace
-    home_score = (home_ortg / avg_ortg) * (away_drtg / avg_drtg) * avg_ortg * (game_pace/100)
+    home_score = (home_ortg / avg_ortg) * (away_drtg / avg_drtg) * avg_ortg * (game_pace / 100)
     away_score = (away_ortg / avg_ortg) * (home_drtg / avg_drtg) * avg_ortg * (game_pace / 100)
     home_spread = away_score - home_score
     away_spread = home_score - away_score
@@ -299,13 +296,120 @@ def update_results():
     print(today)
     today.to_csv('all_projections.csv', mode='a', index=False, header=False)
 
+def parse_results():
+    results = pd.read_csv('all_projections.csv')
+
+    spread_win0 = 0
+    spread_win2 = 0
+    spread_win4 = 0
+    spread_win6 = 0
+    spread_loss0 = 0
+    spread_loss2 = 0
+    spread_loss4 = 0
+    spread_loss6 = 0
+    spread_push0 = 0
+    spread_push2 = 0
+    spread_push4 = 0
+    spread_push6 = 0
+
+    total_win0 = 0
+    total_win2 = 0
+    total_win4 = 0
+    total_win6 = 0
+    total_loss0 = 0
+    total_loss2 = 0
+    total_loss4 = 0
+    total_loss6 = 0
+    total_push0 = 0
+    total_push2 = 0
+    total_push4 = 0
+    total_push6 = 0
+
+    for index, row in results.iterrows():
+        spread_diff = float(row['Home Spread Diff'])
+        total_diff = float(row['Total Diff'])
+        spread_result = row['Spread Result']
+        total_result = row['Total Result']
+
+        if abs(spread_diff) >= 6 and spread_result == 'Win':
+            spread_win6 += 1
+        elif abs(spread_diff) >= 6 and spread_result == 'Loss':
+            spread_loss6 += 1
+        elif abs(spread_diff) >= 6 and spread_result == 'Push':
+            spread_push6 += 1
+        elif abs(spread_diff) >= 4 and spread_result == 'Win':
+            spread_win4 += 1
+        elif abs(spread_diff) >= 4 and spread_result == 'Loss':
+            spread_loss4 += 1
+        elif abs(spread_diff) >= 4 and spread_result == 'Push':
+            spread_push4 += 1
+        elif abs(spread_diff) >= 2 and spread_result == 'Win':
+            spread_win2 += 1
+        elif abs(spread_diff) >= 2 and spread_result == 'Loss':
+            spread_loss2 += 1
+        elif abs(spread_diff) >= 2 and spread_result == 'Push':
+            spread_push2 += 1
+        elif abs(spread_diff) >= 0 and spread_result == 'Win':
+            spread_win0 += 1
+        elif abs(spread_diff) >= 0 and spread_result == 'Loss':
+            spread_loss0 += 1
+        elif abs(spread_diff) >= 0 and spread_result == 'Push':
+            spread_push0 += 1
+
+        if abs(total_diff) >= 6 and total_result == 'Win':
+            total_win6 += 1
+        elif abs(total_diff) >= 6 and total_result == 'Loss':
+            total_loss6 += 1
+        elif abs(total_diff) >= 6 and total_result == 'Push':
+            total_push6 += 1
+        elif abs(total_diff) >= 4 and total_result == 'Win':
+            total_win4 += 1
+        elif abs(total_diff) >= 4 and total_result == 'Loss':
+            total_loss4 += 1
+        elif abs(total_diff) >= 4 and total_result == 'Push':
+            total_push4 += 1
+        elif abs(total_diff) >= 2 and total_result == 'Win':
+            total_win2 += 1
+        elif abs(total_diff) >= 2 and total_result == 'Loss':
+            total_loss2 += 1
+        elif abs(total_diff) >= 2 and total_result == 'Push':
+            total_push2 += 1
+        elif abs(total_diff) >= 0 and total_result == 'Win':
+            total_win0 += 1
+        elif abs(total_diff) >= 0 and total_result == 'Loss':
+            total_loss0 += 1
+        elif abs(total_diff) >= 0 and total_result == 'Push':
+            total_push0 += 1
+
+    print("Spread 6+: " + str(spread_win6) + '-' + str(spread_loss6) + '-' + str(spread_push6))# + ' ' + str(spread_win6/(spread_loss6 + spread_win6)*100) + '%')
+    print("Spread 4-6: " + str(spread_win4) + '-' + str(spread_loss4) + '-' + str(spread_push4))# + ' ' + str(spread_win4/(spread_loss4 + spread_win4)*100) + '%')
+    print("Spread 2-4: " + str(spread_win2) + '-' + str(spread_loss2) + '-' + str(spread_push2))# + ' ' + str(spread_win2/(spread_loss2 + spread_win2)*100) + '%')
+    print("Spread 0-2: " + str(spread_win0) + '-' + str(spread_loss0) + '-' + str(spread_push0))# + ' ' + str(spread_win0/(spread_loss0 + spread_win0)*100) + '%')
+    print("Spread all: " + str(spread_win0 + spread_win2 + spread_win4 + spread_win6) + '-'
+          + str(spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + '-'
+          + str(spread_push0 + spread_push2 + spread_push4 + spread_push6))  # + ' ' + str((spread_win0 + spread_win2 + spread_win4 + spread_win6)/((spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + (spread_win0 + spread_win2 + spread_win4 + spread_win6))*100) + '%')
+
+    print('\n')
+    print("Total 6+: " + str(total_win6) + '-' + str(total_loss6) + '-' + str(total_push6))# + ' ' + str(total_win6/(total_loss6 + total_win6)*100) + '%')
+    print("Total 4-6: " + str(total_win4) + '-' + str(total_loss4) + '-' + str(total_push4))# + ' ' + str(total_win4/(total_loss4 + total_win4)*100) + '%')
+    print("Total 2-4: " + str(total_win2) + '-' + str(total_loss2) + '-' + str(total_push2))# + ' ' + str(total_win2/(total_loss2 + total_win2)*100) + '%')
+    print("Total 0-2: " + str(total_win0) + '-' + str(total_loss0) + '-' + str(total_push0))# + ' ' + str(total_win0/(total_loss0 + total_win0)*100) + '%')
+    print("Total all: " + str(total_win0 + total_win2 + total_win4 + total_win6) + '-'
+          + str(total_loss0 + total_loss2 + total_loss4 + total_loss6) + '-'
+          + str(total_push0 + total_push2 + total_push4 + total_push6))  # + ' ' + str((total_win0 + total_win2 + total_win4 + total_win6)/((total_loss0 + total_loss2 + total_loss4 + total_loss6) + (total_win0 + total_win2 + total_win4 + total_win6))*100) + '%')
+
+
 if __name__ == "__main__":
     result_update_date = datetime.strptime(time.ctime(os.path.getmtime('all_projections.csv')), "%a %b %d %H:%M:%S %Y")
 
     if (DATE != result_update_date.strftime('%m/%d/%Y')):
         update_results()
+        parse_results()
 
     update_mins()
+    update_player_stats()
+    update_rosters()
+    update_team_stats()
     projections = project_all(DATE)
     print(projections)
     projections.to_csv('todays_projections.csv', index=False)
