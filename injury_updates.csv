@@ -1,5 +1,6 @@
 Date,Pos,Player,Team,Injury,Expected Return
 10/19/17,C,Ike Anigbogu,IND,Knee,Game Time Decision
+10/19/17,F,JaMychal Green,MEM,Ankle,Expected to be out until at least Nov 7
 10/19/17,G,Jeremy Lin,BKN,Knee,Out for the season
 10/19/17,C,Jahlil Okafor,PHI,Illness,Game Time Decision
 10/19/17,F,Jason Smith,WAS,Sprain,Game Time Decision
@@ -10,7 +11,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 10/18/17,C,Zach Collins,POR,Illness,Expected to be out until at least Oct 20
 10/18/17,F,Jared Dudley,PHO,Toe,Expected to be out until at least Oct 20
 10/18/17,F,Draymond Green,GS,Knee,Game Time Decision
-10/18/17,F,JaMychal Green,MEM,Ankle,Game Time Decision
 10/18/17,G,Andre Iguodala,GS,Back,Game Time Decision
 10/18/17,F,Richard Jefferson,ATL,Coach's Decision,Expected to be out until at least Oct 21
 10/18/17,C,Alex Len,PHO,Ankle,Expected to be out until at least Oct 20
@@ -42,7 +42,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 10/15/17,F,Marcus Morris,BOS,Knee,Expected to be out until at least Oct 24
 10/14/17,G,CJ McCollum,POR,Suspension,Expected to be out until at least Oct 20
 10/13/17,F,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Oct 21
-10/13/17,G,Quincy Pondexter,CHI,Hamstring,Game Time Decision
 10/13/17,F,Kristaps Porzingis,NY,Hip,Game Time Decision
 10/12/17,G,Rodney McGruder,MIA,Leg,Expected to be out until at least Jan 15
 10/11/17,G,Michael Carter-Williams,CHA,Knee,Expected to be out until at least Oct 20
