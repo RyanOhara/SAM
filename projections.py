@@ -406,7 +406,7 @@ if __name__ == "__main__":
         update_results()
         parse_results()
 
-    update_mins()
+    update_injuries()
     update_player_stats()
     update_rosters()
     update_team_stats()

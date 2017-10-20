@@ -86,7 +86,7 @@ def update_rosters():
     player_updates.to_csv("player_updates.csv", index=False)
 
 
-def update_mins():
+def update_injuries():
     injury_update()
     injuries = pd.read_csv('injury_updates.csv', dtype=str)
 
@@ -121,11 +121,14 @@ def update_team_stats():
     ortg = float(up_rph.iloc[0]['ORtg'])
     drtg = float(up_rph.iloc[0]['DRtg'])
     up_weight = (float(up_rph.iloc[0]['PW']) + float(up_rph.iloc[0]['PL']))
-    avg_weight = 82 - up_weight
+    avg_weight = 41 - up_weight
+    if avg_weight < 0:
+        avg_weight = 0
+        up_weight = 41
 
-    up_pace = (avg_pace * avg_weight + pace * up_weight)/82
-    up_ortg = (avg_ortg * avg_weight + ortg * up_weight) / 82
-    up_drtg = (avg_drtg * avg_weight + drtg * up_weight) / 82
+    up_pace = (avg_pace * avg_weight + pace * up_weight) / 41
+    up_ortg = (avg_ortg * avg_weight + ortg * up_weight) / 41
+    up_drtg = (avg_drtg * avg_weight + drtg * up_weight) / 41
 
     base.loc[base['Team'] == "Average", 'Pace'] = up_pace
     base.loc[base['Team'] == "Average", 'Ortg'] = up_ortg
@@ -134,7 +137,7 @@ def update_team_stats():
     base.to_csv("pace_hca.csv", index=False)
 
 if __name__ == "__main__":
-    update_mins()
+    update_injuries()
     update_player_stats()
     update_rosters()
     update_team_stats()

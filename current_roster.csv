@@ -64,8 +64,8 @@ Treveon Graham,cha
 Julyan Stone,cha
 Cody Zeller,cha
 Frank Kaminsky,cha
-Kay Felder,chi
 Jerian Grant,chi
+Kay Felder,chi
 Bobby Portis,chi
 Cristiano Felicio,chi
 Justin Holiday,chi
@@ -115,9 +115,9 @@ Harrison Barnes,dal
 Dirk Nowitzki,dal
 Maxi Kleber,dal
 Salah Mejri,dal
+Richard Jefferson,den
 Emmanuel Mudiay,den
 Darrell Arthur,den
-Jameer Nelson,den
 Torrey Craig,den
 Paul Millsap,den
 Will Barton,den
@@ -328,7 +328,6 @@ Ron Baker,nyk
 Lance Thomas,nyk
 Jarrett Jack,nyk
 Mindaugas Kuzminskas,nyk
-PJ Dozier,okc
 Russell Westbrook,okc
 Raymond Felton,okc
 Nick Collison,okc
@@ -342,6 +341,7 @@ Andre Roberson,okc
 Terrance Ferguson,okc
 Daniel Hamilton,okc
 Josh Huestis,okc
+PJ Dozier,okc
 Dakari Johnson,okc
 Patrick Patterson,okc
 Jamel Artis,orl
@@ -434,6 +434,7 @@ Derrick White,sas
 Dejounte Murray,sas
 Patty Mills,sas
 Tony Parker,sas
+Matt Costello,sas
 Bryn Forbes,sas
 LaMarcus Aldridge,sas
 Danny Green,sas
@@ -441,7 +442,6 @@ Pau Gasol,sas
 Manu Ginobili,sas
 Rudy Gay,sas
 Darrun Hilliard,sas
-Matt Costello,sas
 Davis Bertans,sas
 Joffrey Lauvergne,sas
 CJ Miles,tor
