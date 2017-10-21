@@ -5,6 +5,7 @@ import os.path, time
 from datetime import datetime
 from bball_ref_scrape import scrape_stats, scrape_team_stats
 from injury_updates import injury_update
+import math
 
 DATE = datetime.today().strftime('%m/%d/%Y')
 BASE = pd.read_csv("1718_sam_base_projections.csv", dtype=str)
@@ -40,6 +41,15 @@ def update_player_stats():
                 pm_weight = min_weight
             else:
                 pm_weight = games/82
+
+            if math.isnan(obpm) or math.isnan(obpm):
+                pm_weight = 0
+                obpm = 0
+                dbpm = 0
+
+            if math.isnan(mpg):
+                mpg = 0
+                min_weight = 0
 
             base_mpg = float(base['MPG'])
             base_opm = float(base['OPM'])
