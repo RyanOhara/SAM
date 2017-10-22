@@ -203,7 +203,7 @@ def project_game(game, line):
     elif total_diff < 0:
         total_bet =  'Under'
     else:
-        spread_bet = 'No Bet'
+        total_bet = 'No Bet'
 
     projection = pd.DataFrame(data=[[str(DATE), home, home_score, away, away_score, home_spread, away_spread, total, float(line['Home Spread']), float(line['Away Spread']), float(line['Total']), home_spread_diff, away_spread_diff, total_diff, spread_bet, total_bet]], columns=['Date', 'Home', 'Home Score', 'Away', 'Away Score', 'Proj. Home Spread', 'Proj. Away Spread', 'Proj. Total', 'Home Spread', 'Away Spread', 'Total', 'Home Spread Diff', 'Away Spread Diff', 'Total Diff', 'Spread Bet', 'Total Bet'])
 
@@ -404,7 +404,7 @@ if __name__ == "__main__":
 
     if (DATE != result_update_date.strftime('%m/%d/%Y')):
         update_results()
-        parse_results()
+    parse_results()
 
     update_injuries()
     update_player_stats()
