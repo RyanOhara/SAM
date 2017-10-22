@@ -381,22 +381,22 @@ def parse_results():
         elif abs(total_diff) >= 0 and total_result == 'Push':
             total_push0 += 1
 
-    print("Spread 6+: " + str(spread_win6) + '-' + str(spread_loss6) + '-' + str(spread_push6))# + ' ' + str(spread_win6/(spread_loss6 + spread_win6)*100) + '%')
-    print("Spread 4-6: " + str(spread_win4) + '-' + str(spread_loss4) + '-' + str(spread_push4))# + ' ' + str(spread_win4/(spread_loss4 + spread_win4)*100) + '%')
-    print("Spread 2-4: " + str(spread_win2) + '-' + str(spread_loss2) + '-' + str(spread_push2))# + ' ' + str(spread_win2/(spread_loss2 + spread_win2)*100) + '%')
-    print("Spread 0-2: " + str(spread_win0) + '-' + str(spread_loss0) + '-' + str(spread_push0))# + ' ' + str(spread_win0/(spread_loss0 + spread_win0)*100) + '%')
+    print("Spread 6+: " + str(spread_win6) + '-' + str(spread_loss6) + '-' + str(spread_push6) + ' ' + str(spread_win6/(spread_loss6 + spread_win6)*100) + '%')
+    print("Spread 4-6: " + str(spread_win4) + '-' + str(spread_loss4) + '-' + str(spread_push4) + ' ' + str(spread_win4/(spread_loss4 + spread_win4)*100) + '%')
+    print("Spread 2-4: " + str(spread_win2) + '-' + str(spread_loss2) + '-' + str(spread_push2) + ' ' + str(spread_win2/(spread_loss2 + spread_win2)*100) + '%')
+    print("Spread 0-2: " + str(spread_win0) + '-' + str(spread_loss0) + '-' + str(spread_push0) + ' ' + str(spread_win0/(spread_loss0 + spread_win0)*100) + '%')
     print("Spread all: " + str(spread_win0 + spread_win2 + spread_win4 + spread_win6) + '-'
           + str(spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + '-'
-          + str(spread_push0 + spread_push2 + spread_push4 + spread_push6))  # + ' ' + str((spread_win0 + spread_win2 + spread_win4 + spread_win6)/((spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + (spread_win0 + spread_win2 + spread_win4 + spread_win6))*100) + '%')
+          + str(spread_push0 + spread_push2 + spread_push4 + spread_push6) + ' ' + str((spread_win0 + spread_win2 + spread_win4 + spread_win6)/((spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + (spread_win0 + spread_win2 + spread_win4 + spread_win6))*100) + '%')
 
     print('\n')
-    print("Total 6+: " + str(total_win6) + '-' + str(total_loss6) + '-' + str(total_push6))# + ' ' + str(total_win6/(total_loss6 + total_win6)*100) + '%')
-    print("Total 4-6: " + str(total_win4) + '-' + str(total_loss4) + '-' + str(total_push4))# + ' ' + str(total_win4/(total_loss4 + total_win4)*100) + '%')
-    print("Total 2-4: " + str(total_win2) + '-' + str(total_loss2) + '-' + str(total_push2))# + ' ' + str(total_win2/(total_loss2 + total_win2)*100) + '%')
-    print("Total 0-2: " + str(total_win0) + '-' + str(total_loss0) + '-' + str(total_push0))# + ' ' + str(total_win0/(total_loss0 + total_win0)*100) + '%')
+    print("Total 6+: " + str(total_win6) + '-' + str(total_loss6) + '-' + str(total_push6) + ' ' + str(total_win6/(total_loss6 + total_win6)*100) + '%')
+    print("Total 4-6: " + str(total_win4) + '-' + str(total_loss4) + '-' + str(total_push4) + ' ' + str(total_win4/(total_loss4 + total_win4)*100) + '%')
+    print("Total 2-4: " + str(total_win2) + '-' + str(total_loss2) + '-' + str(total_push2) + ' ' + str(total_win2/(total_loss2 + total_win2)*100) + '%')
+    print("Total 0-2: " + str(total_win0) + '-' + str(total_loss0) + '-' + str(total_push0) + ' ' + str(total_win0/(total_loss0 + total_win0)*100) + '%')
     print("Total all: " + str(total_win0 + total_win2 + total_win4 + total_win6) + '-'
           + str(total_loss0 + total_loss2 + total_loss4 + total_loss6) + '-'
-          + str(total_push0 + total_push2 + total_push4 + total_push6))  # + ' ' + str((total_win0 + total_win2 + total_win4 + total_win6)/((total_loss0 + total_loss2 + total_loss4 + total_loss6) + (total_win0 + total_win2 + total_win4 + total_win6))*100) + '%')
+          + str(total_push0 + total_push2 + total_push4 + total_push6)  + ' ' + str((total_win0 + total_win2 + total_win4 + total_win6)/((total_loss0 + total_loss2 + total_loss4 + total_loss6) + (total_win0 + total_win2 + total_win4 + total_win6))*100) + '%')
 
 
 if __name__ == "__main__":
