@@ -1,11 +1,6 @@
-from roster import *
 from games import *
-from datetime import datetime
-from nba_py.constants import TEAMS
-import pandas as pd
 from urllib.request import urlopen, HTTPError
 from bs4 import BeautifulSoup
-import os.path, time
 from stat_updates import *
 
 DATE = datetime.today().strftime('%m/%d/%Y')
@@ -127,7 +122,7 @@ def project_game(game, line):
         away_mins += float(row['MPG']) * float(row['Playing'])
     away_mins = away_mins / 5
 
-    avg_rph = PACE_HCA.loc[PACE_HCA['Team'] == "Average"]
+    avg_rph = PACE_HCA.loc[PACE_HCA['Team'] == "League Average"]
     avg_pace = avg_rph.iloc[0]['Pace']
     avg_ohca = avg_rph.iloc[0]['HCA Off']
     avg_dhca = avg_rph.iloc[0]['HCA Deff']

@@ -121,28 +121,32 @@ def update_team_stats():
         updates = pd.read_csv('team_stats_update.csv', dtype=str)
 
     base = pd.read_csv('base_pace_hca.csv', dtype=str)
-    avg_rph = base.loc[base['Team'] == "Average"]
-    avg_pace = float(avg_rph.iloc[0]['Pace'])
-    avg_ortg = float(avg_rph.iloc[0]['Ortg'])
-    avg_drtg = float(avg_rph.iloc[0]['Drtg'])
 
-    up_rph = updates.loc[updates['Team'] == "League Average"]
-    pace = float(up_rph.iloc[0]['Pace'])
-    ortg = float(up_rph.iloc[0]['ORtg'])
-    drtg = float(up_rph.iloc[0]['DRtg'])
-    up_weight = (float(up_rph.iloc[0]['PW']) + float(up_rph.iloc[0]['PL']))
-    avg_weight = 41 - up_weight
-    if avg_weight < 0:
-        avg_weight = 0
-        up_weight = 41
+    for index, row in updates.iterrows():
+        team = row['Team']
+        #print(team)
+        base_rph = base.loc[base['Team'] == team]
+        base_pace = float(base_rph.iloc[0]['Pace'])
+        base_ortg = float(base_rph.iloc[0]['Ortg'])
+        base_drtg = float(base_rph.iloc[0]['Drtg'])
 
-    up_pace = (avg_pace * avg_weight + pace * up_weight) / 41
-    up_ortg = (avg_ortg * avg_weight + ortg * up_weight) / 41
-    up_drtg = (avg_drtg * avg_weight + drtg * up_weight) / 41
-
-    base.loc[base['Team'] == "Average", 'Pace'] = up_pace
-    base.loc[base['Team'] == "Average", 'Ortg'] = up_ortg
-    base.loc[base['Team'] == "Average", 'Drtg'] = up_drtg
+        up_rph = updates.loc[updates['Team'] == team]
+        pace = float(up_rph.iloc[0]['Pace'])
+        ortg = float(up_rph.iloc[0]['ORtg'])
+        drtg = float(up_rph.iloc[0]['DRtg'])
+        up_weight = (float(up_rph.iloc[0]['PW']) + float(up_rph.iloc[0]['PL']))
+        base_weight = 1#41 - up_weight
+        if base_weight < 0:
+            base_weight = 0
+            up_weight = 1
+    
+        up_pace = (base_pace * base_weight + pace * up_weight) / (base_weight + up_weight)
+        up_ortg = (base_ortg * base_weight + ortg * up_weight) / (base_weight + up_weight)
+        up_drtg = (base_drtg * base_weight + drtg * up_weight) / (base_weight + up_weight)
+    
+        base.loc[base['Team'] == team, 'Pace'] = up_pace
+        base.loc[base['Team'] == team, 'Ortg'] = up_ortg
+        base.loc[base['Team'] == team, 'Drtg'] = up_drtg
 
     base.to_csv("pace_hca.csv", index=False)
 
