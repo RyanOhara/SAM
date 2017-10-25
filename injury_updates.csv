@@ -1,25 +1,36 @@
 Date,Pos,Player,Team,Injury,Expected Return
 10/24/17,F,Trevor Ariza,HOU,Foot,Expected to be out until at least Oct 27
+10/24/17,F,DeAndre' Bembry,ATL,Wrist,Expected to be out until at least Nov 20
+10/24/17,C,Andrew Bogut,LAL,Head,Game Time Decision
+10/24/17,F,Jimmy Butler,MIN,Illness,Expected to be out until at least Oct 25
 10/24/17,G,Michael Carter-Williams,CHA,Knee,Expected to be out until at least Oct 27
+10/24/17,F,Anthony Davis,NO,Knee,Game Time Decision
+10/24/17,G,DeMar DeRozan,TOR,Thigh,Game Time Decision
+10/24/17,G,Goran Dragic,MIA,Thigh,Game Time Decision
 10/24/17,G,Kris Dunn,CHI,Finger,Expected to be out until at least Oct 26
 10/24/17,G,Terrance Ferguson,OKC,Ankle,Game Time Decision
+10/24/17,G,Markelle Fultz,PHI,Shoulder,Game Time Decision
 10/24/17,G,Devin Harris,DAL,Personal,Game Time Decision
 10/24/17,F,Juan Hernangomez,DEN,Illness,Expected to be out until at least Oct 27
 10/24/17,G,Rodney Hood,UTA,Calf,Expected to be out until at least Oct 25
-10/24/17,F,Joe Ingles,UTA,Illness,Game Time Decision
+10/24/17,F,Michael Kidd-Gilchrist,CHA,Personal,Game Time Decision
+10/24/17,F,Joffrey Lauvergne,SA,Ankle,Expected to be out until at least Oct 27
+10/24/17,F,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Oct 27
+10/24/17,F,Markieff Morris,WAS,Abdomen,Expected to be out until at least Nov 1
 10/24/17,C,Nene,HOU,Achilles,Game Time Decision
-10/24/17,G,J.R. Smith,CLE,Back,Game Time Decision
+10/24/17,C,Lucas Nogueira,TOR,Ankle,Game Time Decision
+10/24/17,G,Marcus Smart,BOS,Ankle,Expected to be out until at least Oct 26
+10/24/17,F,Jason Smith,WAS,Shoulder,Game Time Decision
+10/24/17,C,Jonas Valanciunas,TOR,Ankle,Expected to be out until at least Oct 27
 10/24/17,G,Dion Waiters,MIA,Ankle,Game Time Decision
 10/24/17,C,Hassan Whiteside,MIA,Knee,Expected to be out until at least Oct 28
 10/24/17,G,C.J. Wilcox,POR,Knee,Expected to be out until at least Dec 5
-10/23/17,F,DeAndre' Bembry,ATL,Wrist,Expected to be out until at least Oct 29
 10/23/17,G,Eric Bledsoe,PHO,Coach's Decision,Expected to be out until at least Oct 25
 10/23/17,G,Malcolm Brogdon,MIL,Ankle,Expected to be out until at least Oct 26
 10/23/17,G,Dwight Buycks,DET,Hip,Expected to be out until at least Oct 25
 10/23/17,G,Seth Curry,DAL,Lower Leg,Expected to be out until at least Oct 30
 10/23/17,F,Ersan Ilyasova,ATL,Knee,Expected to be out until at least Oct 26
 10/23/17,G,Sean Kilpatrick,BKN,Personal,Expected to be out until at least Oct 25
-10/23/17,F,Joffrey Lauvergne,SA,Ankle,Game Time Decision
 10/23/17,F,Marcus Morris,BOS,Knee,Expected to be out until at least Oct 30
 10/23/17,G,Frank Ntilikina,NY,Ankle,Expected to be out until at least Oct 27
 10/23/17,G,Chris Paul,HOU,Knee,Expected to be out until at least Oct 25
@@ -27,17 +38,11 @@ Date,Pos,Player,Team,Injury,Expected Return
 10/23/17,G,Rajon Rondo,NO,Groin,Expected to be out until at least Nov 15
 10/23/17,G,Derrick Rose,CLE,Ankle,Expected to be out until at least Oct 28
 10/23/17,G,Dennis Schroder,ATL,Ankle,Expected to be out until at least Oct 27
-10/23/17,G,Marcus Smart,BOS,Ankle,Game Time Decision
-10/23/17,F,Jason Smith,WAS,Shoulder,Expected to be out until at least Oct 25
 10/23/17,G,Julyan Stone,CHA,Hamstring,Expected to be out until at least Dec 1
-10/23/17,C,Tristan Thompson,CLE,Knee,Game Time Decision
 10/23/17,C,Myles Turner,IND,Concussion,Expected to be out until at least Oct 25
-10/22/17,F,Michael Kidd-Gilchrist,CHA,Personal,Expected to be out until at least Oct 25
-10/22/17,F,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Oct 25
 10/22/17,F,Josh McRoberts,DAL,Lower Body,Expected to be out until at least Oct 25
 10/22/17,G,Wayne Selden Jr.,MEM,Quadriceps,Expected to be out until at least Oct 25
 10/22/17,G,Milos Teodosic,LAC,Foot,Expected to be out until at least Nov 1
-10/22/17,C,Jonas Valanciunas,TOR,Ankle,Expected to be out until at least Oct 25
 10/22/17,F,Cody Zeller,CHA,Knee,Expected to be out until at least Oct 25
 10/20/17,C,Alexis Ajinca,NO,Knee,Expected to be out until at least Nov 17
 10/19/17,F,JaMychal Green,MEM,Ankle,Expected to be out until at least Nov 11
@@ -65,7 +70,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 09/28/17,G,Isaiah Thomas,CLE,Hip,Expected to be out until at least Dec 25
 09/26/17,G,Zach LaVine,CHI,Knee,Expected to be out until at least Nov 24
 09/25/17,F,Alan Williams,PHO,Knee,Expected to be out until at least Mar 15
-09/22/17,F,Markieff Morris,WAS,Abdomen,Expected to be out until at least Nov 3
 08/30/17,G,Cameron Payne,CHI,Foot,Expected to be out until at least Nov 30
 08/27/17,F,Solomon Hill,NO,Hamstring,Expected to be out until at least Feb 28
 08/23/17,F,Chris Boucher,GS,Knee,Expected to be out until at least Jan 1

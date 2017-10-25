@@ -399,8 +399,8 @@ if __name__ == "__main__":
 
     if (DATE != result_update_date.strftime('%m/%d/%Y')):
         update_results()
-        parse_results()
 
+    parse_results()
     update_injuries()
     update_player_stats()
     update_rosters()
