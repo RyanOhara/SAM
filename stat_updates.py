@@ -36,34 +36,31 @@ def update_player_stats():
             mpg = mins/games
             obpm = float(stats['OBPM'])
             dbpm = float(stats['DBPM'])
-            min_weight = mins/250
-            if(min_weight >= 1):
-                pm_weight = min_weight
-            else:
-                pm_weight = games/82
+            base_weight = 1
+            up_weight = mins/500
+
 
             if math.isnan(obpm) or math.isnan(obpm):
-                pm_weight = 0
+                up_weight = 0
                 obpm = 0
                 dbpm = 0
 
             if math.isnan(mpg):
                 mpg = 0
-                min_weight = 0
+                up_weight = 0
 
             base_mpg = float(base['MPG'])
             base_opm = float(base['OPM'])
             base_dpm = float(base['DPM'])
-            base_weight = 1
             #print(base_mpg)
             #print(base_opm)
             #print(base_dpm)
 
-            up_mpg = (base_mpg * base_weight + mpg * min_weight)/(base_weight + min_weight)
+            up_mpg = (base_mpg * base_weight + mpg * up_weight) / (base_weight + up_weight)
             #print(up_mpg)
-            up_opm = (base_opm * base_weight + obpm * pm_weight) / (base_weight + pm_weight)
+            up_opm = (base_opm * base_weight + obpm * up_weight) / (base_weight + up_weight)
             #print(up_opm)
-            up_dpm = (base_dpm * base_weight + dbpm * pm_weight) / (base_weight + pm_weight)
+            up_dpm = (base_dpm * base_weight + dbpm * up_weight) / (base_weight + up_weight)
             #print(up_dpm)
 
             player_updates.loc[player_updates['Player'].str.contains(player) == True, 'MPG'] = up_mpg
