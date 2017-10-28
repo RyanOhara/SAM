@@ -81,7 +81,6 @@ Kris Dunn,chi
 Robin Lopez,chi
 Nikola Mirotic,chi
 Denzel Valentine,chi
-London Perrantes,cle
 Kevin Love,cle
 Derrick Rose,cle
 Isaiah Thomas,cle
@@ -91,6 +90,7 @@ Channing Frye,cle
 Dwyane Wade,cle
 John Holland,cle
 Tristan Thompson,cle
+London Perrantes,cle
 Cedi Osman,cle
 LeBron James,cle
 Kyle Korver,cle
@@ -115,9 +115,8 @@ Harrison Barnes,dal
 Dirk Nowitzki,dal
 Maxi Kleber,dal
 Salah Mejri,dal
-Richard Jefferson,den
-Emmanuel Mudiay,den
 Darrell Arthur,den
+Emmanuel Mudiay,den
 Torrey Craig,den
 Paul Millsap,den
 Will Barton,den
@@ -127,6 +126,7 @@ Gary Harris,den
 Nikola Jokic,den
 Tyler Lydon,den
 Wilson Chandler,den
+Richard Jefferson,den
 Mason Plumlee,den
 Malik Beasley,den
 Jamal Murray,den
@@ -296,6 +296,7 @@ Karl-Anthony Towns,min
 Cole Aldrich,min
 Taj Gibson,min
 DeMarcus Cousins,nop
+Jameer Nelson,nop
 Ian Clark,nop
 Omer Asik,nop
 Charles Cooke,nop
@@ -307,16 +308,15 @@ Frank Jackson,nop
 Darius Miller,nop
 Anthony Davis,nop
 Tony Allen,nop
-Jordan Crawford,nop
 Dante Cunningham,nop
 Alexis Ajinca,nop
 Solomon Hill,nop
 E'Twaun Moore,nop
-Isaiah Hicks,nyk
 Enes Kanter,nyk
 Ramon Sessions,nyk
 Luke Kornet,nyk
 Tim Hardaway Jr.,nyk
+Isaiah Hicks,nyk
 Courtney Lee,nyk
 Kristaps Porzingis,nyk
 Michael Beasley,nyk
@@ -397,9 +397,9 @@ Troy Daniels,phx
 Davon Reed,phx
 Dragan Bender,phx
 Mike James,phx
-Wade Baldwin IV,por
 Damian Lillard,por
 Evan Turner,por
+Wade Baldwin IV,por
 CJ McCollum,por
 Maurice Harkless,por
 Pat Connaughton,por
@@ -458,7 +458,6 @@ Malcolm Miller,tor
 Jonas Valanciunas,tor
 Fred VanVleet,tor
 Norman Powell,tor
-KJ McDaniels,tor
 Alfonzo McKinnie,tor
 Jakob Poeltl,tor
 Pascal Siakam,tor

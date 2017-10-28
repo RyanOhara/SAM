@@ -36,34 +36,31 @@ def update_player_stats():
             mpg = mins/games
             obpm = float(stats['OBPM'])
             dbpm = float(stats['DBPM'])
-            min_weight = mins/250
-            if(min_weight >= 1):
-                pm_weight = min_weight
-            else:
-                pm_weight = games/82
+            base_weight = 1
+            up_weight = mins/500
+
 
             if math.isnan(obpm) or math.isnan(obpm):
-                pm_weight = 0
+                up_weight = 0
                 obpm = 0
                 dbpm = 0
 
             if math.isnan(mpg):
                 mpg = 0
-                min_weight = 0
+                up_weight = 0
 
             base_mpg = float(base['MPG'])
             base_opm = float(base['OPM'])
             base_dpm = float(base['DPM'])
-            base_weight = 1
             #print(base_mpg)
             #print(base_opm)
             #print(base_dpm)
 
-            up_mpg = (base_mpg * base_weight + mpg * min_weight)/(base_weight + min_weight)
+            up_mpg = (base_mpg * base_weight + mpg * up_weight) / (base_weight + up_weight)
             #print(up_mpg)
-            up_opm = (base_opm * base_weight + obpm * pm_weight) / (base_weight + pm_weight)
+            up_opm = (base_opm * base_weight + obpm * up_weight) / (base_weight + up_weight)
             #print(up_opm)
-            up_dpm = (base_dpm * base_weight + dbpm * pm_weight) / (base_weight + pm_weight)
+            up_dpm = (base_dpm * base_weight + dbpm * up_weight) / (base_weight + up_weight)
             #print(up_dpm)
 
             player_updates.loc[player_updates['Player'].str.contains(player) == True, 'MPG'] = up_mpg
@@ -121,28 +118,32 @@ def update_team_stats():
         updates = pd.read_csv('team_stats_update.csv', dtype=str)
 
     base = pd.read_csv('base_pace_hca.csv', dtype=str)
-    avg_rph = base.loc[base['Team'] == "Average"]
-    avg_pace = float(avg_rph.iloc[0]['Pace'])
-    avg_ortg = float(avg_rph.iloc[0]['Ortg'])
-    avg_drtg = float(avg_rph.iloc[0]['Drtg'])
 
-    up_rph = updates.loc[updates['Team'] == "League Average"]
-    pace = float(up_rph.iloc[0]['Pace'])
-    ortg = float(up_rph.iloc[0]['ORtg'])
-    drtg = float(up_rph.iloc[0]['DRtg'])
-    up_weight = (float(up_rph.iloc[0]['PW']) + float(up_rph.iloc[0]['PL']))
-    avg_weight = 41 - up_weight
-    if avg_weight < 0:
-        avg_weight = 0
-        up_weight = 41
+    for index, row in updates.iterrows():
+        team = row['Team']
+        #print(team)
+        base_rph = base.loc[base['Team'] == team]
+        base_pace = float(base_rph.iloc[0]['Pace'])
+        base_ortg = float(base_rph.iloc[0]['Ortg'])
+        base_drtg = float(base_rph.iloc[0]['Drtg'])
 
-    up_pace = (avg_pace * avg_weight + pace * up_weight) / 41
-    up_ortg = (avg_ortg * avg_weight + ortg * up_weight) / 41
-    up_drtg = (avg_drtg * avg_weight + drtg * up_weight) / 41
-
-    base.loc[base['Team'] == "Average", 'Pace'] = up_pace
-    base.loc[base['Team'] == "Average", 'Ortg'] = up_ortg
-    base.loc[base['Team'] == "Average", 'Drtg'] = up_drtg
+        up_rph = updates.loc[updates['Team'] == team]
+        pace = float(up_rph.iloc[0]['Pace'])
+        ortg = float(up_rph.iloc[0]['ORtg'])
+        drtg = float(up_rph.iloc[0]['DRtg'])
+        up_weight = (float(up_rph.iloc[0]['PW']) + float(up_rph.iloc[0]['PL']))
+        base_weight = 1#41 - up_weight
+        if base_weight < 0:
+            base_weight = 0
+            up_weight = 1
+    
+        up_pace = (base_pace * base_weight + pace * up_weight) / (base_weight + up_weight)
+        up_ortg = (base_ortg * base_weight + ortg * up_weight) / (base_weight + up_weight)
+        up_drtg = (base_drtg * base_weight + drtg * up_weight) / (base_weight + up_weight)
+    
+        base.loc[base['Team'] == team, 'Pace'] = up_pace
+        base.loc[base['Team'] == team, 'Ortg'] = up_ortg
+        base.loc[base['Team'] == team, 'Drtg'] = up_drtg
 
     base.to_csv("pace_hca.csv", index=False)
 
