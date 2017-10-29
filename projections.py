@@ -31,15 +31,18 @@ def get_odds(date):
                         nba = 1
                     else:
                         nba = 0
-                if 'row-odd' in tr['class'] and nba == 1:
+                if 'row-group' not in tr['class'] and nba == 1:
                     date = tr.find('span', {'id': 'period1'}).text
-                    if month + '/' + day in date:
+                    if month + '/' + day in date or ':' in date or '\n' == date:
                         tmv = tr.find('span', {'id': 'tmv'}).text.split('-')[0]
                         tmh = tr.find('span', {'id': 'tmh'}).text.split('-')[0]
                         all_odds = tr.find_all('td', {'class': 'sportsbook'})
                         consensus = all_odds[-1].find_all('span')
                         if (len(consensus) > 1):
                             top = str(consensus[0].text).strip()
+                            away_line = None
+                            home_line = None
+                            total = None
                             if top[0] != '-' and top.count("-") == 1:
                                 top = top.split("-")[0].replace('o', '').replace('u', '')
                             else:
@@ -59,10 +62,12 @@ def get_odds(date):
                                 total = float(bottom)
                                 away_line = float(top)
                                 home_line = -1 * float(top)
-                            game = pd.DataFrame(data=[[tmv, away_line, tmh, home_line, total]], columns=columns)
-                            # print(game)
-                            odds_df = odds_df.append(game, ignore_index=True)
-                            # print(tmv + ' ' + str(away_line) + ' @ ' + tmh + ' ' + str(home_line) + ' total: ' + str(total))
+
+                            if away_line is not None or home_line is not None or total is not None:
+                                game = pd.DataFrame(data=[[tmv, away_line, tmh, home_line, total]], columns=columns)
+                                #print(game)
+                                odds_df = odds_df.append(game, ignore_index=True)
+                                #print(tmv + ' ' + str(away_line) + ' @ ' + tmh + ' ' + str(home_line) + ' total: ' + str(total))
             except KeyError:
                 pass
     except HTTPError as err:
@@ -86,8 +91,10 @@ def project_all(date):
             lines = spreads.loc[spreads['Home'] == row['Home']]
         else:
             lines = pd.DataFrame(data=[[row['Visitor'], 0, row['Home'], 0, 0]], columns=['Away', 'Away Spread', 'Home', 'Home Spread', 'Total'])
-        proj = project_game(row, lines)
-        projections = projections.append(proj, ignore_index=True)
+
+        if not lines.empty:
+            proj = project_game(row, lines)
+            projections = projections.append(proj, ignore_index=True)
 
     return projections
 
