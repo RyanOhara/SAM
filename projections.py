@@ -402,9 +402,10 @@ def parse_results():
 
 
 if __name__ == "__main__":
-    result_update_date = datetime.strptime(time.ctime(os.path.getmtime('all_projections.csv')), "%a %b %d %H:%M:%S %Y")
+    today_proj = pd.read_csv('todays_projections.csv')
+    prev = today_proj['Date'][0]
 
-    if (DATE != result_update_date.strftime('%m/%d/%Y')):
+    if (DATE != prev):
         update_results()
 
     parse_results()
