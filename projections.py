@@ -2,6 +2,7 @@ from games import *
 from urllib.request import urlopen, HTTPError
 from bs4 import BeautifulSoup
 from stat_updates import *
+from datetime import datetime, timedelta
 
 DATE = datetime.today().strftime('%m/%d/%Y')
 
@@ -225,7 +226,8 @@ def update_results():
 
 
     url = "https://www.basketball-reference.com/leagues/NBA_2018_games-"
-    month = datetime.today().strftime("%B")
+    yesterday = datetime.now() - timedelta(days=1)
+    month = yesterday.strftime("%B")
     url = url + month.lower() +'.html'
 
     html = urlopen(url)
