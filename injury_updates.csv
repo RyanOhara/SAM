@@ -1,9 +1,13 @@
 Date,Pos,Player,Team,Injury,Expected Return
 11/07/17,G,Eric Bledsoe,PHO,Coach's Decision,Expected to be out until at least Nov 10
 11/07/17,F,Trevor Booker,BKN,Back,Game Time Decision
+11/07/17,G,Manu Ginobili,SA,Rest,Game Time Decision
 11/07/17,F,Rondae Hollis-Jefferson,BKN,Hip,Game Time Decision
-11/07/17,C,Greg Monroe,MIL,Calf,Expected to be out until at least Nov 8
+11/07/17,G,Brandon Knight,PHO,Knee,Out for the season
+11/07/17,F,TJ Leaf,IND,Ankle,Game Time Decision
+11/07/17,C,Greg Monroe,MIL,Calf,Game Time Decision
 11/07/17,C,Joakim Noah,NY,Suspension,Expected to be out until at least Nov 13
+11/07/17,F,Chandler Parsons,MEM,Rest,Game Time Decision
 11/07/17,G,John Wall,WAS,Shoulder,Game Time Decision
 11/06/17,C,Omer Asik,NO,Illness,Expected to be out until at least Nov 9
 11/06/17,G,Ron Baker,NY,Ankle,Game Time Decision
@@ -11,21 +15,18 @@ Date,Pos,Player,Team,Injury,Expected Return
 11/06/17,G,Mario Chalmers,MEM,Knee,Game Time Decision
 11/06/17,G,Seth Curry,DAL,Lower Leg,Expected to be out until at least Nov 11
 11/06/17,C,Joel Embiid,PHI,Rest,Expected to be out until at least Nov 9
-11/06/17,F,Dorian Finney-Smith,DAL,Knee,Game Time Decision
 11/06/17,C,Marc Gasol,MEM,Knee,Game Time Decision
-11/06/17,C,Dwight Howard,CHA,Foot,Game Time Decision
 11/06/17,F,Ersan Ilyasova,ATL,Knee,Expected to be out until at least Nov 10
 11/06/17,F,Stanley Johnson,DET,Hip,Game Time Decision
 11/06/17,F,Michael Kidd-Gilchrist,CHA,Personal,Expected to be out until at least Nov 10
 11/06/17,G,Zach LaVine,CHI,Knee,Expected to be out until at least Dec 4
 11/06/17,C,Joffrey Lauvergne,SA,Ankle,Expected to be out until at least Nov 10
-11/06/17,F,TJ Leaf,IND,Ankle,Expected to be out until at least Nov 8
 11/06/17,F,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Nov 10
 11/06/17,F,Jon Leuer,DET,Ankle,Game Time Decision
 11/06/17,F,Marcus Morris,BOS,Rest,Expected to be out until at least Nov 8
 11/06/17,G,David Nwaba,CHI,Ankle,Expected to be out until at least Nov 21
 11/06/17,C,Miles Plumlee,ATL,Quadriceps,Expected to be out until at least Nov 10
-11/06/17,C,Domantas Sabonis,IND,Calf,Game Time Decision
+11/06/17,C,Domantas Sabonis,IND,Calf,Expected to be out until at least Nov 8
 11/06/17,G,Wayne Selden Jr.,MEM,Quadriceps,Expected to be out until at least Nov 11
 11/06/17,G,Dion Waiters,MIA,Personal,Expected to be out until at least Nov 8
 11/06/17,F,David West,GS,Rest,Expected to be out until at least Nov 8
@@ -34,12 +35,10 @@ Date,Pos,Player,Team,Injury,Expected Return
 11/05/17,G,D.J. Augustin,ORL,Hamstring,Expected to be out until at least Nov 8
 11/05/17,C,Andrew Bogut,LAL,Back,Expected to be out until at least Nov 8
 11/05/17,F,Danilo Gallinari,LAC,Hip,Game Time Decision
-11/05/17,G,Manu Ginobili,SA,Rest,Expected to be out until at least Nov 7
 11/05/17,F,Kevin Love,CLE,Illness,Game Time Decision
 11/05/17,F,Luc Mbah a Moute,HOU,Knee,Game Time Decision
 11/05/17,F,Malcolm Miller,TOR,Ankle,Game Time Decision
 11/05/17,F,Mike Muscala,ATL,Ankle,Expected to be out until at least Nov 10
-11/05/17,F,Chandler Parsons,MEM,Rest,Expected to be out until at least Nov 7
 11/05/17,G,Elfrid Payton,ORL,Hamstring,Expected to be out until at least Nov 8
 11/04/17,F,Josh McRoberts,DAL,Lower Body,Expected to be out until at least Nov 7
 11/03/17,F,Al-Farouq Aminu,POR,Ankle,Expected to be out until at least Nov 17
@@ -78,6 +77,5 @@ Date,Pos,Player,Team,Injury,Expected Return
 08/30/17,G,Cameron Payne,CHI,Foot,Expected to be out until at least Nov 30
 08/27/17,F,Solomon Hill,NO,Hamstring,Expected to be out until at least Feb 28
 08/23/17,F,Chris Boucher,GS,Knee,Expected to be out until at least Jan 1
-07/25/17,G,Brandon Knight,PHO,Knee,Out for the season
 06/28/17,G,Edmond Sumner,IND,Knee,Expected to be out until at least Feb 1
 04/28/17,F,Jabari Parker,MIL,Knee,Expected to be out until at least Feb 1
