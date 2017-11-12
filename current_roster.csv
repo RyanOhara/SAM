@@ -265,10 +265,10 @@ Justise Winslow,mia
 Hassan Whiteside,mia
 Jordan Mickey,mia
 Udonis Haslem,mia
-Eric Bledsoe,mil
 Gary Payton II,mil
 Jason Terry,mil
 D.J. Wilson,mil
+Eric Bledsoe,mil
 Thon Maker,mil
 Matthew Dellavedova,mil
 Jabari Parker,mil
@@ -301,7 +301,6 @@ DeMarcus Cousins,nop
 Ian Clark,nop
 Omer Asik,nop
 Charles Cooke,nop
-Josh Smith,nop
 Rajon Rondo,nop
 Jrue Holiday,nop
 Jalen Jones,nop
@@ -383,7 +382,6 @@ Richaun Holmes,phi
 Ben Simmons,phi
 Furkan Korkmaz,phi
 Robert Covington,phi
-Greg Monroe,phx
 Marquese Chriss,phx
 Devin Booker,phx
 Jared Dudley,phx
@@ -392,6 +390,7 @@ Tyler Ulis,phx
 Derrick Jones Jr.,phx
 Brandon Knight,phx
 TJ Warren,phx
+Greg Monroe,phx
 Alan Williams,phx
 Josh Jackson,phx
 Alex Len,phx

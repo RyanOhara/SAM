@@ -30,6 +30,9 @@ def update_player_stats():
         base = BASE.loc[BASE['Player'] == player]
         #print(base)
 
+        if len(stats) > 1:
+            stats =  stats.iloc[0]
+
         if not stats.empty and not base.empty:
             mins = float(stats['MP'])
             games = float(stats['G'])
