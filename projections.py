@@ -405,10 +405,11 @@ def parse_results():
 
 if __name__ == "__main__":
     today_proj = pd.read_csv('todays_projections.csv')
-    prev = today_proj['Date'][0]
 
-    if (DATE != prev):
-        update_results()
+    if not today_proj.empty:
+        prev = today_proj['Date'][0]
+        if (DATE != prev):
+            update_results()
 
     parse_results()
     update_injuries()
