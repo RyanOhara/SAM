@@ -402,6 +402,17 @@ def parse_results():
           + str(total_loss0 + total_loss2 + total_loss4 + total_loss6) + '-'
           + str(total_push0 + total_push2 + total_push4 + total_push6)  + ' ' + str((total_win0 + total_win2 + total_win4 + total_win6)/((total_loss0 + total_loss2 + total_loss4 + total_loss6) + (total_win0 + total_win2 + total_win4 + total_win6))*100) + '%')
 
+    print('\n')
+    print("Combined 6+: " + str(total_win6 + spread_win6) + '-' + str(total_loss6 + spread_loss6) + '-' + str(total_push6 + spread_push6) + ' ' + str((total_win6 + spread_win6)/(total_loss6 + spread_loss6 + total_win6 + spread_win6)*100) + '%')
+    print("Combined 4-6: " + str(total_win4 + spread_win4) + '-' + str(total_loss4 + spread_loss4) + '-' + str(total_push4 + spread_push4) + ' ' + str((total_win4 + spread_win4)/(total_loss4 + spread_loss4 + total_win4 + spread_win4)*100) + '%')
+    print("Combined 2-4: " + str(total_win2 + spread_win2) + '-' + str(total_loss2 + spread_loss2) + '-' + str(total_push2 + spread_push2) + ' ' + str((total_win2 + spread_win2)/(total_loss2 + spread_loss2 + total_win2 + spread_win2)*100) + '%')
+    print("Combined 0-2: " + str(total_win0 + spread_win0) + '-' + str(total_loss0 + spread_loss0) + '-' + str(total_push0 + spread_push0) + ' ' + str((total_win0 + spread_win0)/(total_loss0 + spread_loss0 + total_win0 + spread_win0)*100) + '%')
+    print("Combined all: " + str(total_win0 + total_win2 + total_win4 + total_win6 + spread_win0 + spread_win2 + spread_win4 + spread_win6) + '-'
+          + str(total_loss0 + total_loss2 + total_loss4 + total_loss6 + spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + '-'
+          + str(total_push0 + total_push2 + total_push4 + total_push6 + spread_push0 + spread_push2 + spread_push4 + spread_push6)  + ' '
+          + str((total_win0 + total_win2 + total_win4 + total_win6 + spread_win0 + spread_win2 + spread_win4 + spread_win6)/((total_loss0 + total_loss2 + total_loss4 + total_loss6 + spread_loss0 + spread_loss2 + spread_loss4 + spread_loss6) + (total_win0 + total_win2 + total_win4 + total_win6 + spread_win0 + spread_win2 + spread_win4 + spread_win6))*100) + '%')
+    print('\n')
+
 
 if __name__ == "__main__":
     today_proj = pd.read_csv('todays_projections.csv')
