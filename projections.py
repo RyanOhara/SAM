@@ -142,7 +142,8 @@ def project_game(game, line):
     home_dpm = avg_drtg
     for index, row in home_base.iterrows():
         poss = (float(row['MPG'])/home_mins) * float(row['Playing'])
-        home_base.set_value(index, 'Possessions', poss)
+        home_base
+
         home_opm += poss * float(row['OPM'])
         home_dpm -= poss * float(row['DPM'])
     #print(home_opm)

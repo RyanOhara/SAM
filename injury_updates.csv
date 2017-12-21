@@ -1,5 +1,6 @@
 Date,Pos,Player,Team,Injury,Expected Return
 12/21/17,SG,Justin Anderson,PHI,Lower Leg,Expected to be out until at least Dec 27
+12/21/17,PF,Trevor Booker,PHI,Illness,Game Time Decision
 12/21/17,C,Clint Capela,HOU,Heel,Game Time Decision
 12/21/17,PG,Goran Dragic,MIA,Elbow,Game Time Decision
 12/21/17,SF,Evan Fournier,ORL,Ankle,Game Time Decision
@@ -14,7 +15,7 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/21/17,PG,Damian Lillard,POR,Knee,Game Time Decision
 12/21/17,PG,Shaun Livingston,GS,Knee,Game Time Decision
 12/21/17,PF,Josh McRoberts,DAL,Lower Body,Game Time Decision
-12/21/17,SF,C.J. Miles,TOR,Mouth,Game Time Decision
+12/21/17,SF,C.J. Miles,TOR,Mouth,Expected to be out until at least Dec 23
 12/21/17,SG,Donovan Mitchell,UTA,Toe,Game Time Decision
 12/21/17,PG,Emmanuel Mudiay,DEN,Ankle,Game Time Decision
 12/21/17,PG,Raul Neto,UTA,Concussion,Game Time Decision
@@ -22,6 +23,7 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/21/17,C,Zaza Pachulia,GS,Shoulder,Game Time Decision
 12/21/17,PG,Chris Paul,HOU,Leg,Game Time Decision
 12/21/17,PG,Cameron Payne,CHI,Foot,Expected to be out until at least Dec 25
+12/21/17,SG,JJ Redick,PHI,Hamstring,Expected to be out until at least Dec 23
 12/21/17,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 1
 12/21/17,C,Hassan Whiteside,MIA,Knee,Expected to be out until at least Dec 25
 12/21/17,SG,C.J. Wilcox,POR,Knee,Expected to be out until at least Jan 1
@@ -40,7 +42,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/19/17,SF,Tim Hardaway Jr.,NY,Leg,Expected to be out until at least Dec 25
 12/19/17,C,Brook Lopez,LAL,Ankle,Expected to be out until at least Jan 11
 12/19/17,PF,Jabari Parker,MIL,Knee,Expected to be out until at least Jan 15
-12/19/17,SG,JJ Redick,PHI,Hamstring,Game Time Decision
 12/19/17,SG,Davon Reed,PHO,Knee,Expected to be out until at least Jan 1
 12/18/17,PG,Wade Baldwin IV,POR,Thumb,Game Time Decision
 12/18/17,PF,Nemanja Bjelica,MIN,Foot,Expected to be out until at least Dec 25
