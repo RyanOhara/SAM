@@ -1,39 +1,34 @@
 Date,Pos,Player,Team,Injury,Expected Return
-12/26/17,SG,Jaylen Brown,BOS,Ankle,Game Time Decision
+12/26/17,SG,Jaylen Brown,BOS,Knee,Game Time Decision
 12/26/17,SG,Vince Carter,SAC,Ribs,Game Time Decision
-12/26/17,PG,Goran Dragic,MIA,Elbow,Game Time Decision
+12/26/17,PG,Stephen Curry,GS,Ankle,Expected to be out until at least Dec 29
+12/26/17,C,DeWayne Dedmon,ATL,Leg,Expected to be out until at least Jan 5
 12/26/17,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 3
-12/26/17,PF,Jonathan Isaac,ORL,Ankle,Game Time Decision
+12/26/17,PG,De'Aaron Fox,SAC,Quadriceps,Expected to be out until at least Jan 6
+12/26/17,PF,Aaron Gordon,ORL,Calf,Expected to be out until at least Dec 28
+12/26/17,PF,Blake Griffin,LAC,Knee,Expected to be out until at least Dec 29
+12/26/17,SG,Andre Iguodala,GS,Back,Game Time Decision
+12/26/17,SF,Brandon Ingram,LAL,Quadriceps,Game Time Decision
+12/26/17,PG,Reggie Jackson,DET,Ankle,Game Time Decision
+12/26/17,SF,Michael Kidd-Gilchrist,CHA,Illness,Game Time Decision
 12/26/17,PF,Josh McRoberts,DAL,Lower Body,Expected to be out until at least Dec 27
-12/26/17,SF,C.J. Miles,TOR,Mouth,Game Time Decision
-12/26/17,C,Lucas Nogueira,TOR,Calf,Game Time Decision
+12/26/17,PF,Marcus Morris,BOS,Knee,Expected to be out until at least Dec 28
+12/26/17,PF,Mike Muscala,ATL,Ankle,Game Time Decision
 12/26/17,SF,Chandler Parsons,MEM,Rest,Expected to be out until at least Dec 27
-12/25/17,PF,Giannis Antetokounmpo,MIL,Knee,Game Time Decision
-12/25/17,SF,Evan Fournier,ORL,Ankle,Game Time Decision
-12/25/17,PF,Aaron Gordon,ORL,Calf,Game Time Decision
-12/25/17,SF,Danny Green,SA,Groin,Game Time Decision
+12/26/17,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 6
 12/25/17,PF,JaMychal Green,MEM,Knee,Expected to be out until at least Dec 27
-12/25/17,SF,Brandon Ingram,LAL,Quadriceps,Expected to be out until at least Dec 27
 12/25/17,PG,Frank Jackson,NO,Foot,Expected to be out until at least Dec 27
 12/25/17,PF,James Johnson,MIA,Ankle,Expected to be out until at least Dec 29
 12/25/17,SF,Wesley Johnson,LAC,Foot,Expected to be out until at least Dec 29
-12/25/17,SF,Kawhi Leonard,SA,Quadriceps,Game Time Decision
 12/25/17,PG,Damian Lillard,POR,Hamstring,Game Time Decision
-12/25/17,PG,Emmanuel Mudiay,DEN,Ankle,Game Time Decision
 12/25/17,PG,Raul Neto,UTA,Concussion,Expected to be out until at least Dec 27
 12/25/17,PF,Semi Ojeleye,BOS,Back,Game Time Decision
 12/25/17,PG,Chris Paul,HOU,Leg,Expected to be out until at least Dec 28
-12/25/17,C,Mason Plumlee,DEN,Finger,Game Time Decision
 12/25/17,PG,Isaiah Thomas,CLE,Hip,Expected to be out until at least Dec 27
 12/25/17,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Dec 29
-12/25/17,C,Hassan Whiteside,MIA,Knee,Game Time Decision
 12/24/17,PG,Lonzo Ball,LAL,Shoulder,Expected to be out until at least Dec 31
-12/24/17,SG,Devin Booker,PHO,Groin,Game Time Decision
-12/24/17,PG,De'Aaron Fox,SAC,Quadriceps,Game Time Decision
 12/24/17,SF,Justise Winslow,MIA,Knee,Expected to be out until at least Jan 1
 12/23/17,PG,Wade Baldwin IV,POR,Thumb,Game Time Decision
-12/23/17,SF,Dante Cunningham,NO,Back,Game Time Decision
-12/23/17,C,DeWayne Dedmon,ATL,Leg,Expected to be out until at least Dec 27
 12/23/17,PG,Zach LaVine,CHI,Knee,Expected to be out until at least Jan 8
 12/23/17,PF,Noah Vonleh,POR,Finger,Expected to be out until at least Dec 28
 12/23/17,C,Nikola Vucevic,ORL,Hand,Expected to be out until at least Feb 3
@@ -44,8 +39,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/21/17,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 1
 12/21/17,SG,C.J. Wilcox,POR,Knee,Expected to be out until at least Jan 1
 12/20/17,SF,Danilo Gallinari,LAC,Hip,Expected to be out until at least Jan 15
-12/20/17,PF,Mike Muscala,ATL,Ankle,Expected to be out until at least Dec 27
-12/19/17,PG,Stephen Curry,GS,Ankle,Expected to be out until at least Dec 27
 12/19/17,C,Brook Lopez,LAL,Ankle,Expected to be out until at least Jan 11
 12/19/17,PF,Jabari Parker,MIL,Knee,Expected to be out until at least Jan 15
 12/19/17,SG,Davon Reed,PHO,Knee,Expected to be out until at least Jan 1
@@ -66,10 +59,8 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/04/17,PF,Jon Leuer,DET,Ankle,Expected to be out until at least Jan 3
 11/30/17,SG,Terrence Ross,ORL,Knee,Expected to be out until at least Feb 3
 11/30/17,SG,Iman Shumpert,CLE,Knee,Expected to be out until at least Jan 18
-11/28/17,PF,Blake Griffin,LAC,Knee,Expected to be out until at least Jan 28
 11/26/17,PF,Paul Millsap,DEN,Wrist,Expected to be out until at least Mar 26
 11/22/17,SF,Solomon Hill,NO,Hamstring,Expected to be out until at least Feb 20
-11/18/17,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 1
 11/15/17,PF,Okaro White,MIA,Foot,Expected to be out until at least Feb 7
 11/07/17,PG,Brandon Knight,PHO,Knee,Out for the season
 10/19/17,PG,Jeremy Lin,BKN,Knee,Out for the season
