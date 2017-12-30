@@ -100,6 +100,8 @@ def update_injuries():
     injury_update()
     injuries = pd.read_csv('injury_updates.csv', dtype=str)
 
+    injuries = injuries.dropna(axis=0, how='any')
+
     for index, row in injuries.iterrows():
         #print(row['Player'] +", " + row['Expected Return'])
         player = row['Player'].replace("'", "").replace(' Jr.', '').replace(' III', '').replace('.', '').replace(' II', '')
