@@ -16,6 +16,8 @@ def find_abrv(d, key):
 def get_odds(date):
     day = date[3:5]
     month = date[0:2]
+    if month[0] == '0':
+        month = month[1:2]
     columns = ['Away', 'Away Spread', 'Home', 'Home Spread', 'Total']
     odds_df = pd.DataFrame(columns=columns)
 
