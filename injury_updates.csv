@@ -1,21 +1,24 @@
 Date,Pos,Player,Team,Injury,Expected Return
-01/01/18,PG,Wade Baldwin IV,POR,Thumb,Game Time Decision
-01/01/18,PG,Lonzo Ball,LAL,Shoulder,Expected to be out until at least Jan 1
-01/01/18,PF,Chris Boucher,GS,Knee,Expected to be out until at least Jan 1
-01/01/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Jan 2
-01/01/18,PG,De'Aaron Fox,SAC,Quadriceps,Expected to be out until at least Jan 2
-01/01/18,SG,James Harden,HOU,Hamstring,Game Time Decision
-01/01/18,PF,Kyle Kuzma,LAL,Quadriceps,
-01/01/18,SF,Kawhi Leonard,SA,Rest,
-01/01/18,PG,Damian Lillard,POR,Hamstring,Game Time Decision
-01/01/18,PG,Frank Mason III,SAC,Heel,Game Time Decision
-01/01/18,SG,Victor Oladipo,IND,Knee,Expected to be out until at least Jan 3
-01/01/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Jan 2
-01/01/18,SG,Davon Reed,PHO,Knee,Expected to be out until at least Jan 1
-01/01/18,PG,Austin Rivers,LAC,Achilles,Expected to be out until at least Jan 2
-01/01/18,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 1
-01/01/18,SG,C.J. Wilcox,POR,Knee,Expected to be out until at least Jan 1
-01/01/18,SF,Justise Winslow,MIA,Knee,Expected to be out until at least Jan 1
+01/02/18,PG,Wade Baldwin IV,POR,Thumb,Game Time Decision
+01/02/18,PF,Harry Giles,SAC,Knee,Expected to be out until at least Jan 13
+01/02/18,PF,James Johnson,MIA,Ankle,Game Time Decision
+01/02/18,PF,Kevin Love,CLE,Illness,Game Time Decision
+01/02/18,SG,Victor Oladipo,IND,Knee,Expected to be out until at least Jan 6
+01/02/18,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Jan 5
+01/02/18,SF,Justise Winslow,MIA,Knee,Expected to be out until at least Jan 5
+01/01/18,PG,Lonzo Ball,LAL,Shoulder,Expected to be out until at least Jan 3
+01/01/18,PF,Chris Boucher,GS,Knee,Expected to be out until at least Jan 25
+01/01/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Jan 5
+01/01/18,PG,De'Aaron Fox,SAC,Quadriceps,Game Time Decision
+01/01/18,SG,James Harden,HOU,Hamstring,Expected to be out until at least Jan 15
+01/01/18,PF,Kyle Kuzma,LAL,Quadriceps,Game Time Decision
+01/01/18,SF,Kawhi Leonard,SA,Rest,Game Time Decision
+01/01/18,PG,Frank Mason III,SAC,Heel,Expected to be out until at least Jan 6
+01/01/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Jan 5
+01/01/18,SG,Davon Reed,PHO,Knee,Expected to be out until at least Jan 3
+01/01/18,PG,Austin Rivers,LAC,Achilles,Game Time Decision
+01/01/18,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 3
+01/01/18,SG,C.J. Wilcox,POR,Knee,Expected to be out until at least Jan 2
 12/31/17,SG,Justin Anderson,PHI,Lower Leg,Expected to be out until at least Jan 3
 12/31/17,SG,Avery Bradley,DET,Groin,Game Time Decision
 12/31/17,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 3
@@ -33,9 +36,7 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/30/17,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 6
 12/30/17,SG,Andre Roberson,OKC,Knee,Expected to be out until at least Jan 3
 12/29/17,SF,Rudy Gay,SA,Heel,Expected to be out until at least Jan 13
-12/29/17,PF,James Johnson,MIA,Ankle,Expected to be out until at least Jan 3
 12/29/17,PG,Raul Neto,UTA,Knee,Expected to be out until at least Jan 3
-12/29/17,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Jan 3
 12/28/17,PG,Jeff Teague,MIN,Knee,Expected to be out until at least Jan 18
 12/27/17,C,DeWayne Dedmon,ATL,Leg,Expected to be out until at least Jan 7
 12/27/17,PG,Reggie Jackson,DET,Ankle,Expected to be out until at least Feb 1
@@ -69,6 +70,5 @@ Date,Pos,Player,Team,Injury,Expected Return
 10/16/17,SG,Glenn Robinson III,IND,Ankle,Expected to be out until at least Jan 15
 10/12/17,SG,Rodney McGruder,MIA,Leg,Expected to be out until at least Jan 15
 10/09/17,SG,Sheldon Mac,WAS,Achilles,Expected to be out until at least Apr 11
-10/06/17,PF,Harry Giles,SAC,Knee,Expected to be out until at least Jan 2
 09/25/17,PF,Alan Williams,PHO,Knee,Expected to be out until at least Mar 15
 06/28/17,PG,Edmond Sumner,IND,Knee,Expected to be out until at least Feb 1
