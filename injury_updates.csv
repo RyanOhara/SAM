@@ -1,38 +1,49 @@
 Date,Pos,Player,Team,Injury,Expected Return
+01/03/18,SG,Ron Baker,NY,Orbital,Game Time Decision
+01/03/18,C,Joel Embiid,PHI,Hand,Game Time Decision
+01/03/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Jan 10
+01/03/18,SG,Manu Ginobili,SA,Rest,Expected to be out until at least Jan 5
+01/03/18,SF,Danny Green,SA,Groin,Expected to be out until at least Jan 5
+01/03/18,SF,Stanley Johnson,DET,Hip,Expected to be out until at least Jan 5
+01/03/18,SG,Furkan Korkmaz,PHI,Foot,Expected to be out until at least Jan 24
+01/03/18,SF,Kawhi Leonard,SA,Rest,Expected to be out until at least Jan 5
+01/03/18,SF,Luc Mbah a Moute,HOU,Shoulder,Game Time Decision
+01/03/18,PF,Nikola Mirotic,CHI,Back,Game Time Decision
+01/03/18,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Jan 10
+01/03/18,PG,Tony Parker,SA,Rest,Expected to be out until at least Jan 5
+01/03/18,PG,Austin Rivers,LAC,Achilles,Game Time Decision
+01/03/18,PG,Isaiah Thomas,CLE,Rest,Expected to be out until at least Jan 6
+01/02/18,SG,Tony Allen,NO,Lower Leg,Expected to be out until at least Jan 6
+01/02/18,SG,Justin Anderson,PHI,Lower Leg,Expected to be out until at least Jan 5
 01/02/18,PG,Wade Baldwin IV,POR,Thumb,Game Time Decision
+01/02/18,PG,Lonzo Ball,LAL,Shoulder,Game Time Decision
+01/02/18,SF,DeMarre Carroll,BKN,Ribs,Game Time Decision
+01/02/18,SF,Omri Casspi,GS,Ribs,Game Time Decision
+01/02/18,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 9
+01/02/18,SF,Jared Dudley,PHO,Illness,Expected to be out until at least Jan 3
+01/02/18,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 9
 01/02/18,PF,Harry Giles,SAC,Knee,Expected to be out until at least Jan 13
+01/02/18,PF,Draymond Green,GS,Ankle,Game Time Decision
+01/02/18,SG,Andre Iguodala,GS,Knee,Game Time Decision
 01/02/18,PF,James Johnson,MIA,Ankle,Game Time Decision
-01/02/18,SF,Stanley Johnson,DET,Hip,Game Time Decision
-01/02/18,PF,Kevin Love,CLE,Illness,Game Time Decision
+01/02/18,SG,Caris LeVert,BKN,Groin,Game Time Decision
+01/02/18,C,Brook Lopez,LAL,Ankle,Game Time Decision
+01/02/18,PG,Frank Mason III,SAC,Heel,Expected to be out until at least Jan 9
+01/02/18,PF,Semi Ojeleye,BOS,Back,Game Time Decision
 01/02/18,SG,Victor Oladipo,IND,Knee,Expected to be out until at least Jan 6
+01/02/18,C,Zaza Pachulia,GS,Illness,Game Time Decision
 01/02/18,SG,Andre Roberson,OKC,Knee,Expected to be out until at least Jan 9
 01/02/18,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Jan 5
+01/02/18,SG,C.J. Wilcox,POR,Knee,Game Time Decision
 01/02/18,SF,Justise Winslow,MIA,Knee,Expected to be out until at least Jan 5
-01/01/18,PG,Lonzo Ball,LAL,Shoulder,Expected to be out until at least Jan 3
 01/01/18,PF,Chris Boucher,GS,Knee,Expected to be out until at least Jan 25
 01/01/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Jan 5
-01/01/18,PG,De'Aaron Fox,SAC,Quadriceps,Game Time Decision
 01/01/18,SG,James Harden,HOU,Hamstring,Expected to be out until at least Jan 15
 01/01/18,PF,Kyle Kuzma,LAL,Quadriceps,Game Time Decision
-01/01/18,SF,Kawhi Leonard,SA,Rest,Game Time Decision
-01/01/18,PG,Frank Mason III,SAC,Heel,Expected to be out until at least Jan 6
 01/01/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Jan 5
 01/01/18,SG,Davon Reed,PHO,Knee,Expected to be out until at least Jan 3
-01/01/18,PG,Austin Rivers,LAC,Achilles,Game Time Decision
 01/01/18,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 3
-01/01/18,SG,C.J. Wilcox,POR,Knee,Expected to be out until at least Jan 2
-12/31/17,SG,Justin Anderson,PHI,Lower Leg,Expected to be out until at least Jan 3
-12/31/17,SG,Avery Bradley,DET,Groin,Game Time Decision
-12/31/17,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 3
-12/31/17,C,Joel Embiid,PHI,Hand,Game Time Decision
-12/31/17,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Jan 3
-12/31/17,PF,Juan Hernangomez,DEN,Illness,Expected to be out until at least Jan 3
-12/31/17,SF,Luc Mbah a Moute,HOU,Shoulder,Expected to be out until at least Jan 3
-12/31/17,PF,Mike Muscala,ATL,Ankle,Game Time Decision
-12/31/17,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Jan 3
-12/31/17,PF,Semi Ojeleye,BOS,Back,Expected to be out until at least Jan 3
 12/31/17,SF,Troy Williams,HOU,Knee,Expected to be out until at least Jan 3
-12/30/17,SG,Kentavious Caldwell-Pope,LAL,Not Injury Related,Expected to be out until at least Jan 3
 12/30/17,PF,Jonathan Isaac,ORL,Ankle,Expected to be out until at least Feb 3
 12/30/17,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 6
 12/29/17,SF,Rudy Gay,SA,Heel,Expected to be out until at least Jan 13
@@ -40,20 +51,16 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/28/17,PG,Jeff Teague,MIN,Knee,Expected to be out until at least Jan 18
 12/27/17,C,DeWayne Dedmon,ATL,Leg,Expected to be out until at least Jan 7
 12/27/17,PG,Reggie Jackson,DET,Ankle,Expected to be out until at least Feb 1
-12/26/17,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 3
 12/26/17,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 6
 12/23/17,PG,Zach LaVine,CHI,Knee,Expected to be out until at least Jan 8
 12/23/17,C,Nikola Vucevic,ORL,Hand,Expected to be out until at least Feb 3
 12/21/17,SF,Tim Hardaway Jr.,NY,Leg,Expected to be out until at least Jan 15
 12/21/17,PG,Cameron Payne,CHI,Foot,Expected to be out until at least Jan 15
 12/20/17,SF,Danilo Gallinari,LAC,Hip,Expected to be out until at least Jan 15
-12/19/17,C,Brook Lopez,LAL,Ankle,Expected to be out until at least Jan 11
 12/19/17,PF,Jabari Parker,MIL,Knee,Expected to be out until at least Jan 15
-12/17/17,SG,Furkan Korkmaz,PHI,Foot,Expected to be out until at least Jan 3
 12/16/17,C,Rudy Gobert,UTA,Knee,Expected to be out until at least Jan 17
 12/15/17,SG,John Holland,CLE,Shoulder,Expected to be out until at least Jan 12
 12/14/17,PF,Mirza Teletovic,MIL,Illness,Expected to be out until at least Feb 1
-12/13/17,SG,Tony Allen,NO,Lower Leg,Expected to be out until at least Jan 3
 12/11/17,PG,Patrick Beverley,LAC,Knee,Out for the season
 12/11/17,C,Cody Zeller,CHA,Knee,Expected to be out until at least Jan 22
 12/07/17,C,Alexis Ajinca,NO,Knee,Expected to be out until at least Apr 7
