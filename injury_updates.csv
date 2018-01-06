@@ -1,29 +1,35 @@
 Date,Pos,Player,Team,Injury,Expected Return
+01/06/18,SF,Stanley Johnson,DET,Hip,Game Time Decision
+01/06/18,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 8
+01/05/18,PF,LaMarcus Aldridge,SA,Rest,Expected to be out until at least Jan 7
+01/05/18,SG,Tony Allen,NO,Lower Leg,Expected to be out until at least Jan 8
+01/05/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Jan 7
 01/05/18,SF,Bojan Bogdanovic,IND,Ankle,Game Time Decision
-01/05/18,SF,Jared Dudley,PHO,Illness,Game Time Decision
-01/05/18,PF,Marcus Morris,BOS,Rest,Expected to be out until at least Jan 6
+01/05/18,PG,Isaiah Canaan,PHO,Leg,Expected to be out until at least Jan 7
+01/05/18,SF,Omri Casspi,GS,Ribs,Game Time Decision
+01/05/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Feb 1
+01/05/18,PG,Stephen Curry,GS,Ankle,Game Time Decision
+01/05/18,SF,Jared Dudley,PHO,Illness,Expected to be out until at least Jan 7
+01/05/18,SF,Kevin Durant,GS,Calf,Game Time Decision
+01/05/18,PF,Draymond Green,GS,Knee,Game Time Decision
+01/05/18,SG,Andrew Harrison,MEM,Shoulder,Expected to be out until at least Jan 10
+01/05/18,PG,George Hill,SAC,Personal,Game Time Decision
+01/05/18,SG,Andre Iguodala,GS,Knee,Game Time Decision
+01/05/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 8
+01/05/18,SG,Caris LeVert,BKN,Groin,Game Time Decision
 01/05/18,C,Nene,HOU,Knee,Expected to be out until at least Jan 8
+01/05/18,PG,Raul Neto,UTA,Knee,Expected to be out until at least Jan 7
+01/05/18,SF,Otto Porter,WAS,Hip,Game Time Decision
 01/05/18,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 8
-01/05/18,PG,Milos Teodosic,LAC,Foot,Expected to be out until at least Jan 6
-01/05/18,SF,T.J. Warren,PHO,Illness,Game Time Decision
+01/05/18,PG,Milos Teodosic,LAC,Foot,Game Time Decision
+01/05/18,PG,Derrick Walton,MIA,Illness,Expected to be out until at least Jan 7
+01/05/18,SF,T.J. Warren,PHO,Illness,Expected to be out until at least Jan 7
 01/05/18,SF,Troy Williams,HOU,Knee,Expected to be out until at least Jan 8
 01/04/18,SG,Alex Abrines,OKC,Groin,Expected to be out until at least Jan 7
-01/04/18,SG,Justin Anderson,PHI,Lower Leg,Game Time Decision
-01/04/18,PG,Lonzo Ball,LAL,Shoulder,Game Time Decision
 01/04/18,SF,DeMarre Carroll,BKN,Ribs,Game Time Decision
-01/04/18,SF,Omri Casspi,GS,Ribs,Expected to be out until at least Jan 6
-01/04/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Jan 12
-01/04/18,C,Andre Drummond,DET,Ribs,Game Time Decision
-01/04/18,SF,Kevin Durant,GS,Calf,Expected to be out until at least Jan 6
-01/04/18,SG,Manu Ginobili,SA,Rest,Game Time Decision
 01/04/18,SF,Danny Green,SA,Groin,Expected to be out until at least Jan 7
-01/04/18,SG,Andrew Harrison,MEM,Shoulder,Game Time Decision
 01/04/18,PG,Reggie Jackson,DET,Ankle,Expected to be out until at least Feb 23
-01/04/18,SF,Stanley Johnson,DET,Hip,Game Time Decision
-01/04/18,PG,Tyus Jones,MIN,Lips,Game Time Decision
 01/04/18,PF,Jon Leuer,DET,Ankle,Expected to be out until at least Feb 1
-01/04/18,PG,Damian Lillard,POR,Calf,Game Time Decision
-01/04/18,PF,Mike Muscala,ATL,Ankle,Game Time Decision
 01/04/18,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Feb 3
 01/04/18,SG,Victor Oladipo,IND,Knee,Game Time Decision
 01/04/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Jan 10
@@ -33,14 +39,11 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/04/18,SF,Justise Winslow,MIA,Knee,Expected to be out until at least Jan 7
 01/03/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Jan 10
 01/03/18,SG,Furkan Korkmaz,PHI,Foot,Expected to be out until at least Jan 24
-01/03/18,SG,Caris LeVert,BKN,Groin,Expected to be out until at least Jan 6
 01/03/18,PF,Kevin Love,CLE,Ankle,Game Time Decision
 01/03/18,SF,Luc Mbah a Moute,HOU,Shoulder,Expected to be out until at least Jan 12
-01/03/18,PG,Raul Neto,UTA,Knee,Expected to be out until at least Jan 5
 01/03/18,SG,Davon Reed,PHO,Knee,Expected to be out until at least Jan 5
 01/03/18,SF,Jonathon Simmons,ORL,Back,Game Time Decision
 01/03/18,SG,C.J. Wilcox,POR,Knee,Game Time Decision
-01/02/18,SG,Tony Allen,NO,Lower Leg,Expected to be out until at least Jan 6
 01/02/18,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 9
 01/02/18,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 9
 01/02/18,PF,Harry Giles,SAC,Knee,Expected to be out until at least Jan 13
@@ -49,11 +52,9 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/01/18,PF,Chris Boucher,GS,Knee,Expected to be out until at least Jan 25
 01/01/18,SG,James Harden,HOU,Hamstring,Expected to be out until at least Jan 15
 12/30/17,PF,Jonathan Isaac,ORL,Ankle,Expected to be out until at least Feb 3
-12/30/17,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 6
 12/29/17,SF,Rudy Gay,SA,Heel,Expected to be out until at least Jan 13
 12/28/17,PG,Jeff Teague,MIN,Knee,Expected to be out until at least Jan 18
 12/27/17,C,DeWayne Dedmon,ATL,Leg,Expected to be out until at least Jan 7
-12/26/17,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 6
 12/23/17,PG,Zach LaVine,CHI,Knee,Expected to be out until at least Jan 8
 12/23/17,C,Nikola Vucevic,ORL,Hand,Expected to be out until at least Feb 3
 12/21/17,SF,Tim Hardaway Jr.,NY,Leg,Expected to be out until at least Jan 15
