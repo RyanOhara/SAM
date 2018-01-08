@@ -1,51 +1,54 @@
 Date,Pos,Player,Team,Injury,Expected Return
-01/07/18,PF,LaMarcus Aldridge,SA,Rest,Game Time Decision
-01/07/18,SF,DeAndre' Bembry,ATL,Groin,Game Time Decision
-01/07/18,C,DeWayne Dedmon,ATL,Leg,Game Time Decision
-01/07/18,SF,Jared Dudley,PHO,Illness,Game Time Decision
+01/08/18,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 20
+01/08/18,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 15
+01/07/18,SG,Tony Allen,NO,Lower Leg,Expected to be out until at least Jan 11
+01/07/18,PF,Michael Beasley,NY,Ankle,Expected to be out until at least Jan 10
+01/07/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Jan 8
+01/07/18,SF,Bojan Bogdanovic,IND,Ankle,Game Time Decision
+01/07/18,PG,Isaiah Canaan,PHO,Groin,Expected to be out until at least Jan 14
+01/07/18,SF,DeMarre Carroll,BKN,Knee,Expected to be out until at least Jan 10
+01/07/18,SF,Omri Casspi,GS,Hip,Game Time Decision
+01/07/18,PF,Marquese Chriss,PHO,Hip,Game Time Decision
+01/07/18,PG,Stephen Curry,GS,Knee,Game Time Decision
+01/07/18,C,DeWayne Dedmon,ATL,Leg,Expected to be out until at least Jan 10
+01/07/18,C,Andre Drummond,DET,Ribs,Game Time Decision
+01/07/18,SF,Kevin Durant,GS,Calf,Game Time Decision
+01/07/18,C,Joel Embiid,PHI,Back,Game Time Decision
+01/07/18,PG,Markelle Fultz,PHI,Shoulder,Game Time Decision
+01/07/18,SF,Danny Green,SA,Groin,Expected to be out until at least Jan 8
+01/07/18,PF,Draymond Green,GS,Knee,Game Time Decision
+01/07/18,PF,Blake Griffin,LAC,Concussion,Game Time Decision
+01/07/18,SG,Andrew Harrison,MEM,Shoulder,Game Time Decision
+01/07/18,PG,George Hill,SAC,Personal,Game Time Decision
+01/07/18,C,Al Horford,BOS,Knee,Game Time Decision
+01/07/18,SG,Andre Iguodala,GS,Knee,Game Time Decision
+01/07/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 15
+01/07/18,SF,Stanley Johnson,DET,Hip,Game Time Decision
+01/07/18,SG,Caris LeVert,BKN,Groin,Game Time Decision
+01/07/18,PG,Damian Lillard,POR,Calf,Game Time Decision
+01/07/18,PG,Shaun Livingston,GS,Hip,Game Time Decision
+01/07/18,C,Nene,HOU,Knee,Game Time Decision
 01/07/18,PG,Raul Neto,UTA,Knee,Game Time Decision
-01/07/18,PG,Derrick Walton,MIA,Illness,Game Time Decision
+01/07/18,PG,Tony Parker,SA,Rest,Game Time Decision
+01/07/18,SF,Chandler Parsons,MEM,Knee,Game Time Decision
+01/07/18,SF,Otto Porter,WAS,Hip,Game Time Decision
+01/07/18,PF,Zach Randolph,SAC,Mouth,Game Time Decision
+01/07/18,PG,Derrick Rose,CLE,Ankle,Game Time Decision
+01/07/18,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 12
+01/07/18,SF,Jonathon Simmons,ORL,Back,Game Time Decision
+01/07/18,PG,Milos Teodosic,LAC,Foot,Game Time Decision
+01/07/18,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Jan 9
 01/07/18,SG,C.J. Wilcox,POR,Knee,Game Time Decision
-01/07/18,SF,Justise Winslow,MIA,Knee,Game Time Decision
-01/06/18,SG,Alex Abrines,OKC,Groin,Game Time Decision
-01/06/18,PF,Michael Beasley,NY,Ankle,Game Time Decision
-01/06/18,SF,Bojan Bogdanovic,IND,Ankle,Expected to be out until at least Jan 8
-01/06/18,PG,Isaiah Canaan,PHO,Groin,Game Time Decision
-01/06/18,C,Andre Drummond,DET,Ribs,Expected to be out until at least Jan 8
-01/06/18,SF,Kevin Durant,GS,Calf,Expected to be out until at least Jan 8
-01/06/18,SF,Danny Green,SA,Groin,Game Time Decision
-01/06/18,PF,Blake Griffin,LAC,Head,Expected to be out until at least Jan 8
-01/06/18,PG,George Hill,SAC,Personal,Expected to be out until at least Jan 8
-01/06/18,C,Al Horford,BOS,Knee,Expected to be out until at least Jan 11
-01/06/18,SF,Stanley Johnson,DET,Hip,Expected to be out until at least Jan 8
-01/06/18,SG,Caris LeVert,BKN,Groin,Expected to be out until at least Jan 8
+01/07/18,SF,Troy Williams,HOU,Knee,Game Time Decision
+01/07/18,SF,Justise Winslow,MIA,Knee,Expected to be out until at least Jan 9
 01/06/18,SF,Kawhi Leonard,SA,Shoulder,Expected to be out until at least Jan 8
-01/06/18,PF,Larry Nance Jr.,LAL,Illness,Game Time Decision
-01/06/18,PG,Tony Parker,SA,Rest,Expected to be out until at least Jan 8
-01/06/18,SF,Otto Porter,WAS,Hip,Expected to be out until at least Jan 10
-01/06/18,PF,Zach Randolph,SAC,Mouth,Expected to be out until at least Jan 8
-01/06/18,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 8
-01/06/18,SF,Jonathon Simmons,ORL,Back,Expected to be out until at least Jan 9
-01/06/18,PG,Milos Teodosic,LAC,Foot,Expected to be out until at least Jan 8
-01/06/18,SF,T.J. Warren,PHO,Illness,Game Time Decision
-01/05/18,SG,Tony Allen,NO,Lower Leg,Expected to be out until at least Jan 8
 01/05/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Feb 1
-01/05/18,SG,Andrew Harrison,MEM,Shoulder,Expected to be out until at least Jan 10
-01/05/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 8
-01/05/18,C,Nene,HOU,Knee,Expected to be out until at least Jan 8
-01/05/18,PG,Derrick Rose,CLE,Ankle,Expected to be out until at least Jan 8
-01/05/18,SF,Troy Williams,HOU,Knee,Expected to be out until at least Jan 8
 01/04/18,PG,Reggie Jackson,DET,Ankle,Expected to be out until at least Feb 23
 01/04/18,PF,Jon Leuer,DET,Ankle,Expected to be out until at least Feb 1
 01/04/18,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Feb 3
-01/04/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Jan 10
 01/04/18,PG,Austin Rivers,LAC,Heel,Expected to be out until at least Jan 20
-01/04/18,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Jan 7
-01/03/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Jan 10
 01/03/18,SG,Furkan Korkmaz,PHI,Foot,Expected to be out until at least Jan 24
 01/03/18,SF,Luc Mbah a Moute,HOU,Shoulder,Expected to be out until at least Jan 12
-01/02/18,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 9
-01/02/18,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 9
 01/02/18,PF,Harry Giles,SAC,Knee,Expected to be out until at least Jan 13
 01/02/18,PG,Frank Mason III,SAC,Heel,Expected to be out until at least Jan 9
 01/02/18,SG,Andre Roberson,OKC,Knee,Expected to be out until at least Jan 9
