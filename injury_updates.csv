@@ -1,30 +1,39 @@
 Date,Pos,Player,Team,Injury,Expected Return
 01/09/18,PF,Michael Beasley,NY,Ankle,Game Time Decision
-01/09/18,SF,DeMarre Carroll,BKN,Knee,Game Time Decision
+01/09/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Jan 12
+01/09/18,SF,DeMarre Carroll,BKN,Knee,Expected to be out until at least Jan 12
+01/09/18,SG,Allen Crabbe,BKN,Lower Leg,Game Time Decision
+01/09/18,C,DeWayne Dedmon,ATL,Rest,Game Time Decision
 01/09/18,SF,Kevin Durant,GS,Calf,Game Time Decision
 01/09/18,SF,Danny Green,SA,Groin,Game Time Decision
-01/09/18,PG,George Hill,SAC,Personal,Game Time Decision
+01/09/18,PF,Draymond Green,GS,Knee,Game Time Decision
+01/09/18,PF,Blake Griffin,LAC,Concussion,Game Time Decision
+01/09/18,PG,George Hill,SAC,Personal,Expected to be out until at least Jan 11
+01/09/18,SG,Andre Iguodala,GS,Knee,Game Time Decision
+01/09/18,SG,Tyler Johnson,MIA,Shoulder,Expected to be out until at least Jan 10
 01/09/18,SF,Kawhi Leonard,SA,Shoulder,Game Time Decision
 01/09/18,PG,Kyle Lowry,TOR,Back,Expected to be out until at least Jan 11
-01/09/18,PG,Frank Mason III,SAC,Heel,Game Time Decision
+01/09/18,PG,Frank Mason III,SAC,Heel,Expected to be out until at least Jan 11
 01/09/18,PF,Nikola Mirotic,CHI,Illness,Game Time Decision
+01/09/18,PF,Mike Muscala,ATL,Ankle,Game Time Decision
+01/09/18,C,Giorgios Papagiannis,SAC,Illness,Expected to be out until at least Jan 11
 01/09/18,PG,Tony Parker,SA,Ankle,Game Time Decision
+01/09/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Jan 12
+01/09/18,SG,Andre Roberson,OKC,Knee,Expected to be out until at least Jan 13
+01/09/18,SG,Nik Stauskas,BKN,Ankle,Game Time Decision
+01/09/18,PG,Jeff Teague,MIN,Knee,Game Time Decision
 01/09/18,PG,Milos Teodosic,LAC,Foot,Game Time Decision
 01/09/18,C,Myles Turner,IND,Elbow,Game Time Decision
-01/08/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Jan 10
-01/08/18,SG,Allen Crabbe,BKN,Lower Leg,Game Time Decision
+01/09/18,SF,Taurean Waller-Prince,ATL,Finger,Game Time Decision
 01/08/18,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Jan 20
 01/08/18,PF,Anthony Davis,NO,Ankle,Game Time Decision
 01/08/18,PF,Derrick Favors,UTA,Ankle,Game Time Decision
 01/08/18,SF,Dorian Finney-Smith,DAL,Knee,Expected to be out until at least Jan 15
-01/08/18,PF,Blake Griffin,LAC,Concussion,Expected to be out until at least Jan 10
 01/08/18,PG,Zach LaVine,CHI,Knee,Expected to be out until at least Jan 13
 01/08/18,PG,Damian Lillard,POR,Calf,Expected to be out until at least Jan 10
 01/08/18,C,Nene,HOU,Knee,Expected to be out until at least Jan 10
 01/08/18,PG,Raul Neto,UTA,Knee,Game Time Decision
-01/08/18,SG,Andre Roberson,OKC,Knee,Expected to be out until at least Jan 10
 01/08/18,PG,Derrick Rose,CLE,Ankle,Game Time Decision
-01/08/18,SG,Nik Stauskas,BKN,Ankle,Expected to be out until at least Jan 10
 01/08/18,SG,Dion Waiters,MIA,Ankle,Expected to be out until at least Jan 14
 01/08/18,SG,C.J. Wilcox,POR,Knee,Game Time Decision
 01/08/18,SF,Troy Williams,HOU,Knee,Expected to be out until at least Jan 10
@@ -35,9 +44,7 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/07/18,PG,Markelle Fultz,PHI,Shoulder,Game Time Decision
 01/07/18,SG,Andrew Harrison,MEM,Shoulder,Game Time Decision
 01/07/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Jan 15
-01/07/18,SF,Chandler Parsons,MEM,Knee,Game Time Decision
 01/07/18,PG,D'Angelo Russell,BKN,Knee,Expected to be out until at least Jan 12
-01/07/18,SF,Jonathon Simmons,ORL,Back,Game Time Decision
 01/05/18,PG,Mike Conley,MEM,Achilles,Expected to be out until at least Feb 1
 01/04/18,PG,Reggie Jackson,DET,Ankle,Expected to be out until at least Feb 23
 01/04/18,PF,Jon Leuer,DET,Ankle,Expected to be out until at least Feb 1
@@ -50,7 +57,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/01/18,SG,James Harden,HOU,Hamstring,Expected to be out until at least Jan 15
 12/30/17,PF,Jonathan Isaac,ORL,Ankle,Expected to be out until at least Feb 3
 12/29/17,SF,Rudy Gay,SA,Heel,Expected to be out until at least Jan 13
-12/28/17,PG,Jeff Teague,MIN,Knee,Expected to be out until at least Jan 18
 12/23/17,C,Nikola Vucevic,ORL,Hand,Expected to be out until at least Feb 3
 12/21/17,SF,Tim Hardaway Jr.,NY,Leg,Expected to be out until at least Jan 15
 12/21/17,PG,Cameron Payne,CHI,Foot,Expected to be out until at least Jan 15
