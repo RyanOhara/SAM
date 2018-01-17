@@ -1,13 +1,13 @@
 Player,Team
 Tyler Dorsey,atl
 Marco Belinelli,atl
+Andrew White,atl
 Malcolm Delaney,atl
 Ersan Ilyasova,atl
 Luke Babbitt,atl
 Josh Magette,atl
 Taurean Prince,atl
 Dewayne Dedmon,atl
-Nicolas Brussino,atl
 Dennis Schroder,atl
 Miles Plumlee,atl
 John Collins,atl
@@ -32,6 +32,7 @@ Semi Ojeleye,bos
 Al Horford,bos
 Kadeem Allen,bos
 Aron Baynes,bos
+James Webb III,bkn
 D'Angelo Russell,bkn
 Nik Stauskas,bkn
 Jahlil Okafor,bkn
@@ -43,7 +44,6 @@ Quincy Acy,bkn
 Milton Doyle,bkn
 Isaiah Whitehead,bkn
 Timofey Mozgov,bkn
-Jacob Wiley,bkn
 Caris LeVert,bkn
 Rondae Hollis-Jefferson,bkn
 Jarrett Allen,bkn
@@ -98,7 +98,6 @@ Jeff Green,cle
 Ante Zizic,cle
 Jose Calderon,cle
 Jae Crowder,cle
-Jalen Jones,dal
 Dennis Smith Jr.,dal
 Nerlens Noel,dal
 J.J. Barea,dal
@@ -108,6 +107,7 @@ Kyle Collinsworth,dal
 Dorian Finney-Smith,dal
 Yogi Ferrell,dal
 Josh McRoberts,dal
+Jalen Jones,dal
 Wesley Matthews,dal
 Seth Curry,dal
 Devin Harris,dal
@@ -132,6 +132,9 @@ Malik Beasley,den
 Jamal Murray,den
 Kenneth Faried,den
 Juan Hernangomez,den
+Reggie Hearn,det
+Kay Felder,det
+Reggie Hearn,det
 Andre Drummond,det
 Reggie Jackson,det
 Luke Kennard,det
@@ -146,7 +149,6 @@ Reggie Bullock,det
 Jon Leuer,det
 Tobias Harris,det
 Anthony Tolliver,det
-Luis Montero,det
 Boban Marjanovic,det
 Patrick McCaw,gsw
 JaVale McGee,gsw
@@ -165,13 +167,12 @@ Zaza Pachulia,gsw
 Stephen Curry,gsw
 Shaun Livingston,gsw
 Kevin Durant,gsw
-RJ Hunter,hou
-Briante Weber,hou
+Markel Brown,hou
 Trevor Ariza,hou
-Demetrius Jackson,hou
 Chris Paul,hou
 PJ Tucker,hou
 Troy Williams,hou
+RJ Hunter,hou
 Zhou Qi,hou
 Eric Gordon,hou
 Luc Mbah a Moute,hou
@@ -214,7 +215,6 @@ Austin Rivers,lac
 Blake Griffin,lac
 Wesley Johnson,lac
 Willie Reed,lac
-Gary Payton II,lal
 Kyle Kuzma,lal
 Kentavious Caldwell-Pope,lal
 Lonzo Ball,lal
@@ -227,13 +227,14 @@ Luol Deng,lal
 Tyler Ennis,lal
 Brook Lopez,lal
 Brandon Ingram,lal
+Gary Payton II,lal
 Julius Randle,lal
 Thomas Bryant,lal
 Ivica Zubac,lal
-Myke Henry,mem
 JaMychal Green,mem
 Jarell Martin,mem
 Kobi Simmons,mem
+Myke Henry,mem
 Andrew Harrison,mem
 Mario Chalmers,mem
 Wayne Selden,mem
@@ -280,6 +281,8 @@ Sterling Brown,mil
 John Henson,mil
 Giannis Antetokounmpo,mil
 Mirza Teletovic,mil
+Marshall Plumlee,mil
+Amile Jefferson,min
 Jeff Teague,min
 Tyus Jones,min
 Anthony Brown,min
@@ -369,8 +372,8 @@ Amir Johnson,phi
 Timothe Luwawu-Cabarrot,phi
 James Young,phi
 Dario Saric,phi
+Demetrius Jackson,phi
 T.J. McConnell,phi
-James Michael McAdoo,phi
 JJ Redick,phi
 Markelle Fultz,phi
 Joel Embiid,phi
@@ -477,6 +480,7 @@ Royce O'Neale,uta
 Raul Neto,uta
 Rudy Gobert,uta
 Naz Mitrou-Long,uta
+Georges Niang,uta
 Ekpe Udoh,uta
 Donovan Mitchell,uta
 Chris McCullough,was
