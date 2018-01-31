@@ -1,11 +1,19 @@
 Date,Pos,Player,Team,Injury,Expected Return
+01/31/18,SF,DeAndre' Bembry,ATL,Groin,Game Time Decision
+01/31/18,C,Joel Embiid,PHI,Rest,Game Time Decision
+01/31/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Feb 2
+01/31/18,PF,Aaron Gordon,ORL,Hip,Game Time Decision
+01/31/18,PF,Blake Griffin,DET,Coach's Decision,Game Time Decision
+01/31/18,SF,Rondae Hollis-Jefferson,BKN,Groin,Game Time Decision
+01/31/18,PG,Kyrie Irving,BOS,Quadriceps,Expected to be out until at least Feb 2
+01/31/18,SG,Caris LeVert,BKN,Groin,Game Time Decision
+01/31/18,PF,Kevin Love,CLE,Hand,Expected to be out until at least Jan 31
 01/31/18,SG,C.J. Wilcox,POR,Knee,Game Time Decision
 01/31/18,SG,C.J. Williams,LAC,Ankle,Game Time Decision
 01/30/18,SG,Trevor Ariza,HOU,Hamstring,Expected to be out until at least Feb 9
 01/30/18,SG,Ron Baker,NY,Shoulder,Expected to be out until at least Feb 2
 01/30/18,PG,Lonzo Ball,LAL,Knee,Expected to be out until at least Feb 2
 01/30/18,PG,J.J. Barea,DAL,Oblique,Game Time Decision
-01/30/18,PG,Jerryd Bayless,PHI,Wrist,Game Time Decision
 01/30/18,SG,Devin Booker,PHO,Ribs,Game Time Decision
 01/30/18,SG,Avery Bradley,LAC,Groin,Expected to be out until at least Feb 3
 01/30/18,SF,Dillon Brooks,MEM,Knee,Game Time Decision
@@ -16,10 +24,8 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/30/18,C,Deyonta Davis,MEM,Knee,Game Time Decision
 01/30/18,SF,James Ennis III,MEM,Calf,Expected to be out until at least Feb 1
 01/30/18,PG,Jawun Evans,LAC,Abdomen,Expected to be out until at least Feb 3
-01/30/18,PF,Aaron Gordon,ORL,Hip,Expected to be out until at least Jan 31
 01/30/18,SG,Eric Gordon,HOU,Back,Game Time Decision
 01/30/18,PF,JaMychal Green,MEM,Ankle,Game Time Decision
-01/30/18,PF,Blake Griffin,DET,Coach's Decision,Expected to be out until at least Feb 1
 01/30/18,SF,Tobias Harris,LAC,Coach's Decision,Expected to be out until at least Feb 3
 01/30/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Feb 2
 01/30/18,PF,Brice Johnson,DET,Coach's Decision,Expected to be out until at least Feb 1
@@ -27,7 +33,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/30/18,PG,Shane Larkin,BOS,Knee,Game Time Decision
 01/30/18,C,Alex Len,PHO,Ankle,Game Time Decision
 01/30/18,SF,Kevon Looney,GS,Illness,Expected to be out until at least Feb 2
-01/30/18,PF,Kevin Love,CLE,Hand,Game Time Decision
 01/30/18,C,Boban Marjanovic,LAC,Coach's Decision,Expected to be out until at least Feb 3
 01/30/18,PF,Lauri Markkanen,CHI,Personal,Expected to be out until at least Feb 3
 01/30/18,SG,Ben McLemore,MEM,Knee,Game Time Decision
@@ -37,7 +42,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/30/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Feb 1
 01/30/18,PG,Chris Paul,HOU,Groin,Expected to be out until at least Feb 1
 01/30/18,PF,Zhou Qi,HOU,Elbow,Game Time Decision
-01/30/18,SG,JJ Redick,PHI,Leg,Game Time Decision
 01/30/18,C,Willie Reed,DET,Coach's Decision,Expected to be out until at least Feb 1
 01/30/18,SG,Malachi Richardson,SAC,Ankle,Expected to be out until at least Feb 2
 01/30/18,SG,Lance Stephenson,IND,Thigh,Game Time Decision
@@ -47,11 +51,8 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/29/18,PG,Eric Bledsoe,MIL,Ankle,Game Time Decision
 01/29/18,SG,Seth Curry,DAL,Lower Leg,Expected to be out until at least Feb 13
 01/29/18,PG,Kris Dunn,CHI,Concussion,Expected to be out until at least Feb 5
-01/29/18,C,Joel Embiid,PHI,Rest,Expected to be out until at least Jan 31
-01/29/18,SF,Rondae Hollis-Jefferson,BKN,Groin,Expected to be out until at least Jan 31
 01/29/18,SG,Rodney Hood,UTA,Lower Leg,Expected to be out until at least Feb 2
 01/29/18,SG,Furkan Korkmaz,PHI,Foot,Expected to be out until at least Feb 10
-01/29/18,SG,Caris LeVert,BKN,Groin,Expected to be out until at least Jan 31
 01/29/18,PF,Jabari Parker,MIL,Knee,Expected to be out until at least Feb 2
 01/29/18,C,Mason Plumlee,DEN,Calf,Expected to be out until at least Feb 1
 01/29/18,C,Cody Zeller,CHA,Knee,Expected to be out until at least Feb 2
@@ -65,8 +66,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/26/18,PF,Tyler Lydon,DEN,Knee,Expected to be out until at least May 25
 01/26/18,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Feb 13
 01/26/18,PG,Marcus Smart,BOS,Hand,Expected to be out until at least Feb 9
-01/24/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Jan 31
-01/23/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Jan 31
 01/23/18,PG,Austin Rivers,LAC,Heel,Expected to be out until at least Feb 5
 01/23/18,SG,Glenn Robinson III,IND,Ankle,Expected to be out until at least Feb 11
 01/22/18,PF,Jonathan Isaac,ORL,Ankle,Expected to be out until at least Feb 8
