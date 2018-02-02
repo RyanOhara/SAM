@@ -66,6 +66,9 @@ Treveon Graham,cha
 Julyan Stone,cha
 Cody Zeller,cha
 Frank Kaminsky,cha
+Jameer Nelson,chi
+Tony Allen,chi
+Omer Asik,chi
 Jerian Grant,chi
 Bobby Portis,chi
 Cristiano Felicio,chi
@@ -75,12 +78,10 @@ Antonio Blakeney,chi
 David Nwaba,chi
 Ryan Arcidiacono,chi
 Paul Zipser,chi
-Quincy Pondexter,chi
 Cameron Payne,chi
 Lauri Markkanen,chi
 Kris Dunn,chi
 Robin Lopez,chi
-Nikola Mirotic,chi
 Denzel Valentine,chi
 Kevin Love,cle
 Derrick Rose,cle
@@ -227,7 +228,6 @@ Luol Deng,lal
 Tyler Ennis,lal
 Brook Lopez,lal
 Brandon Ingram,lal
-Nigel Hayes,lal
 Gary Payton II,lal
 Julius Randle,lal
 Thomas Bryant,lal
@@ -299,19 +299,17 @@ Aaron Brooks,min
 Karl-Anthony Towns,min
 Cole Aldrich,min
 Taj Gibson,min
+Nikola Mirotic,nop
 DeMarcus Cousins,nop
 Ian Clark,nop
-Omer Asik,nop
 Charles Cooke,nop
 Mike James,nop
 Rajon Rondo,nop
 Jrue Holiday,nop
 Cheick Diallo,nop
-Jameer Nelson,nop
 Frank Jackson,nop
 Darius Miller,nop
 Anthony Davis,nop
-Tony Allen,nop
 Dante Cunningham,nop
 DeAndre Liggins,nop
 Alexis Ajinca,nop
@@ -350,8 +348,8 @@ Josh Huestis,okc
 PJ Dozier,okc
 Dakari Johnson,okc
 Patrick Patterson,okc
-Jamel Artis,orl
 Aaron Gordon,orl
+Jamel Artis,orl
 Jonathan Isaac,orl
 Elfrid Payton,orl
 Arron Afflalo,orl
@@ -366,7 +364,6 @@ Jonathon Simmons,orl
 Khem Birch,orl
 Wes Iwundu,orl
 Terrence Ross,orl
-Adreian Payne,orl
 Jerryd Bayless,phi
 Justin Anderson,phi
 Amir Johnson,phi
@@ -392,7 +389,6 @@ Tyson Chandler,phx
 Tyler Ulis,phx
 Brandon Knight,phx
 TJ Warren,phx
-Greg Monroe,phx
 Alan Williams,phx
 Josh Jackson,phx
 Alex Len,phx
