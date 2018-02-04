@@ -1,63 +1,61 @@
 Date,Pos,Player,Team,Injury,Expected Return
-02/02/18,SG,Tony Allen,CHI,Coach's Decision,Game Time Decision
-02/02/18,C,Omer Asik,CHI,Coach's Decision,Game Time Decision
+02/04/18,SG,Tony Allen,CHI,Coach's Decision,Game Time Decision
+02/04/18,PF,Giannis Antetokounmpo,MIL,Ankle,Game Time Decision
+02/04/18,C,Omer Asik,CHI,Coach's Decision,Game Time Decision
+02/04/18,PG,Lonzo Ball,LAL,Knee,Expected to be out until at least Feb 8
+02/04/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Feb 6
+02/04/18,PG,Dwight Buycks,DET,Illness,Game Time Decision
+02/04/18,PF,Tyler Cavanaugh,ATL,Ankle,Expected to be out until at least Feb 6
+02/04/18,PG,Matthew Dellavedova,MIL,Ankle,Game Time Decision
+02/04/18,PG,Jawun Evans,LAC,Abdomen,Game Time Decision
+02/04/18,PF,Aaron Gordon,ORL,Hip,Game Time Decision
+02/04/18,SF,Rondae Hollis-Jefferson,BKN,Groin,Game Time Decision
+02/04/18,SF,Ersan Ilyasova,ATL,Illness,Expected to be out until at least Feb 6
+02/04/18,PG,Kyrie Irving,BOS,Quadriceps,Expected to be out until at least Feb 6
+02/04/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Feb 12
+02/04/18,SG,Luke Kennard,DET,Toe,Game Time Decision
+02/04/18,PG,Shane Larkin,BOS,Knee,Expected to be out until at least Feb 23
+02/04/18,SG,Donovan Mitchell,UTA,Illness,Game Time Decision
+02/04/18,C,Greg Monroe,PHO,Coach's Decision,Game Time Decision
+02/04/18,PF,Marcus Morris,BOS,Hip,Expected to be out until at least Feb 6
+02/04/18,PG,Shabazz Napier,POR,Toe,Game Time Decision
+02/04/18,PG,Jameer Nelson,CHI,Coach's Decision,Game Time Decision
+02/04/18,PG,Frank Ntilikina,NY,Knee,Game Time Decision
+02/04/18,SF,Chandler Parsons,MEM,Knee,Game Time Decision
+02/04/18,SG,Malachi Richardson,SAC,Ankle,Game Time Decision
+02/04/18,PG,Austin Rivers,LAC,Heel,Game Time Decision
+02/04/18,SG,Glenn Robinson III,IND,Ankle,Game Time Decision
+02/04/18,PF,Mike Scott,WAS,Illness,Game Time Decision
+02/04/18,PG,Marcus Smart,BOS,Hand,Expected to be out until at least Feb 23
+02/04/18,C,Myles Turner,IND,Knee,Game Time Decision
+02/04/18,C,Nikola Vucevic,ORL,Hand,Expected to be out until at least Feb 8
+02/04/18,PF,Okaro White,MIA,Foot,Expected to be out until at least Feb 13
+02/04/18,C,Hassan Whiteside,MIA,Illness,Game Time Decision
+02/04/18,SG,C.J. Williams,LAC,Ankle,Game Time Decision
+02/04/18,PF,Marvin Williams,CHA,Ankle,Expected to be out until at least Feb 8
+02/03/18,PF,Marquese Chriss,PHO,Suspension,Expected to be out until at least Feb 6
+02/03/18,SG,Eric Gordon,HOU,Back,Expected to be out until at least Feb 6
+02/03/18,SG,Timothe Luwawu-Cabarrot,PHI,Illness,Expected to be out until at least Feb 6
+02/03/18,SG,Brandon Paul,SA,Back,Expected to be out until at least Feb 7
 02/02/18,PF,Jordan Bell,GS,Ankle,Expected to be out until at least Feb 22
 02/02/18,PG,Malcolm Brogdon,MIL,Quadriceps,Expected to be out until at least Mar 17
 02/02/18,PG,Kris Dunn,CHI,Concussion,Expected to be out until at least Feb 9
-02/02/18,SG,Eric Gordon,HOU,Back,Game Time Decision
-02/02/18,PF,Udonis Haslem,MIA,Personal,Expected to be out until at least Feb 3
-02/02/18,SG,Andre Iguodala,GS,Rest,Expected to be out until at least Feb 3
-02/02/18,PG,Kyrie Irving,BOS,Quadriceps,Expected to be out until at least Feb 4
 02/02/18,PF,Jonathan Isaac,ORL,Ankle,Expected to be out until at least Feb 10
-02/02/18,PG,Shane Larkin,BOS,Knee,Expected to be out until at least Feb 4
-02/02/18,C,Alex Len,PHO,Ankle,Expected to be out until at least Feb 4
 02/02/18,PF,Kevin Love,CLE,Hand,Expected to be out until at least Mar 30
-02/02/18,SG,Timothe Luwawu-Cabarrot,PHI,Illness,Expected to be out until at least Feb 3
-02/02/18,PF,Lauri Markkanen,CHI,Personal,Expected to be out until at least Feb 5
 02/02/18,SG,Rodney McGruder,MIA,Leg,Expected to be out until at least Feb 14
-02/02/18,SF,C.J. Miles,TOR,Knee,Expected to be out until at least Feb 4
-02/02/18,PF,Nikola Mirotic,NO,Coach's Decision,Expected to be out until at least Feb 3
-02/02/18,C,Greg Monroe,PHO,Coach's Decision,Expected to be out until at least Feb 4
-02/02/18,PF,Marcus Morris,BOS,Hip,Expected to be out until at least Feb 4
-02/02/18,PG,Jameer Nelson,CHI,Coach's Decision,Game Time Decision
-02/02/18,SG,Brandon Paul,SA,Back,Game Time Decision
-02/02/18,SG,Malachi Richardson,SAC,Ankle,Expected to be out until at least Feb 3
 02/02/18,SG,Terrence Ross,ORL,Knee,Expected to be out until at least Feb 24
-02/02/18,PG,Marcus Smart,BOS,Hand,Expected to be out until at least Feb 14
-02/02/18,SG,Jason Terry,MIL,Personal,Expected to be out until at least Feb 4
 02/02/18,PF,David West,GS,Rest,Expected to be out until at least Feb 6
-02/02/18,C,Hassan Whiteside,MIA,Illness,Game Time Decision
-02/01/18,PG,Lonzo Ball,LAL,Knee,Expected to be out until at least Feb 6
-02/01/18,PG,J.J. Barea,DAL,Oblique,Game Time Decision
-02/01/18,SG,Avery Bradley,LAC,Groin,Game Time Decision
 02/01/18,PG,Isaiah Canaan,PHO,Ankle,Out for the season
-02/01/18,PG,Mario Chalmers,MEM,Hamstring,Expected to be out until at least Feb 4
-02/01/18,PG,Jawun Evans,LAC,Abdomen,Game Time Decision
 02/01/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Feb 9
-02/01/18,PF,Aaron Gordon,ORL,Hip,Game Time Decision
-02/01/18,SF,Tobias Harris,LAC,Coach's Decision,Game Time Decision
-02/01/18,SF,Rondae Hollis-Jefferson,BKN,Groin,Expected to be out until at least Feb 4
-02/01/18,SG,Rodney Hood,UTA,Lower Leg,Expected to be out until at least Feb 3
-02/01/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Feb 3
 02/01/18,PF,Skal Labissiere,SAC,Shoulder,Expected to be out until at least Feb 22
-02/01/18,SG,Caris LeVert,BKN,Groin,Game Time Decision
 02/01/18,SF,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Feb 8
-02/01/18,C,Meyers Leonard,POR,Back,Game Time Decision
-02/01/18,PG,Shaun Livingston,GS,Personal,Expected to be out until at least Feb 3
-02/01/18,C,Boban Marjanovic,LAC,Coach's Decision,Game Time Decision
-02/01/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Feb 4
 02/01/18,PG,Cameron Payne,CHI,Foot,Expected to be out until at least Feb 22
 02/01/18,C,Mason Plumlee,DEN,Calf,Expected to be out until at least Feb 15
-02/01/18,SG,Glenn Robinson III,IND,Ankle,Expected to be out until at least Feb 9
 02/01/18,PF,Mirza Teletovic,MIL,Illness,Expected to be out until at least Feb 10
-02/01/18,C,Nikola Vucevic,ORL,Hand,Game Time Decision
 02/01/18,SG,C.J. Wilcox,POR,Knee,Expected to be out until at least Feb 15
-02/01/18,PF,Marvin Williams,CHA,Ankle,Expected to be out until at least Feb 4
 01/31/18,SG,Ron Baker,NY,Shoulder,Expected to be out until at least Mar 2
-01/31/18,SF,DeAndre' Bembry,ATL,Groin,Expected to be out until at least Feb 4
 01/31/18,PG,Tyreke Evans,MEM,Coach's Decision,Expected to be out until at least Feb 8
 01/31/18,C,Joakim Noah,NY,Personal,Expected to be out until at least Feb 11
-01/31/18,SG,C.J. Williams,LAC,Ankle,Game Time Decision
 01/30/18,SG,Trevor Ariza,HOU,Hamstring,Expected to be out until at least Feb 9
 01/30/18,PF,Zhou Qi,HOU,Elbow,Game Time Decision
 01/30/18,PG,John Wall,WAS,Knee,Expected to be out until at least Mar 15
@@ -70,7 +68,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 01/26/18,SG,John Holland,CLE,Shoulder,Expected to be out until at least Feb 22
 01/26/18,PF,Tyler Lydon,DEN,Knee,Expected to be out until at least May 25
 01/26/18,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Feb 13
-01/23/18,PG,Austin Rivers,LAC,Heel,Expected to be out until at least Feb 5
 01/22/18,SG,Dion Waiters,MIA,Ankle,Out for the season
 01/19/18,PF,Jon Leuer,DET,Ankle,Out for the season
 01/18/18,PF,Harry Giles,SAC,Knee,Out for the season
@@ -83,7 +80,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 12/11/17,PG,Patrick Beverley,LAC,Knee,Out for the season
 12/07/17,C,Alexis Ajinca,NO,Knee,Expected to be out until at least Apr 7
 11/22/17,SF,Solomon Hill,NO,Hamstring,Expected to be out until at least Feb 20
-11/15/17,PF,Okaro White,MIA,Foot,Expected to be out until at least Feb 7
 11/07/17,PG,Brandon Knight,PHO,Knee,Out for the season
 10/19/17,PG,Jeremy Lin,BKN,Knee,Out for the season
 10/17/17,PG,Dante Exum,UTA,Shoulder,Expected to be out until at least Mar 1
