@@ -433,8 +433,3 @@ if __name__ == "__main__":
     projections = project_all(DATE)
     print(projections)
     projections.to_csv('todays_projections.csv', index=False)
-
-
-
-
-
