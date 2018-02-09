@@ -4,7 +4,6 @@ Marco Belinelli,atl
 Andrew White,atl
 Malcolm Delaney,atl
 Ersan Ilyasova,atl
-Luke Babbitt,atl
 Josh Magette,atl
 Taurean Prince,atl
 Dewayne Dedmon,atl
@@ -19,7 +18,6 @@ DeAndre' Bembry,atl
 Jayson Tatum,bos
 Jaylen Brown,bos
 Shane Larkin,bos
-Jarell Eddie,bos
 Kyrie Irving,bos
 Terry Rozier,bos
 Marcus Morris,bos
@@ -33,6 +31,7 @@ Semi Ojeleye,bos
 Al Horford,bos
 Kadeem Allen,bos
 Aron Baynes,bos
+Greg Monroe,bos
 James Webb III,bkn
 D'Angelo Russell,bkn
 Nik Stauskas,bkn
@@ -44,13 +43,12 @@ Joe Harris,bkn
 Quincy Acy,bkn
 Milton Doyle,bkn
 Isaiah Whitehead,bkn
-Rashad Vaughn,bkn
 Timofey Mozgov,bkn
 Caris LeVert,bkn
 Rondae Hollis-Jefferson,bkn
 Jarrett Allen,bkn
 Allen Crabbe,bkn
-Willy Hernangomez,cha
+Dante Cunningham,bkn
 Malik Monk,cha
 Marvin Williams,cha
 Jeremy Lamb,cha
@@ -65,6 +63,7 @@ Kemba Walker,cha
 Treveon Graham,cha
 Julyan Stone,cha
 Cody Zeller,cha
+Willy Hernangomez,cha
 Frank Kaminsky,cha
 Jerian Grant,chi
 Omer Asik,chi
@@ -74,32 +73,30 @@ Justin Holiday,chi
 Zach LaVine,chi
 Antonio Blakeney,chi
 David Nwaba,chi
-Jameer Nelson,chi
 Ryan Arcidiacono,chi
 Paul Zipser,chi
 Cameron Payne,chi
 Lauri Markkanen,chi
 Tony Allen,chi
+Noah Vonleh,chi
 Kris Dunn,chi
 Robin Lopez,chi
 Denzel Valentine,chi
 Kevin Love,cle
-Derrick Rose,cle
-Isaiah Thomas,cle
-Iman Shumpert,cle
+Rodney Hood,cle
+George Hill,cle
 JR Smith,cle
-Channing Frye,cle
-Dwyane Wade,cle
+Jordan Clarkson,cle
 John Holland,cle
 Tristan Thompson,cle
 London Perrantes,cle
 Cedi Osman,cle
 LeBron James,cle
+Larry Nance Jr.,cle
 Kyle Korver,cle
 Jeff Green,cle
 Ante Zizic,cle
 Jose Calderon,cle
-Jae Crowder,cle
 Dennis Smith Jr.,dal
 Nerlens Noel,dal
 J.J. Barea,dal
@@ -109,16 +106,15 @@ Kyle Collinsworth,dal
 Dorian Finney-Smith,dal
 Yogi Ferrell,dal
 Josh McRoberts,dal
+Doug McDermott,dal
 Jalen Jones,dal
 Wesley Matthews,dal
 Seth Curry,dal
-Devin Harris,dal
 Harrison Barnes,dal
 Dirk Nowitzki,dal
 Maxi Kleber,dal
 Salah Mejri,dal
 Darrell Arthur,den
-Emmanuel Mudiay,den
 Torrey Craig,den
 Paul Millsap,den
 Will Barton,den
@@ -132,6 +128,7 @@ Richard Jefferson,den
 Mason Plumlee,den
 Malik Beasley,den
 Jamal Murray,den
+Devin Harris,den
 Kenneth Faried,den
 Juan Hernangomez,den
 Andre Drummond,det
@@ -139,17 +136,17 @@ Reggie Jackson,det
 Luke Kennard,det
 Stanley Johnson,det
 Henry Ellenson,det
+James Ennis III,det
 Langston Galloway,det
-Brice Johnson,det
 Ish Smith,det
 Dwight Buycks,det
-Blake Griffin,det
 Kay Felder,det
+Blake Griffin,det
 Eric Moreland,det
 Reggie Bullock,det
 Jon Leuer,det
-Willie Reed,det
 Reggie Hearn,det
+Jameer Nelson,det
 Anthony Tolliver,det
 Patrick McCaw,gsw
 JaVale McGee,gsw
@@ -222,16 +219,17 @@ Lonzo Ball,lal
 Corey Brewer,lal
 Alex Caruso,lal
 Josh Hart,lal
-Jordan Clarkson,lal
-Larry Nance Jr.,lal
+Isaiah Thomas,lal
 Luol Deng,lal
 Tyler Ennis,lal
 Brook Lopez,lal
+Channing Frye,lal
 Brandon Ingram,lal
 Gary Payton II,lal
 Julius Randle,lal
 Thomas Bryant,lal
 Ivica Zubac,lal
+Brice Johnson,mem
 JaMychal Green,mem
 Jarell Martin,mem
 Kobi Simmons,mem
@@ -239,7 +237,6 @@ Myke Henry,mem
 Andrew Harrison,mem
 Mario Chalmers,mem
 Wayne Selden,mem
-James Ennis III,mem
 Ivan Rabb,mem
 Mike Conley,mem
 Tyreke Evans,mem
@@ -251,7 +248,7 @@ Marc Gasol,mem
 Brandan Wright,mem
 Josh Richardson,mia
 Wayne Ellington,mia
-AJ Hammons,mia
+Dwyane Wade,mia
 Derrick Jones Jr.,mia
 Goran Dragic,mia
 Tyler Johnson,mia
@@ -259,11 +256,11 @@ Kelly Olynyk,mia
 Dion Waiters,mia
 Bam Adebayo,mia
 Derrick Walton Jr.,mia
-Okaro White,mia
 James Johnson,mia
 Rodney McGruder,mia
 Justise Winslow,mia
 Hassan Whiteside,mia
+Luke Babbitt,mia
 Jordan Mickey,mia
 Udonis Haslem,mia
 Xavier Munford,mil
@@ -308,16 +305,16 @@ Rajon Rondo,nop
 Jrue Holiday,nop
 Cheick Diallo,nop
 Frank Jackson,nop
+Rashad Vaughn,nop
 Darius Miller,nop
 Anthony Davis,nop
-Dante Cunningham,nop
 DeAndre Liggins,nop
 Alexis Ajinca,nop
 Solomon Hill,nop
 Emeka Okafor,nop
 E'Twaun Moore,nop
-Johnny O'Bryant III,nyk
 Enes Kanter,nyk
+Emmanuel Mudiay,nyk
 Luke Kornet,nyk
 Tim Hardaway Jr.,nyk
 Isaiah Hicks,nyk
@@ -327,7 +324,6 @@ Michael Beasley,nyk
 Kyle O'Quinn,nyk
 Frank Ntilikina,nyk
 Joakim Noah,nyk
-Doug McDermott,nyk
 Damyean Dotson,nyk
 Trey Burke,nyk
 Ron Baker,nyk
@@ -352,7 +348,6 @@ Patrick Patterson,okc
 Aaron Gordon,orl
 Jamel Artis,orl
 Jonathan Isaac,orl
-Elfrid Payton,orl
 Arron Afflalo,orl
 Marreese Speights,orl
 Shelvin Mack,orl
@@ -384,7 +379,7 @@ Robert Covington,phi
 Trevor Booker,phi
 Marquese Chriss,phx
 Devin Booker,phx
-Isaiah Canaan,phx
+Elfrid Payton,phx
 Jared Dudley,phx
 Tyson Chandler,phx
 Tyler Ulis,phx
@@ -410,22 +405,22 @@ Al-Farouq Aminu,por
 Jake Layman,por
 Meyers Leonard,por
 Ed Davis,por
-Noah Vonleh,por
 CJ Wilcox,por
 Jusuf Nurkic,por
 Zach Collins,por
 Caleb Swanigan,por
 Willie Cauley-Stein,sac
-George Hill,sac
+Joe Johnson,sac
 De'Aaron Fox,sac
 Skal Labissiere,sac
 Bogdan Bogdanovic,sac
+Iman Shumpert,sac
 Frank Mason,sac
 Georgios Papagiannis,sac
 Vince Carter,sac
 Garrett Temple,sac
 Harry Giles,sac
-Malachi Richardson,sac
+Bruno Caboclo,sac
 Buddy Hield,sac
 Justin Jackson,sac
 JaKarr Sampson,sac
@@ -452,12 +447,12 @@ Joffrey Lauvergne,sas
 CJ Miles,tor
 OG Anunoby,tor
 Lorenzo Brown,tor
-Bruno Caboclo,tor
 Kyle Lowry,tor
 Serge Ibaka,tor
 DeMar DeRozan,tor
 Malcolm Miller,tor
 Jonas Valanciunas,tor
+Malachi Richardson,tor
 Fred VanVleet,tor
 Norman Powell,tor
 Alfonzo McKinnie,tor
@@ -465,10 +460,10 @@ Jakob Poeltl,tor
 Pascal Siakam,tor
 Delon Wright,tor
 Lucas Nogueira,tor
+Derrick Rose,uta
+Jae Crowder,uta
 Joe Ingles,uta
 Ricky Rubio,uta
-Rodney Hood,uta
-Joe Johnson,uta
 Jonas Jerebko,uta
 Alec Burks,uta
 Dante Exum,uta
@@ -488,7 +483,6 @@ Bradley Beal,was
 Markieff Morris,was
 Devin Robinson,was
 Tim Frazier,was
-Sheldon Mac,was
 Kelly Oubre Jr.,was
 Marcin Gortat,was
 Jason Smith,was
