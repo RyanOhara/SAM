@@ -1,6 +1,5 @@
 Player,Team
 Tyler Dorsey,atl
-Marco Belinelli,atl
 Andrew White,atl
 Malcolm Delaney,atl
 Ersan Ilyasova,atl
@@ -77,7 +76,6 @@ Ryan Arcidiacono,chi
 Paul Zipser,chi
 Cameron Payne,chi
 Lauri Markkanen,chi
-Tony Allen,chi
 Noah Vonleh,chi
 Kris Dunn,chi
 Robin Lopez,chi
@@ -105,7 +103,6 @@ Dwight Powell,dal
 Kyle Collinsworth,dal
 Dorian Finney-Smith,dal
 Yogi Ferrell,dal
-Josh McRoberts,dal
 Doug McDermott,dal
 Jalen Jones,dal
 Wesley Matthews,dal
@@ -245,7 +242,6 @@ Ben McLemore,mem
 Dillon Brooks,mem
 Chandler Parsons,mem
 Marc Gasol,mem
-Brandan Wright,mem
 Josh Richardson,mia
 Wayne Ellington,mia
 Dwyane Wade,mia
@@ -300,12 +296,10 @@ DeMarcus Cousins,nop
 Ian Clark,nop
 Nikola Mirotic,nop
 Charles Cooke,nop
-Mike James,nop
 Rajon Rondo,nop
 Jrue Holiday,nop
 Cheick Diallo,nop
 Frank Jackson,nop
-Rashad Vaughn,nop
 Darius Miller,nop
 Anthony Davis,nop
 DeAndre Liggins,nop
@@ -410,11 +404,11 @@ Jusuf Nurkic,por
 Zach Collins,por
 Caleb Swanigan,por
 Willie Cauley-Stein,sac
-Joe Johnson,sac
+Iman Shumpert,sac
 De'Aaron Fox,sac
+Joe Johnson,sac
 Skal Labissiere,sac
 Bogdan Bogdanovic,sac
-Iman Shumpert,sac
 Frank Mason,sac
 Georgios Papagiannis,sac
 Vince Carter,sac
