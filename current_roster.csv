@@ -133,7 +133,6 @@ Reggie Jackson,det
 Luke Kennard,det
 Stanley Johnson,det
 Henry Ellenson,det
-James Ennis III,det
 Langston Galloway,det
 Ish Smith,det
 Dwight Buycks,det
@@ -142,6 +141,7 @@ Blake Griffin,det
 Eric Moreland,det
 Reggie Bullock,det
 Jon Leuer,det
+James Ennis III,det
 Reggie Hearn,det
 Jameer Nelson,det
 Anthony Tolliver,det
@@ -176,6 +176,7 @@ Clint Capela,hou
 Chinanu Onuaku,hou
 Markel Brown,hou
 Tarik Black,hou
+Brandan Wright,hou
 Ryan Anderson,hou
 Nene,hou
 Alex Poythress,ind
@@ -363,6 +364,7 @@ Dario Saric,phi
 Demetrius Jackson,phi
 T.J. McConnell,phi
 JJ Redick,phi
+Marco Belinelli,phi
 Markelle Fultz,phi
 Joel Embiid,phi
 Richaun Holmes,phi
@@ -406,11 +408,9 @@ Caleb Swanigan,por
 Willie Cauley-Stein,sac
 Iman Shumpert,sac
 De'Aaron Fox,sac
-Joe Johnson,sac
 Skal Labissiere,sac
 Bogdan Bogdanovic,sac
 Frank Mason,sac
-Georgios Papagiannis,sac
 Vince Carter,sac
 Garrett Temple,sac
 Harry Giles,sac
@@ -454,8 +454,6 @@ Jakob Poeltl,tor
 Pascal Siakam,tor
 Delon Wright,tor
 Lucas Nogueira,tor
-Derrick Rose,uta
-Jae Crowder,uta
 Joe Ingles,uta
 Ricky Rubio,uta
 Jonas Jerebko,uta
@@ -471,6 +469,7 @@ Rudy Gobert,uta
 Georges Niang,uta
 Ekpe Udoh,uta
 Donovan Mitchell,uta
+Jae Crowder,uta
 Chris McCullough,was
 John Wall,was
 Bradley Beal,was

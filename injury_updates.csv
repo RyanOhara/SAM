@@ -1,39 +1,43 @@
 Date,Pos,Player,Team,Injury,Expected Return
+02/13/18,SG,Patrick McCaw,GS,Wrist,Game Time Decision
 02/12/18,PF,LaMarcus Aldridge,SA,Knee,Expected to be out until at least Feb 23
+02/12/18,SG,Justin Anderson,PHI,Ankle,Game Time Decision
 02/12/18,SF,Carmelo Anthony,OKC,Ankle,Game Time Decision
+02/12/18,PG,Lonzo Ball,LAL,Knee,Game Time Decision
 02/12/18,PG,J.J. Barea,DAL,Rest,Game Time Decision
+02/12/18,SG,Marco Belinelli,PHI,Coach's Decision,Game Time Decision
 02/12/18,SG,Devin Booker,PHO,Hip,Expected to be out until at least Feb 14
+02/12/18,PG,Lorenzo Brown,TOR,Ankle,Game Time Decision
+02/12/18,PG,Matthew Dellavedova,MIL,Ankle,Expected to be out until at least Mar 1
 02/12/18,PG,Kris Dunn,CHI,Concussion,Expected to be out until at least Feb 14
 02/12/18,PF,Draymond Green,GS,Finger,Expected to be out until at least Feb 14
-02/12/18,PF,John Henson,MIL,Hamstring,Game Time Decision
+02/12/18,PF,John Henson,MIL,Hamstring,Expected to be out until at least Feb 15
+02/12/18,SF,Rondae Hollis-Jefferson,BKN,Groin,Expected to be out until at least Feb 22
+02/12/18,PG,Demetrius Jackson,PHI,Hip,Game Time Decision
+02/12/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Feb 28
+02/12/18,SG,Joe Johnson,SAC,Coach's Decision,Game Time Decision
+02/12/18,SG,Caris LeVert,BKN,Knee,Expected to be out until at least Feb 22
+02/12/18,SG,DeAndre Liggins,NO,Thigh,Game Time Decision
 02/12/18,SG,Wesley Matthews,DAL,Back,Game Time Decision
-02/12/18,SG,Patrick McCaw,GS,Thumb,Game Time Decision
-02/12/18,PF,Johnathan Motley,DAL,Ankle,Game Time Decision
+02/12/18,C,Salah Mejri,DAL,Neck,Game Time Decision
 02/12/18,PF,Dirk Nowitzki,DAL,Ankle,Game Time Decision
 02/12/18,C,Kelly Olynyk,MIA,Shoulder,Expected to be out until at least Feb 23
-02/12/18,PF,Zhou Qi,HOU,Elbow,Game Time Decision
-02/12/18,PG,Ricky Rubio,UTA,Hip,Game Time Decision
+02/12/18,PG,Ricky Rubio,UTA,Hip,Expected to be out until at least Feb 14
 02/12/18,SF,Tomas Satoransky,WAS,Head,Game Time Decision
+02/12/18,PG,Tyler Ulis,PHO,Back,Expected to be out until at least Feb 14
 02/12/18,PG,Russell Westbrook,OKC,Ankle,Game Time Decision
+02/12/18,PF,Brandan Wright,HOU,Coach's Decision,Expected to be out until at least Feb 14
 02/11/18,SF,OG Anunoby,TOR,Ankle,Game Time Decision
 02/11/18,SG,Trevor Ariza,HOU,Hamstring,Game Time Decision
-02/11/18,SG,Marco Belinelli,ATL,Not Injury Related,Game Time Decision
 02/11/18,SF,Bruno Caboclo,SAC,Coach's Decision,Expected to be out until at least Feb 13
 02/11/18,PF,Aaron Gordon,ORL,Hip,Expected to be out until at least Feb 14
-02/11/18,SF,Rondae Hollis-Jefferson,BKN,Groin,Expected to be out until at least Feb 14
 02/11/18,PF,Jonathan Isaac,ORL,Ankle,Expected to be out until at least Feb 22
-02/11/18,PG,Demetrius Jackson,PHI,Hip,Game Time Decision
-02/11/18,SG,Caris LeVert,BKN,Knee,Expected to be out until at least Feb 14
 02/11/18,PF,TJ Leaf,IND,Calf,Game Time Decision
 02/11/18,SF,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Feb 23
 02/11/18,PF,Markieff Morris,WAS,Illness,Game Time Decision
-02/11/18,PG,Dejounte Murray,SA,Ankle,Game Time Decision
 02/11/18,C,Jusuf Nurkic,POR,Back,Game Time Decision
-02/11/18,PG,Tony Parker,SA,Back,Game Time Decision
 02/11/18,SG,Iman Shumpert,SAC,Foot,Expected to be out until at least Feb 22
-02/11/18,PG,Tyler Ulis,PHO,Back,Game Time Decision
 02/11/18,C,Nikola Vucevic,ORL,Hand,Expected to be out until at least Feb 14
-02/11/18,PF,Brandan Wright,MEM,Coach's Decision,Game Time Decision
 02/10/18,C,Deyonta Davis,MEM,Knee,Expected to be out until at least Feb 14
 02/10/18,PG,Jawun Evans,LAC,Abdomen,Expected to be out until at least Feb 14
 02/10/18,PG,Tim Frazier,WAS,Face,Game Time Decision
@@ -41,7 +45,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 02/10/18,SF,Chandler Parsons,MEM,Knee,Expected to be out until at least Feb 14
 02/10/18,SG,Wayne Selden Jr.,MEM,Knee,Expected to be out until at least Feb 14
 02/10/18,SG,C.J. Williams,LAC,Ankle,Expected to be out until at least Feb 14
-02/09/18,PG,Lonzo Ball,LAL,Knee,Expected to be out until at least Feb 14
 02/09/18,PG,Reggie Jackson,DET,Ankle,Expected to be out until at least Mar 5
 02/09/18,C,Joakim Noah,NY,Personal,Expected to be out until at least Feb 26
 02/08/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Feb 23
@@ -53,12 +56,10 @@ Date,Pos,Player,Team,Injury,Expected Return
 02/07/18,PF,Paul Millsap,DEN,Wrist,Expected to be out until at least Mar 2
 02/07/18,C,Mason Plumlee,DEN,Calf,Expected to be out until at least Feb 23
 02/06/18,SG,Seth Curry,DAL,Lower Leg,Out for the season
-02/06/18,PG,Matthew Dellavedova,MIL,Ankle,Expected to be out until at least Feb 27
 02/06/18,PF,Kristaps Porzingis,NY,Knee,Out for the season
 02/06/18,SG,Glenn Robinson III,IND,Ankle,Expected to be out until at least Feb 23
 02/05/18,SG,Ron Baker,NY,Shoulder,Out for the season
 02/05/18,PG,Darren Collison,IND,Knee,Expected to be out until at least Feb 26
-02/04/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Feb 12
 02/04/18,PG,Shane Larkin,BOS,Knee,Expected to be out until at least Feb 23
 02/04/18,C,Nerlens Noel,DAL,Thumb,Expected to be out until at least Feb 23
 02/04/18,PG,Marcus Smart,BOS,Hand,Expected to be out until at least Feb 23
