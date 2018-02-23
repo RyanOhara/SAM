@@ -1,4 +1,5 @@
 Player,Team
+Antonius Cleveland,atl
 Tyler Dorsey,atl
 Andrew White,atl
 Malcolm Delaney,atl
@@ -93,6 +94,7 @@ LeBron James,cle
 Larry Nance Jr.,cle
 Kyle Korver,cle
 Jeff Green,cle
+Marcus Thornton,cle
 Ante Zizic,cle
 Jose Calderon,cle
 Dennis Smith Jr.,dal
@@ -310,6 +312,7 @@ Solomon Hill,nop
 Emeka Okafor,nop
 E'Twaun Moore,nop
 Enes Kanter,nyk
+Troy Williams,nyk
 Emmanuel Mudiay,nyk
 Luke Kornet,nyk
 Tim Hardaway Jr.,nyk
@@ -407,10 +410,10 @@ Jusuf Nurkic,por
 Zach Collins,por
 Caleb Swanigan,por
 Willie Cauley-Stein,sac
+Iman Shumpert,sac
 De'Aaron Fox,sac
 Skal Labissiere,sac
 Bogdan Bogdanovic,sac
-Iman Shumpert,sac
 Frank Mason,sac
 Vince Carter,sac
 Garrett Temple,sac
