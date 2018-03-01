@@ -1,6 +1,7 @@
 Player,Team
 Antonius Cleveland,atl
 Tyler Dorsey,atl
+Jaylen Morris,atl
 Andrew White III,atl
 Malcolm Delaney,atl
 Josh Magette,atl
@@ -217,7 +218,6 @@ Boban Marjanovic,lac
 Kyle Kuzma,lal
 Kentavious Caldwell-Pope,lal
 Lonzo Ball,lal
-Corey Brewer,lal
 Alex Caruso,lal
 Josh Hart,lal
 Isaiah Thomas,lal
@@ -373,6 +373,7 @@ Marco Belinelli,phi
 Markelle Fultz,phi
 Joel Embiid,phi
 Richaun Holmes,phi
+Ersan Ilyasova,phi
 Ben Simmons,phi
 Furkan Korkmaz,phi
 Robert Covington,phi
