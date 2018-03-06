@@ -1,5 +1,12 @@
 Date,Pos,Player,Team,Injury,Expected Return
 03/06/18,SF,Carmelo Anthony,OKC,Rest,Game Time Decision
+03/06/18,SG,Avery Bradley,LAC,Groin,Game Time Decision
+03/06/18,SG,Wayne Ellington,MIA,Quadriceps,Game Time Decision
+03/06/18,PG,Jawun Evans,LAC,Abdomen,Expected to be out until at least Mar 9
+03/06/18,SF,Maurice Harkless,POR,Knee,Game Time Decision
+03/06/18,PG,Shaun Livingston,GS,Rest,Game Time Decision
+03/06/18,SG,Wesley Matthews,DAL,Hip,Expected to be out until at least Mar 10
+03/06/18,PF,Marvin Williams,CHA,Head,Game Time Decision
 03/05/18,SG,Justin Anderson,PHI,Ankle,Game Time Decision
 03/05/18,PF,Ryan Anderson,HOU,Hip,Expected to be out until at least Mar 7
 03/05/18,SF,OG Anunoby,TOR,Ankle,Expected to be out until at least Mar 7
@@ -16,12 +23,10 @@ Date,Pos,Player,Team,Injury,Expected Return
 03/05/18,SG,Troy Daniels,PHO,Knee,Expected to be out until at least Mar 8
 03/05/18,PG,Malcolm Delaney,ATL,Ankle,Expected to be out until at least Mar 9
 03/05/18,PG,Matthew Dellavedova,MIL,Ankle,Expected to be out until at least Mar 7
-03/05/18,SG,Wayne Ellington,MIA,Quadriceps,Expected to be out until at least Mar 6
 03/05/18,PG,Dante Exum,UTA,Shoulder,Expected to be out until at least Mar 9
 03/05/18,PF,Derrick Favors,UTA,Neck,Expected to be out until at least Mar 7
 03/05/18,C,Channing Frye,LAL,Abdomen,Game Time Decision
 03/05/18,PF,Pau Gasol,SA,Shoulder,Game Time Decision
-03/05/18,SF,Maurice Harkless,POR,Knee,Expected to be out until at least Mar 6
 03/05/18,SG,Andrew Harrison,MEM,Wrist,Expected to be out until at least Mar 12
 03/05/18,SG,Justin Holiday,CHI,Coach's Decision,Expected to be out until at least Mar 7
 03/05/18,SF,Brandon Ingram,LAL,Groin,Expected to be out until at least Mar 11
@@ -30,7 +35,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 03/05/18,SG,Joe Johnson,HOU,Illness,Expected to be out until at least Mar 7
 03/05/18,C,Robin Lopez,CHI,Coach's Decision,Expected to be out until at least Mar 7
 03/05/18,PF,Jarell Martin,MEM,Knee,Expected to be out until at least Mar 7
-03/05/18,SG,Wesley Matthews,DAL,Hip,Game Time Decision
 03/05/18,SG,Ben McLemore,MEM,Personal,Expected to be out until at least Mar 7
 03/05/18,C,Emeka Okafor,NO,Ankle,Game Time Decision
 03/05/18,SF,Kelly Oubre,WAS,Foot,Game Time Decision
@@ -40,8 +44,6 @@ Date,Pos,Player,Team,Injury,Expected Return
 03/05/18,PF,Brandan Wright,HOU,Knee,Expected to be out until at least Mar 7
 03/05/18,C,Tyler Zeller,MIL,Hip,Expected to be out until at least Mar 7
 03/05/18,SF,Paul Zipser,CHI,Foot,Expected to be out until at least Mar 7
-03/04/18,SF,Dwayne Bacon,CHA,Illness,Expected to be out until at least Mar 6
-03/04/18,SG,Avery Bradley,LAC,Groin,Expected to be out until at least Mar 6
 03/04/18,C,Willie Cauley-Stein,SAC,Back,Expected to be out until at least Mar 7
 03/04/18,PF,Tyler Cavanaugh,ATL,Ankle,Game Time Decision
 03/04/18,PG,Tyreke Evans,MEM,Ribs,Expected to be out until at least Mar 7
@@ -53,12 +55,10 @@ Date,Pos,Player,Team,Injury,Expected Return
 03/03/18,SF,Solomon Hill,NO,Hamstring,Expected to be out until at least Mar 9
 03/02/18,SF,Danilo Gallinari,LAC,Hand,Expected to be out until at least Mar 16
 03/02/18,SG,Josh Hart,LAL,Hand,Expected to be out until at least Mar 30
-03/02/18,PG,Shaun Livingston,GS,Rest,Expected to be out until at least Mar 6
 03/01/18,PG,Malcolm Brogdon,MIL,Quadriceps,Expected to be out until at least Mar 29
 03/01/18,PG,Markelle Fultz,PHI,Shoulder,Expected to be out until at least Mar 8
 03/01/18,PG,Frank Jackson,NO,Foot,Expected to be out until at least Mar 15
 03/01/18,PF,Mirza Teletovic,MIL,Illness,Expected to be out until at least Apr 1
-02/26/18,PG,Jawun Evans,LAC,Abdomen,Expected to be out until at least Mar 6
 02/26/18,SF,Kawhi Leonard,SA,Quadriceps,Expected to be out until at least Mar 25
 02/24/18,SG,Jimmy Butler,MIN,Knee,Expected to be out until at least Mar 24
 02/24/18,PF,Kevin Love,CLE,Hand,Expected to be out until at least Mar 20
