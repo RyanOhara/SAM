@@ -126,8 +126,12 @@ def update_team_stats():
 
     for index, row in updates.iterrows():
         team = row['Team']
+        if '*' in team:
+            bteam = team.split('*')[0].strip()
+        else:
+            bteam = team
         #print(team)
-        base_rph = base.loc[base['Team'] == team]
+        base_rph = base.loc[base['Team'] == bteam]
         base_pace = float(base_rph.iloc[0]['Pace'])
         base_ortg = float(base_rph.iloc[0]['Ortg'])
         base_drtg = float(base_rph.iloc[0]['Drtg'])
