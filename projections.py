@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from stat_updates import *
 from datetime import datetime, timedelta
 
-DATE = datetime.today().strftime('%m/%d/%Y') #(datetime.today() - timedelta(days=1)).strftime('%m/%d/%Y')
+DATE =  datetime.today().strftime('%m/%d/%Y') #(datetime.today() - timedelta(days=1)).strftime('%m/%d/%Y') #
 
 def find_abrv(d, key):
     abrv = ''
