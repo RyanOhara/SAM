@@ -106,7 +106,7 @@ def update_injuries():
         #print(row['Player'] +", " + row['Expected Return'])
         player = row['Player'].replace("'", "").replace(' Jr.', '').replace(' III', '').replace('.', '').replace(' II', '')
         #print(player)
-        status = row['Expected Return']
+        status = row['Injury Status']
 
         if 'out' in status or 'Out' in status:
             BASE.loc[BASE['Player'].replace("'", "").replace(' Jr.', '').replace('.', '').replace(' III', '').replace(' II', '').str.contains(player.replace("'", "").replace(' Jr.', '').replace('.', '').replace(' III', '').replace(' II', '')) == True, 'Playing'] = 0
