@@ -1,83 +1,75 @@
 Team,Player,Pos,Injury,Injury Status
+DAL,Dirk Nowitzki,PF,Knee,Game Time Decision
+CHI,Kris Dunn,PG,Toe,Game Time Decision
+MIL,Giannis Antetokounmpo,PF,Ankle,Game Time Decision
+NO,Nikola Mirotic,PF,Hip,Game Time Decision
+GS,Omri Casspi,SF,Ankle,Game Time Decision
+LAL,Isaiah Thomas,PG,Hip,Expected to be out until at least Mar 28
+GS,Klay Thompson,SG,Thumb,Game Time Decision
+GS,Stephen Curry,PG,Knee,Game Time Decision
+CHA,Cody Zeller,C,Knee,Game Time Decision
+MIL,Matthew Dellavedova,PG,Ankle,Expected to be out until at least Mar 25
+UTA,Tony Bradley,C,Concussion,Game Time Decision
+PHI,Markelle Fultz,PG,Shoulder,Expected to be out until at least Mar 30
+CHI,Lauri Markkanen,PF,Back,Expected to be out until at least Mar 27
+CHI,Paul Zipser,SF,Undisclosed,Game Time Decision
+LAL,Brandon Ingram,SF,Groin,Expected to be out until at least Mar 26
+PHO,T.J. Warren,SF,Knee,Expected to be out until at least Mar 26
+PHO,Devin Booker,SG,Hand,Game Time Decision
+BOS,Jaylen Brown,SG,Concussion,Game Time Decision
+MIN,Jimmy Butler,SG,Knee,Expected to be out until at least Mar 30
+GS,Draymond Green,PF,Abdomen,Game Time Decision
+CLE,Jeff Green,PF,Illness,Game Time Decision
+CLE,Kyle Korver,SG,Personal,Expected to be out until at least Mar 27
+TOR,C.J. Miles,SF,Illness,Game Time Decision
+SAC,Zach Randolph,PF,Illness,Game Time Decision
+NO,Rajon Rondo,PG,Wrist,Expected to be out until at least Mar 27
+GS,Kevin Durant,SF,Ribs,Game Time Decision
+CLE,Cedi Osman,SF,Hip,Expected to be out until at least Mar 25
 ATL,DeAndre' Bembry,SF,Abdomen,Expected to be out until at least Mar 25
-LAL,Brandon Ingram,SF,Groin,Game Time Decision
-BOS,Kyrie Irving,PG,Knee,Expected to be out until at least Apr 11
-HOU,James Harden,SG,Ankle,Game Time Decision
-GS,Omri Casspi,SF,Ankle,Expected to be out until at least Mar 25
 HOU,a Moute  Luc Mbah a Moute,SF,Knee,Expected to be out until at least Mar 25
 MIN,Derrick Rose,PG,Ankle,Expected to be out until at least Mar 26
-UTA,Tony Bradley,C,Concussion,Game Time Decision
-CLE,Jr.  Larry Nance Jr.,PF,Hamstring,Game Time Decision
 ORL,Jonathon Simmons,SF,Wrist,Game Time Decision
-UTA,Rodney Hood,SG,Back,Game Time Decision
+CHA,Malik Monk,SG,Hand,Game Time Decision
+ATL,Malcolm Delaney,PG,Ankle,Expected to be out until at least Mar 25
+IND,Domantas Sabonis,C,Ankle,Expected to be out until at least Mar 25
+BOS,Kyrie Irving,PG,Knee,Expected to be out until at least Apr 11
+ORL,Jonathan Isaac,PF,Foot,Game Time Decision
 MEM,Andrew Harrison,SG,Wrist,Game Time Decision
 ATL,Antonius Cleveland,SG,Ankle,Expected to be out until at least Mar 25
-IND,Domantas Sabonis,C,Ankle,Expected to be out until at least Mar 25
-MIL,Giannis Antetokounmpo,PF,Ankle,Expected to be out until at least Mar 25
-WAS,Mike Scott,PF,Illness,Game Time Decision
-CLE,Cedi Osman,SF,Hip,Expected to be out until at least Mar 25
-CHA,Nicolas Batum,SF,Achilles,Game Time Decision
-WAS,Jodie Meeks,SG,Illness,Game Time Decision
-TOR,C.J. Miles,SF,Illness,Game Time Decision
-HOU,Chris Paul,PG,Hamstring,Game Time Decision
-DEN,Paul Millsap,PF,Illness,Game Time Decision
-ORL,Jonathan Isaac,PF,Foot,Game Time Decision
-ATL,Malcolm Delaney,PG,Ankle,Expected to be out until at least Mar 25
-CLE,Tristan Thompson,C,Ankle,Game Time Decision
-ATL,John Collins,PF,Ankle,Game Time Decision
-MIA,Dwyane Wade,SG,Hamstring,Game Time Decision
-CLE,Kyle Korver,SG,Personal,Expected to be out until at least Mar 25
-NY,Lance Thomas,SF,Personal,Expected to be out until at least Mar 25
-CHI,Lauri Markkanen,PF,Back,Game Time Decision
-BOS,Jaylen Brown,SG,Concussion,Expected to be out until at least Mar 25
-GS,Kevin Durant,SF,Ribs,Expected to be out until at least Mar 25
-GS,Draymond Green,PF,Abdomen,Expected to be out until at least Mar 25
-CHA,Dwight Howard,C,Suspension,Expected to be out until at least Mar 24
-CHA,Cody Zeller,C,Knee,Expected to be out until at least Mar 24
-CHI,Kris Dunn,PG,Toe,Expected to be out until at least Mar 24
-POR,Jusuf Nurkic,C,Back,Game Time Decision
-SAC,Zach Randolph,PF,Illness,Expected to be out until at least Mar 25
-MIA,Hassan Whiteside,C,Hip,Expected to be out until at least Mar 25
-MEM,Marc Gasol,C,Rest,Expected to be out until at least Mar 24
-SAC,Iman Shumpert,SG,Foot,Expected to be out until at least Mar 25
-CHA,Malik Monk,SG,Hand,Game Time Decision
-SA,Kawhi Leonard,SF,Quadriceps,Expected to be out until at least Mar 25
-CHI,Paul Zipser,SF,Undisclosed,Game Time Decision
-MEM,Chandler Parsons,SF,Rest,Expected to be out until at least Mar 24
-POR,Evan Turner,SF,Back,Game Time Decision
-CHI,Antonio Blakeney,SG,Wrist,Out for the season
-TOR,Malachi Richardson,SG,Wrist,Game Time Decision
-GS,Klay Thompson,SG,Thumb,Expected to be out until at least Mar 25
-PHO,T.J. Warren,SF,Knee,Game Time Decision
-CHI,Zach LaVine,PG,Knee,Expected to be out until at least Mar 27
-LAL,Brook Lopez,C,Back,Game Time Decision
-SAC,Garrett Temple,SF,Ankle,Expected to be out until at least Mar 25
-NY,Joakim Noah,C,Coach's Decision,Out for the season
-PHI,Markelle Fultz,PG,Shoulder,Expected to be out until at least Mar 24
-PHO,Tyson Chandler,C,Neck,Expected to be out until at least Mar 30
-PHO,Devin Booker,SG,Hand,Game Time Decision
-LAC,Danilo Gallinari,SF,Hand,Expected to be out until at least Mar 27
-CHI,Robin Lopez,C,Coach's Decision,Game Time Decision
-PHO,Alan Williams,PF,Knee,Expected to be out until at least Mar 26
 PHI,Timothe Luwawu-Cabarrot,SG,Knee,Game Time Decision
+HOU,Chris Paul,PG,Hamstring,Game Time Decision
+MEM,Ivan Rabb,PF,Heel,Expected to be out until at least Mar 26
+CHA,Nicolas Batum,SF,Achilles,Game Time Decision
+HOU,James Harden,SG,Ankle,Game Time Decision
+SAC,Iman Shumpert,SG,Foot,Expected to be out until at least Mar 25
+TOR,Malachi Richardson,SG,Wrist,Game Time Decision
+NY,Lance Thomas,SF,Personal,Expected to be out until at least Mar 25
+MIA,Hassan Whiteside,C,Hip,Expected to be out until at least Mar 25
+SA,Kawhi Leonard,SF,Quadriceps,Expected to be out until at least Mar 25
+CHI,Antonio Blakeney,SG,Wrist,Out for the season
+NY,Joakim Noah,C,Coach's Decision,Out for the season
+PHO,Tyson Chandler,C,Neck,Expected to be out until at least Mar 30
+SAC,Garrett Temple,SF,Ankle,Expected to be out until at least Mar 25
+CHI,Zach LaVine,PG,Knee,Expected to be out until at least Mar 27
+LAC,Danilo Gallinari,SF,Hand,Expected to be out until at least Mar 27
 MIL,Malcolm Brogdon,PG,Quadriceps,Expected to be out until at least Apr 1
-ORL,Evan Fournier,SG,Knee,Expected to be out until at least Mar 30
-MIL,Matthew Dellavedova,PG,Ankle,Expected to be out until at least Mar 23
+PHO,Alan Williams,PF,Knee,Expected to be out until at least Mar 26
 WAS,John Wall,PG,Knee,Expected to be out until at least Mar 25
+ORL,Evan Fournier,SG,Knee,Expected to be out until at least Mar 30
 ORL,Terrence Ross,SG,Knee,Expected to be out until at least Mar 30
 DEN,Gary Harris,SG,Knee,Expected to be out until at least Mar 26
 NO,Frank Jackson,PG,Foot,Out for the season
 BOS,Marcus Smart,PG,Thumb,Expected to be out until at least Apr 20
 ATL,Kent Bazemore,SG,Knee,Out for the season
 LAC,Avery Bradley,SG,Groin,Out for the season
-BOS,Daniel Theis,PF,Knee,Out for the season
 BOS,Gordon Hayward,SF,Ankle,Expected to be out until at least May 1
-DAL,Wesley Matthews,SG,Leg,Out for the season
 ATL,Jaylen Morris,G,Ankle,Expected to be out until at least Mar 28
+DAL,Wesley Matthews,SG,Leg,Out for the season
 UTA,Raul Neto,PG,Wrist,Expected to be out until at least Mar 30
+BOS,Daniel Theis,PF,Knee,Out for the season
 CHA,Michael Carter-Williams,PG,Shoulder,Out for the season
 LAL,Josh Hart,SG,Hand,Expected to be out until at least Mar 30
-MIN,Jimmy Butler,SG,Knee,Expected to be out until at least Mar 24
 NY,Kristaps Porzingis,PF,Knee,Out for the season
 DAL,Seth Curry,SG,Lower Leg,Out for the season
 NY,Ron Baker,SG,Shoulder,Out for the season
