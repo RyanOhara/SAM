@@ -66,6 +66,7 @@ Julyan Stone,cha
 Cody Zeller,cha
 Willy Hernangomez,cha
 Frank Kaminsky,cha
+Jaylen Johnson,chi
 Jerian Grant,chi
 Omer Asik,chi
 Bobby Portis,chi
@@ -112,7 +113,6 @@ Doug McDermott,dal
 Jalen Jones,dal
 Wesley Matthews,dal
 Seth Curry,dal
-Jameel Warney,dal
 Harrison Barnes,dal
 Dirk Nowitzki,dal
 Maxi Kleber,dal
@@ -173,6 +173,7 @@ RJ Hunter,hou
 Chris Paul,hou
 PJ Tucker,hou
 Joe Johnson,hou
+Le'Bryan Nash,hou
 Zhou Qi,hou
 Eric Gordon,hou
 Luc Mbah a Moute,hou
@@ -182,7 +183,6 @@ Clint Capela,hou
 Chinanu Onuaku,hou
 Markel Brown,hou
 Tarik Black,hou
-Brandan Wright,hou
 Ryan Anderson,hou
 Nene,hou
 Alex Poythress,ind
@@ -235,6 +235,7 @@ Gary Payton II,lal
 Julius Randle,lal
 Thomas Bryant,lal
 Ivica Zubac,lal
+Marquis Teague,mem
 JaMychal Green,mem
 Jarell Martin,mem
 Kobi Simmons,mem
@@ -352,8 +353,8 @@ Josh Huestis,okc
 PJ Dozier,okc
 Dakari Johnson,okc
 Patrick Patterson,okc
-Jamel Artis,orl
 Aaron Gordon,orl
+Jamel Artis,orl
 Jonathan Isaac,orl
 Arron Afflalo,orl
 Marreese Speights,orl
@@ -365,7 +366,6 @@ Bismack Biyombo,orl
 D.J. Augustin,orl
 Rodney Purvis,orl
 Jonathon Simmons,orl
-Rashad Vaughn,orl
 Khem Birch,orl
 Wes Iwundu,orl
 Terrence Ross,orl
@@ -471,7 +471,6 @@ Delon Wright,tor
 Lucas Nogueira,tor
 Joe Ingles,uta
 Ricky Rubio,uta
-David Stockton,uta
 Jonas Jerebko,uta
 Alec Burks,uta
 Dante Exum,uta
@@ -483,6 +482,7 @@ Royce O'Neale,uta
 Raul Neto,uta
 Rudy Gobert,uta
 Georges Niang,uta
+David Stockton,uta
 Ekpe Udoh,uta
 Donovan Mitchell,uta
 Jae Crowder,uta
