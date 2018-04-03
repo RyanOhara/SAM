@@ -1,88 +1,93 @@
 Team,Player,Pos,Injury,Injury Status
-LAL,Luol Deng,SF,Ankle,Expected to be out until at least Apr 15
+PHO,T.J. Warren,SF,Knee,Expected to be out until at least Apr 6
+ORL,Elfrid Payton,PG,Knee,Expected to be out until at least Apr 6
 GS,Omri Casspi,SF,Ankle,Expected to be out until at least Apr 5
-MIL,Matthew Dellavedova,PG,Ankle,Expected to be out until at least Apr 5
+CLE,Kevin Love,PF,Illness,Game Time Decision
+BKN,Isaiah Whitehead,SG,Wrist,Out for the season
+GS,Kevon Looney,SF,Illness,Expected to be out until at least Apr 5
 SAC,George Hill,PG,Ankle,Expected to be out until at least Apr 5
+MIL,Matthew Dellavedova,PG,Ankle,Expected to be out until at least Apr 5
+DAL,Nerlens Noel,C,Suspension,Out for the season
 MIL,Malcolm Brogdon,PG,Quadriceps,Expected to be out until at least Apr 5
+CHI,Denzel Valentine,SF,Knee,Out for the season
+BKN,Allen Crabbe,SG,Illness,Game Time Decision
+BOS,Shane Larkin,PG,Illness,Expected to be out until at least Apr 4
 BOS,Gordon Hayward,SF,Ankle,Out for the season
+PHO,Alex Len,C,Ankle,Expected to be out until at least Apr 6
+CHA,Nicolas Batum,SF,Achilles,Game Time Decision
+PHO,Devin Booker,SG,Hand,Expected to be out until at least Apr 6
+GS,Shaun Livingston,PG,Personal,Expected to be out until at least Apr 5
+ORL,Jonathan Isaac,PF,Ankle,Expected to be out until at least Apr 4
+GS,Andre Iguodala,SG,Knee,Expected to be out until at least Apr 5
+LAL,Luol Deng,SF,Ankle,Expected to be out until at least Apr 15
 BOS,Daniel Theis,PF,Knee,Out for the season
-ORL,Elfrid Payton,PG,Knee,Game Time Decision
-BOS,Terry Rozier,PG,Ankle,Game Time Decision
+CLE,Kyle Korver,SG,Foot,Game Time Decision
+LAL,Lonzo Ball,PG,Knee,Expected to be out until at least Apr 4
+UTA,Thabo Sefolosha,SF,Suspension,Out for the season
+LAL,Brandon Ingram,SF,Concussion,Expected to be out until at least Apr 4
+UTA,Raul Neto,PG,Wrist,Game Time Decision
+PHI,Timothe Luwawu-Cabarrot,SG,Knee,Game Time Decision
+MIL,Thon Maker,C,Groin,Game Time Decision
+DAL,Salah Mejri,C,Knee,Game Time Decision
+DET,III  James Ennis III,SF,Hand,Game Time Decision
+ATL,Jaylen Morris,G,Ankle,Expected to be out until at least Apr 4
+DAL,Dirk Nowitzki,PF,Ankle,Game Time Decision
+GS,Patrick McCaw,SG,Back,Expected to be out until at least Apr 7
+LAC,Jawun Evans,PG,Abdomen,Out for the season
+ORL,Terrence Ross,SG,Knee,Expected to be out until at least Apr 9
+MEM,JaMychal Green,PF,Knee,Game Time Decision
+CHI,Paul Zipser,SF,Foot,Expected to be out until at least Apr 6
+DAL,Dwight Powell,C,Knee,Game Time Decision
+PHI,Dario Saric,PF,Elbow,Expected to be out until at least Apr 4
+BOS,Marcus Smart,PG,Thumb,Expected to be out until at least Apr 28
+CHI,Zach LaVine,PG,Knee,Out for the season
 ATL,DeAndre' Bembry,SF,Abdomen,Game Time Decision
 MEM,Andrew Harrison,SG,Wrist,Game Time Decision
-CHI,Zach LaVine,PG,Knee,Out for the season
+BOS,Terry Rozier,PG,Ankle,Game Time Decision
 ATL,Antonius Cleveland,SG,Ankle,Game Time Decision
-UTA,Raul Neto,PG,Wrist,Game Time Decision
-DAL,Dirk Nowitzki,PF,Ankle,Game Time Decision
-ORL,Terrence Ross,SG,Knee,Expected to be out until at least Apr 9
-CHA,Jeremy Lamb,SG,Foot,Game Time Decision
-DET,III  James Ennis III,SF,Hand,Game Time Decision
-BOS,Shane Larkin,PG,Illness,Expected to be out until at least Apr 6
-DAL,Dwight Powell,C,Knee,Game Time Decision
-PHO,Alex Len,C,Ankle,Game Time Decision
-MEM,JaMychal Green,PF,Knee,Game Time Decision
-BOS,Marcus Smart,PG,Thumb,Expected to be out until at least Apr 28
-NY,Troy Williams,SF,Jaw,Out for the season
-CHI,Paul Zipser,SF,Foot,Expected to be out until at least Apr 6
-MIL,Thon Maker,C,Groin,Game Time Decision
-LAL,Lonzo Ball,PG,Knee,Game Time Decision
-ORL,Jonathan Isaac,PF,Ankle,Game Time Decision
-ATL,Jaylen Morris,G,Ankle,Expected to be out until at least Apr 4
-LAC,Jawun Evans,PG,Abdomen,Out for the season
-PHI,Timothe Luwawu-Cabarrot,SG,Knee,Game Time Decision
-LAL,Brandon Ingram,SF,Concussion,Expected to be out until at least Apr 4
-BKN,Isaiah Whitehead,SG,Wrist,Expected to be out until at least Apr 5
-PHO,Devin Booker,SG,Hand,Game Time Decision
-PHO,T.J. Warren,SF,Knee,Game Time Decision
-GS,Kevon Looney,SF,Illness,Game Time Decision
-GS,Patrick McCaw,SG,Back,Expected to be out until at least Apr 7
-DAL,Salah Mejri,C,Knee,Game Time Decision
 ORL,Jonathon Simmons,SF,Wrist,Expected to be out until at least Apr 4
-PHI,Dario Saric,PF,Elbow,Expected to be out until at least Apr 4
+NY,Troy Williams,SF,Jaw,Out for the season
 CHI,Kris Dunn,PG,Toe,Out for the season
-MEM,Brooks,SG,Ankle,Game Time Decision
+CHA,Jeremy Lamb,SG,Foot,Game Time Decision
 PHO,Jared Dudley,SF,Ankle,Game Time Decision
-GS,Kevin Durant,SF,Ribs,Game Time Decision
-NY,Michael Beasley,PF,Illness,Game Time Decision
-LAL,Brook Lopez,C,Back,Game Time Decision
-GS,Klay Thompson,SG,Thumb,Game Time Decision
 MIN,Jimmy Butler,SG,Knee,Game Time Decision
-DEN,Wilson Chandler,SF,Nose,Game Time Decision
-DAL,J.J. Barea,PG,Personal,Game Time Decision
-SAC,Zach Randolph,PF,Personal,Game Time Decision
-PHO,Tyson Chandler,C,Neck,Expected to be out until at least Apr 8
-HOU,Nene,C,Back,Game Time Decision
-CLE,Kyle Korver,SG,Foot,Game Time Decision
-HOU,Chris Paul,PG,Hip,Game Time Decision
-GS,Andre Iguodala,SG,Knee,Game Time Decision
-MIN,Jeff Teague,PG,Knee,Game Time Decision
-SAC,Iman Shumpert,SG,Foot,Game Time Decision
-LAC,Avery Bradley,SG,Groin,Expected to be out until at least Apr 24
+MEM,Brooks,SG,Ankle,Game Time Decision
+NY,Michael Beasley,PF,Illness,Game Time Decision
 SAC,Garrett Temple,SF,Ankle,Game Time Decision
+MIN,Jeff Teague,PG,Knee,Game Time Decision
 SA,Kawhi Leonard,SF,Quadriceps,Expected to be out until at least Apr 4
+LAC,Avery Bradley,SG,Groin,Expected to be out until at least Apr 24
+DEN,Wilson Chandler,SF,Nose,Game Time Decision
+HOU,Chris Paul,PG,Hip,Game Time Decision
+HOU,Nene,C,Back,Game Time Decision
+PHO,Tyson Chandler,C,Neck,Expected to be out until at least Apr 8
 MEM,Tyreke Evans,PG,Personal,Game Time Decision
-CHA,Cody Zeller,C,Knee,Out for the season
-SAC,Skal Labissiere,PF,Ankle,Game Time Decision
-NY,Courtney Lee,SG,Foot,Game Time Decision
+LAL,Brook Lopez,C,Back,Game Time Decision
+DAL,J.J. Barea,PG,Personal,Game Time Decision
+SAC,Iman Shumpert,SG,Foot,Game Time Decision
+SAC,Zach Randolph,PF,Personal,Game Time Decision
 CHA,Treveon Graham,SG,Concussion,Expected to be out until at least Apr 8
+NY,Courtney Lee,SG,Foot,Game Time Decision
+SAC,Skal Labissiere,PF,Ankle,Game Time Decision
+NY,Enes Kanter,C,Back,Game Time Decision
 NY,Frank Ntilikina,PG,Illness,Game Time Decision
 CHA,Dwayne Bacon,SF,Ankle,Expected to be out until at least Apr 8
-NY,Enes Kanter,C,Back,Game Time Decision
+CHA,Cody Zeller,C,Knee,Out for the season
 TOR,Malachi Richardson,SG,Wrist,Game Time Decision
-PHI,Joel Embiid,C,Eye,Expected to be out until at least Apr 14
 POR,Ed Davis,PF,Ankle,Expected to be out until at least Apr 7
-ATL,Dennis Schroder,PG,Ankle,Out for the season
-ATL,Malcolm Delaney,PG,Ankle,Expected to be out until at least Apr 4
-DEN,Gary Harris,SG,Knee,Expected to be out until at least Apr 5
+PHI,Joel Embiid,C,Eye,Expected to be out until at least Apr 14
 LAC,Milos Teodosic,PG,Foot,Expected to be out until at least Apr 13
+ATL,Dennis Schroder,PG,Ankle,Out for the season
+DEN,Gary Harris,SG,Knee,Expected to be out until at least Apr 5
+ATL,Malcolm Delaney,PG,Ankle,Expected to be out until at least Apr 4
 DET,Blake Griffin,PF,Ankle,Expected to be out until at least Apr 6
 LAL,Isaiah Thomas,PG,Hip,Out for the season
+ORL,Evan Fournier,SG,Knee,Expected to be out until at least Apr 11
 POR,Maurice Harkless,SF,Knee,Expected to be out until at least Apr 15
 DAL,Wesley Matthews,SG,Lower Leg,Out for the season
-ORL,Evan Fournier,SG,Knee,Expected to be out until at least Apr 11
 NO,Alexis Ajinca,C,Knee,Out for the season
-BOS,Kyrie Irving,PG,Knee,Expected to be out until at least Apr 21
 GS,Stephen Curry,PG,Knee,Expected to be out until at least Apr 14
+BOS,Kyrie Irving,PG,Knee,Expected to be out until at least Apr 21
 CHI,Antonio Blakeney,SG,Wrist,Out for the season
 NY,Joakim Noah,C,Coach's Decision,Out for the season
 NO,Frank Jackson,PG,Foot,Out for the season
@@ -98,7 +103,6 @@ DEN,Tyler Lydon,PF,Knee,Expected to be out until at least May 25
 MIA,Dion Waiters,SG,Ankle,Out for the season
 DET,Jon Leuer,PF,Ankle,Out for the season
 SAC,Harry Giles,PF,Knee,Out for the season
-UTA,Thabo Sefolosha,SF,Knee,Out for the season
 LAC,Patrick Beverley,PG,Knee,Out for the season
 PHO,Brandon Knight,PG,Knee,Out for the season
 BKN,Jeremy Lin,PG,Knee,Out for the season
